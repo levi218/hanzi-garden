@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "brand": "node scripts/build-brand-assets.mjs",
+    "font": "node scripts/build-hanzi-font.mjs"
   },
   "dependencies": {
     "next": "16.3.0",
@@ -20,6 +23,8 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.3.0",
+    "hanzi-writer-data": "^2.0.1",
+    "subset-font": "^2.6.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

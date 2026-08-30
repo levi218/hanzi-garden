@@ -1,26 +1,134 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/*
+ * The hanzi fallback font's @font-face rule deliberately does NOT live here —
+ * see components/HanziFontProbe.tsx for why it is injected at runtime instead.
+ * `--font-hanzi` below still ends with the family name, so the rule takes
+ * effect the moment the probe adds it.
+ */
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+:root {
+  /* Warm paper palette */
+  --background: #fbf6ee;
+  --background-deep: #f3ead9;
+  --card: #fffdfa;
+  --card-soft: #f8f1e5;
+  --foreground: #1d1813;
+  --muted: #7a6a58;
+  --line: #e8dcc7;
+  --seal: #c0442f;
+  --seal-soft: #f6e3dd;
+  --gold: #b8862b;
+  --jade: #2f7d5d;
+  --indigo: #4f46e5;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #14110d;
+    --background-deep: #0d0b08;
+    --card: #1e1a15;
+    --card-soft: #262019;
+    --foreground: #f2ebe0;
+    --muted: #a2947f;
+    --line: #332b21;
+    --seal: #f08a6c;
+    --seal-soft: #40241c;
+    --gold: #e0ac4c;
+    --jade: #6fc79c;
+    --indigo: #a5b4fc;
   }
 }
 
+@theme inline {
+  --color-background: var(--background);
+  --color-background-deep: var(--background-deep);
+  --color-card: var(--card);
+  --color-card-soft: var(--card-soft);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-seal: var(--seal);
+  --color-seal-soft: var(--seal-soft);
+  --color-gold: var(--gold);
+  --color-jade: var(--jade);
+  --color-indigo: var(--indigo);
+
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+  --font-hanzi: "Noto Sans SC", "Noto Sans CJK SC", "Source Han Sans SC",
+    "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei",
+    "WenQuanYi Micro Hei", "SimHei", "Hanzi Garden SC", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  background: var(--background);
+  background-color: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  background-image:
+    radial-gradient(
+      circle at 12% -10%,
+      color-mix(in oklab, var(--gold) 16%, transparent),
+      transparent 45%
+    ),
+    radial-gradient(
+      circle at 92% 0%,
+      color-mix(in oklab, var(--seal) 14%, transparent),
+      transparent 42%
+    );
+  background-attachment: fixed;
+}
+
+/* Faint woven-paper texture, used on hero + poem surfaces */
+.texture-paper {
+  background-image:
+    repeating-linear-gradient(
+      45deg,
+      color-mix(in oklab, var(--foreground) 3%, transparent) 0 1px,
+      transparent 1px 7px
+    ),
+    repeating-linear-gradient(
+      -45deg,
+      color-mix(in oklab, var(--foreground) 2%, transparent) 0 1px,
+      transparent 1px 9px
+    );
+}
+
+::selection {
+  background: color-mix(in oklab, var(--seal) 28%, transparent);
+}
+
+/* Focus ring that reads on both themes */
+:focus-visible {
+  outline: 2px solid var(--seal);
+  outline-offset: 2px;
+  border-radius: 0.35rem;
+}
+
+@keyframes riseIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.rise-in {
+  animation: riseIn 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .rise-in {
+    animation: none;
+  }
 }

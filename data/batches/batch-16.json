@@ -1,0 +1,678 @@
+[
+  {
+    "char": "云",
+    "pinyin": "yún",
+    "hsk": 3,
+    "strokes": 4,
+    "radical": "二",
+    "meanings": [
+      {"pos": "noun", "def": "cloud"},
+      {"pos": "noun", "def": "(informal) the cloud, cloud computing"}
+    ],
+    "components": [
+      {"part": "云", "pinyin": "yún", "meaning": "an ancient picture of swirling, rising vapor"}
+    ],
+    "compositionNote": "云 is itself an ancient pictograph showing wisps of cloud curling upward, too simple to be split into further parts.",
+    "words": [
+      {"word": "白云", "pinyin": "bái yún", "meaning": "white cloud"},
+      {"word": "乌云", "pinyin": "wū yún", "meaning": "dark cloud"},
+      {"word": "云彩", "pinyin": "yún cai", "meaning": "clouds (colorful)"}
+    ],
+    "poem": [
+      "Swirling wisps with no thread spun,",
+      "drifting lazy past the sun,",
+      "puffy shapes that float and roam —",
+      "that's a CLOUD (yún), the sky's own foam."
+    ]
+  },
+  {
+    "char": "张",
+    "pinyin": "zhāng",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "弓",
+    "meanings": [
+      {"pos": "measure word", "def": "for flat objects: paper, tickets, tables"},
+      {"pos": "verb", "def": "to open, stretch, spread out"},
+      {"pos": "noun", "def": "surname Zhang"}
+    ],
+    "components": [
+      {"part": "弓", "pinyin": "gōng", "meaning": "a bow (for shooting arrows)"},
+      {"part": "长", "pinyin": "cháng", "meaning": "long; also a phonetic hint for the sound zhāng"}
+    ],
+    "compositionNote": "A bow (弓) drawn out long (长) shows a bowstring being stretched wide open, giving both the meaning 'to open' and the sound zhāng.",
+    "words": [
+      {"word": "一张纸", "pinyin": "yī zhāng zhǐ", "meaning": "a piece of paper"},
+      {"word": "张开", "pinyin": "zhāng kāi", "meaning": "to open up"},
+      {"word": "紧张", "pinyin": "jǐn zhāng", "meaning": "nervous; tense"}
+    ],
+    "poem": [
+      "A bow (弓) drawn long (长), string pulled tight,",
+      "it opens wide with all its might,",
+      "then counts a sheet, thin and neat —",
+      "to OPEN wide is zhāng (张), complete."
+    ]
+  },
+  {
+    "char": "重",
+    "pinyin": "zhòng",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "里",
+    "meanings": [
+      {"pos": "adj", "def": "heavy"},
+      {"pos": "adv", "def": "again, once more (read chóng, as in 重复)"},
+      {"pos": "verb", "def": "to value, attach importance to"}
+    ],
+    "components": [
+      {"part": "千", "pinyin": "qiān", "meaning": "thousand"},
+      {"part": "里", "pinyin": "lǐ", "meaning": "village; also a unit of distance (Chinese mile)"}
+    ],
+    "compositionNote": "Picture a thousand (千) miles (里) of road piled onto your shoulders — that crushing load is what makes something 重, 'heavy'.",
+    "words": [
+      {"word": "重要", "pinyin": "zhòng yào", "meaning": "important"},
+      {"word": "体重", "pinyin": "tǐ zhòng", "meaning": "body weight"},
+      {"word": "重复", "pinyin": "chóng fù", "meaning": "to repeat"}
+    ],
+    "poem": [
+      "A thousand (千) miles (里) upon your back,",
+      "weigh you down along the track,",
+      "such a load makes shoulders bend —",
+      "that's HEAVY (zhòng), a weight without end."
+    ]
+  },
+  {
+    "char": "主",
+    "pinyin": "zhǔ",
+    "hsk": 3,
+    "strokes": 5,
+    "radical": "丶",
+    "meanings": [
+      {"pos": "noun", "def": "owner, host, master"},
+      {"pos": "adj", "def": "main, primary"},
+      {"pos": "noun", "def": "Lord, God (religious)"}
+    ],
+    "components": [
+      {"part": "主", "pinyin": "zhǔ", "meaning": "a picture of a flame burning steadily atop a lampstand"}
+    ],
+    "compositionNote": "主 originally drew a lamp flame fixed on its stand — the steady flame that a household's master keeps tending, hence 'main' and 'host'.",
+    "words": [
+      {"word": "主要", "pinyin": "zhǔ yào", "meaning": "main, primary"},
+      {"word": "主人", "pinyin": "zhǔ rén", "meaning": "host, owner"},
+      {"word": "公主", "pinyin": "gōng zhǔ", "meaning": "princess"}
+    ],
+    "poem": [
+      "A flame (主) atop its steady stand,",
+      "burns bright to light the master's hand,",
+      "the one who tends it rules the room —",
+      "the MAIN one, zhǔ (主), dispels the gloom."
+    ]
+  },
+  {
+    "char": "注",
+    "pinyin": "zhù",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "氵",
+    "meanings": [
+      {"pos": "verb", "def": "to pour; to concentrate (attention)"},
+      {"pos": "noun", "def": "annotation, note"},
+      {"pos": "verb", "def": "to register"}
+    ],
+    "components": [
+      {"part": "氵", "pinyin": "shuǐ", "meaning": "water"},
+      {"part": "主", "pinyin": "zhǔ", "meaning": "master, main; also a phonetic hint for zhù"}
+    ],
+    "compositionNote": "Water (氵) poured exactly where the master (主) points gives 注 its sense of 'pouring' and, by extension, 'focusing attention'.",
+    "words": [
+      {"word": "注意", "pinyin": "zhù yì", "meaning": "to pay attention"},
+      {"word": "注册", "pinyin": "zhù cè", "meaning": "to register"},
+      {"word": "关注", "pinyin": "guān zhù", "meaning": "to follow closely, care about"}
+    ],
+    "poem": [
+      "Water (氵) poured where the master (主) points,",
+      "focus flows and never disjoints,",
+      "pour your mind where eyes are true —",
+      "PAY ATTENTION, that is zhù (注)."
+    ]
+  },
+  {
+    "char": "自",
+    "pinyin": "zì",
+    "hsk": 3,
+    "strokes": 6,
+    "radical": "自",
+    "meanings": [
+      {"pos": "pronoun", "def": "self, oneself"},
+      {"pos": "preposition", "def": "from (as in 自从)"}
+    ],
+    "components": [
+      {"part": "自", "pinyin": "zì", "meaning": "a picture of a human nose"}
+    ],
+    "compositionNote": "自 was originally a drawing of a nose — ancient Chinese speakers pointed at their nose to mean 'me', so the nose came to mean 'self'.",
+    "words": [
+      {"word": "自己", "pinyin": "zì jǐ", "meaning": "oneself"},
+      {"word": "自然", "pinyin": "zì rán", "meaning": "nature; naturally"},
+      {"word": "自从", "pinyin": "zì cóng", "meaning": "since (a certain time)"}
+    ],
+    "poem": [
+      "A nose (自) drawn plain, a pointing sign,",
+      "for 'me' the Chinese touch this line,",
+      "when speaking of your very own —",
+      "that's SELF (zì), the nose you call your throne."
+    ]
+  },
+  {
+    "char": "己",
+    "pinyin": "jǐ",
+    "hsk": 3,
+    "strokes": 3,
+    "radical": "己",
+    "meanings": [
+      {"pos": "pronoun", "def": "oneself, one's own"}
+    ],
+    "components": [
+      {"part": "己", "pinyin": "jǐ", "meaning": "originally a picture of a coiled cord or thread"}
+    ],
+    "compositionNote": "己 first drew a bent, coiled cord; the shape was later borrowed purely for its sound to mean 'oneself'.",
+    "words": [
+      {"word": "自己", "pinyin": "zì jǐ", "meaning": "oneself"},
+      {"word": "知己", "pinyin": "zhī jǐ", "meaning": "close friend, confidant"},
+      {"word": "克己", "pinyin": "kè jǐ", "meaning": "self-restraint"}
+    ],
+    "poem": [
+      "A coiled thread (己), twisted small,",
+      "lent its shape to 'self' for all,",
+      "look inward, find your own true face —",
+      "that's jǐ (己), SELF in every place."
+    ]
+  },
+  {
+    "char": "总",
+    "pinyin": "zǒng",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "心",
+    "meanings": [
+      {"pos": "adv", "def": "always, invariably"},
+      {"pos": "adj", "def": "general, overall, chief (as in 总经理)"},
+      {"pos": "verb", "def": "to gather, sum up, total"}
+    ],
+    "components": [
+      {"part": "丷", "pinyin": "bā", "meaning": "a pair of dividing strokes, suggesting many separate things"},
+      {"part": "心", "pinyin": "xīn", "meaning": "heart, mind"}
+    ],
+    "compositionNote": "总 simplifies the traditional 總 (silk 糸 plus the phonetic 悤); the surviving 心 (heart) at the base suggests many separate thoughts (丷) gathered into one overall whole.",
+    "words": [
+      {"word": "总是", "pinyin": "zǒng shì", "meaning": "always"},
+      {"word": "总共", "pinyin": "zǒng gòng", "meaning": "altogether, in total"},
+      {"word": "总经理", "pinyin": "zǒng jīng lǐ", "meaning": "general manager"}
+    ],
+    "poem": [
+      "Split thoughts (丷) gathered to the heart (心),",
+      "summed up whole, no loose part,",
+      "add them ALWAYS, every one —",
+      "that's the meaning, zǒng (总), all as one."
+    ]
+  },
+  {
+    "char": "嘴",
+    "pinyin": "zuǐ",
+    "hsk": 3,
+    "strokes": 16,
+    "radical": "口",
+    "meanings": [
+      {"pos": "noun", "def": "mouth"},
+      {"pos": "noun", "def": "beak (of a bird)"},
+      {"pos": "noun", "def": "spout (of a container)"}
+    ],
+    "components": [
+      {"part": "口", "pinyin": "kǒu", "meaning": "mouth"},
+      {"part": "此", "pinyin": "cǐ", "meaning": "this; here (phonetic hint)"},
+      {"part": "角", "pinyin": "jiǎo", "meaning": "horn (from a bird's beak-like tuft, 觜)"}
+    ],
+    "compositionNote": "嘴 adds a mouth (口) to the older word 觜 (a bird's horn-like beak tuft, made of 此 phonetic + 角 horn), giving 'mouth' its modern character.",
+    "words": [
+      {"word": "嘴巴", "pinyin": "zuǐ ba", "meaning": "mouth"},
+      {"word": "张嘴", "pinyin": "zhāng zuǐ", "meaning": "to open one's mouth"},
+      {"word": "插嘴", "pinyin": "chā zuǐ", "meaning": "to interrupt, butt in"}
+    ],
+    "poem": [
+      "A mouth (口) that says 'this' (此) and more,",
+      "shaped like a bird's horned (角) beak of yore,",
+      "open wide to chew and speak —",
+      "that's your MOUTH (zuǐ), the word you seek."
+    ]
+  },
+  {
+    "char": "刷",
+    "pinyin": "shuā",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "刂",
+    "meanings": [
+      {"pos": "verb", "def": "to brush (e.g. teeth)"},
+      {"pos": "verb", "def": "to swipe (a card, phone, screen)"},
+      {"pos": "noun", "def": "a brush"}
+    ],
+    "components": [
+      {"part": "尸", "pinyin": "shī", "meaning": "a body, torso shape"},
+      {"part": "巾", "pinyin": "jīn", "meaning": "cloth, towel"},
+      {"part": "刂", "pinyin": "dāo", "meaning": "knife"}
+    ],
+    "compositionNote": "A body-shaped frame (尸) holds a cloth (巾) next to a blade-like edge (刂), picturing bristles scraping back and forth — hence 'to brush, to swipe'.",
+    "words": [
+      {"word": "刷牙", "pinyin": "shuā yá", "meaning": "to brush one's teeth"},
+      {"word": "刷卡", "pinyin": "shuā kǎ", "meaning": "to swipe a card"},
+      {"word": "牙刷", "pinyin": "yá shuā", "meaning": "toothbrush"}
+    ],
+    "poem": [
+      "A body's (尸) cloth (巾) cut with a blade (刂),",
+      "scrubbing back and forth it's made,",
+      "bristles sweep in one quick stroke —",
+      "to BRUSH, shuā (刷), like magic woke."
+    ]
+  },
+  {
+    "char": "牙",
+    "pinyin": "yá",
+    "hsk": 3,
+    "strokes": 4,
+    "radical": "牙",
+    "meanings": [
+      {"pos": "noun", "def": "tooth"},
+      {"pos": "noun", "def": "ivory, tusk (as in 象牙)"}
+    ],
+    "components": [
+      {"part": "牙", "pinyin": "yá", "meaning": "a picture of interlocking teeth or tusks"}
+    ],
+    "compositionNote": "牙 is a pictograph of two jagged teeth or tusks meshing together, too basic to break into further parts.",
+    "words": [
+      {"word": "牙齿", "pinyin": "yá chǐ", "meaning": "tooth, teeth"},
+      {"word": "刷牙", "pinyin": "shuā yá", "meaning": "to brush one's teeth"},
+      {"word": "牙膏", "pinyin": "yá gāo", "meaning": "toothpaste"}
+    ],
+    "poem": [
+      "Two jagged shapes (牙) that interlock,",
+      "like tiny teeth set in a rock,",
+      "biting down with sharp array —",
+      "that's a TOOTH, pronounced yá (牙)."
+    ]
+  },
+  {
+    "char": "终",
+    "pinyin": "zhōng",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "纟",
+    "meanings": [
+      {"pos": "noun", "def": "end, ending"},
+      {"pos": "adv", "def": "finally, in the end"},
+      {"pos": "adj", "def": "throughout, the whole (as in 终身)"}
+    ],
+    "components": [
+      {"part": "纟", "pinyin": "sī", "meaning": "silk thread"},
+      {"part": "冬", "pinyin": "dōng", "meaning": "winter; also a phonetic hint for zhōng"}
+    ],
+    "compositionNote": "A skein of silk thread (纟) runs out just as winter (冬) closes the year — both images point to reaching 'the end'.",
+    "words": [
+      {"word": "终于", "pinyin": "zhōng yú", "meaning": "finally, at last"},
+      {"word": "终点", "pinyin": "zhōng diǎn", "meaning": "endpoint, finish line"},
+      {"word": "始终", "pinyin": "shǐ zhōng", "meaning": "from beginning to end, always"}
+    ],
+    "poem": [
+      "A silk thread's (纟) end meets winter's (冬) chill,",
+      "the year runs out, the seasons still,",
+      "at last we reach the final door —",
+      "that's FINALLY, zhōng (终), and nothing more."
+    ]
+  },
+  {
+    "char": "于",
+    "pinyin": "yú",
+    "hsk": 3,
+    "strokes": 3,
+    "radical": "二",
+    "meanings": [
+      {"pos": "preposition", "def": "at, in, on, to, than (formal, as in 关于, 由于)"}
+    ],
+    "components": [
+      {"part": "于", "pinyin": "yú", "meaning": "an ancient character originally depicting a curling breath or sigh"}
+    ],
+    "compositionNote": "于 is a simple ancient form later borrowed purely as a grammatical particle, too basic to be split into meaningful parts.",
+    "words": [
+      {"word": "终于", "pinyin": "zhōng yú", "meaning": "finally"},
+      {"word": "关于", "pinyin": "guān yú", "meaning": "about, regarding"},
+      {"word": "由于", "pinyin": "yóu yú", "meaning": "due to, owing to"}
+    ],
+    "poem": [
+      "A breath (于) curled up and drifting slow,",
+      "an ancient sigh from long ago,",
+      "now marks 'at', 'in', or 'than' with ease —",
+      "that little word is yú (于), if you please."
+    ]
+  },
+  {
+    "char": "遇",
+    "pinyin": "yù",
+    "hsk": 3,
+    "strokes": 12,
+    "radical": "辶",
+    "meanings": [
+      {"pos": "verb", "def": "to meet, encounter (by chance)"},
+      {"pos": "noun", "def": "treatment, opportunity (as in 待遇)"}
+    ],
+    "components": [
+      {"part": "辶", "pinyin": "chuò", "meaning": "to walk, move along a road"},
+      {"part": "禺", "pinyin": "yú", "meaning": "a mythical monkey-like creature (phonetic hint)"}
+    ],
+    "compositionNote": "Walking (辶) along and crossing paths with a strange creature (禺) captures the idea of 'meeting by chance'; 禺 also lends its sound.",
+    "words": [
+      {"word": "遇到", "pinyin": "yù dào", "meaning": "to encounter, run into"},
+      {"word": "相遇", "pinyin": "xiāng yù", "meaning": "to meet each other"},
+      {"word": "待遇", "pinyin": "dài yù", "meaning": "treatment, benefits"}
+    ],
+    "poem": [
+      "While walking (辶) down a winding street,",
+      "a monkey-like (禺) stranger you might meet,",
+      "by chance your paths cross, quick and new —",
+      "that's to MEET someone, yù (遇), it's true."
+    ]
+  },
+  {
+    "char": "般",
+    "pinyin": "bān",
+    "hsk": 3,
+    "strokes": 10,
+    "radical": "舟",
+    "meanings": [
+      {"pos": "adj", "def": "ordinary, general (as in 一般)"},
+      {"pos": "particle", "def": "like, in the manner of (as in 这般, 百般)"}
+    ],
+    "components": [
+      {"part": "舟", "pinyin": "zhōu", "meaning": "boat"},
+      {"part": "殳", "pinyin": "shū", "meaning": "a pole or weapon used to push a boat along"}
+    ],
+    "compositionNote": "A boat (舟) pushed along by a pole (殳) gave the sense of 'a way of doing something' — one manner or kind among many.",
+    "words": [
+      {"word": "一般", "pinyin": "yì bān", "meaning": "ordinary, generally"},
+      {"word": "这般", "pinyin": "zhè bān", "meaning": "in this manner"},
+      {"word": "百般", "pinyin": "bǎi bān", "meaning": "in every possible way"}
+    ],
+    "poem": [
+      "A boat (舟) is poled (殳) from shore to shore,",
+      "each kind of trip, one way or more,",
+      "'like this' or 'such', they mean the same —",
+      "that KIND of way, bān (般) is its name."
+    ]
+  },
+  {
+    "char": "室",
+    "pinyin": "shì",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "宀",
+    "meanings": [
+      {"pos": "noun", "def": "room, chamber"}
+    ],
+    "components": [
+      {"part": "宀", "pinyin": "mián", "meaning": "roof, house"},
+      {"part": "至", "pinyin": "zhì", "meaning": "to arrive (phonetic and semantic: the place one arrives at)"}
+    ],
+    "compositionNote": "A roof (宀) covers the place you arrive (至) at and stay — the innermost room of a house.",
+    "words": [
+      {"word": "教室", "pinyin": "jiào shì", "meaning": "classroom"},
+      {"word": "办公室", "pinyin": "bàn gōng shì", "meaning": "office"},
+      {"word": "卧室", "pinyin": "wò shì", "meaning": "bedroom"}
+    ],
+    "poem": [
+      "Beneath the roof (宀) where you arrive (至),",
+      "a quiet space to rest, alive,",
+      "four walls that hold your work or bed —",
+      "that's a ROOM, shì (室), safe instead."
+    ]
+  },
+  {
+    "char": "夜",
+    "pinyin": "yè",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "夕",
+    "meanings": [
+      {"pos": "noun", "def": "night, evening"}
+    ],
+    "components": [
+      {"part": "亠", "pinyin": "tóu", "meaning": "a cover, roof-like top stroke"},
+      {"part": "亻", "pinyin": "rén", "meaning": "person"},
+      {"part": "夕", "pinyin": "xī", "meaning": "evening, moon"}
+    ],
+    "compositionNote": "A person (亻) settles under a cover (亠) as the moon (夕) rises — the picture of night falling.",
+    "words": [
+      {"word": "夜晚", "pinyin": "yè wǎn", "meaning": "nighttime"},
+      {"word": "半夜", "pinyin": "bàn yè", "meaning": "midnight"},
+      {"word": "夜市", "pinyin": "yè shì", "meaning": "night market"}
+    ],
+    "poem": [
+      "Under a roof (亠), a person (亻) lies,",
+      "as the pale moon (夕) climbs the skies,",
+      "the world grows dark, the stars ignite —",
+      "that quiet time is yè (夜), the NIGHT."
+    ]
+  },
+  {
+    "char": "如",
+    "pinyin": "rú",
+    "hsk": 3,
+    "strokes": 6,
+    "radical": "女",
+    "meanings": [
+      {"pos": "verb", "def": "to be like, to be as if"},
+      {"pos": "conjunction", "def": "if"},
+      {"pos": "preposition", "def": "such as, for example"}
+    ],
+    "components": [
+      {"part": "女", "pinyin": "nǚ", "meaning": "woman"},
+      {"part": "口", "pinyin": "kǒu", "meaning": "mouth"}
+    ],
+    "compositionNote": "A woman's (女) spoken word (口) was once obeyed and followed exactly — giving 如 its sense of 'being like, in accordance with'.",
+    "words": [
+      {"word": "如果", "pinyin": "rú guǒ", "meaning": "if"},
+      {"word": "比如", "pinyin": "bǐ rú", "meaning": "for example"},
+      {"word": "如此", "pinyin": "rú cǐ", "meaning": "like this, so"}
+    ],
+    "poem": [
+      "A woman's (女) mouth (口) says what is true,",
+      "and others act just as she'd do,",
+      "'as if', 'like this' — the meaning's plain —",
+      "that's LIKE, pronounced rú (如), again."
+    ]
+  },
+  {
+    "char": "本",
+    "pinyin": "běn",
+    "hsk": 3,
+    "strokes": 5,
+    "radical": "木",
+    "meanings": [
+      {"pos": "noun", "def": "root, origin, foundation"},
+      {"pos": "measure word", "def": "for books"},
+      {"pos": "adj", "def": "this, the current (as in 本人, 本来)"}
+    ],
+    "components": [
+      {"part": "木", "pinyin": "mù", "meaning": "tree"},
+      {"part": "一", "pinyin": "yī", "meaning": "a mark showing the base of the tree"}
+    ],
+    "compositionNote": "A single line (一) drawn across the base of a tree (木) points to its roots — the 'origin' or 'foundation' of the thing.",
+    "words": [
+      {"word": "本来", "pinyin": "běn lái", "meaning": "originally"},
+      {"word": "书本", "pinyin": "shū běn", "meaning": "books"},
+      {"word": "一本书", "pinyin": "yī běn shū", "meaning": "a book"}
+    ],
+    "poem": [
+      "A tree (木) marked low with a single line (一),",
+      "right at the root, the base, the sign,",
+      "where all things start, the very ground —",
+      "that's the ROOT, běn (本), origin found."
+    ]
+  },
+  {
+    "char": "梯",
+    "pinyin": "tī",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "木",
+    "meanings": [
+      {"pos": "noun", "def": "ladder, stairs"}
+    ],
+    "components": [
+      {"part": "木", "pinyin": "mù", "meaning": "wood"},
+      {"part": "弟", "pinyin": "dì", "meaning": "younger brother (phonetic hint for tī)"}
+    ],
+    "compositionNote": "Ladders were made of wood (木); the little brother (弟) here mainly lends its sound to give tī.",
+    "words": [
+      {"word": "楼梯", "pinyin": "lóu tī", "meaning": "stairs"},
+      {"word": "电梯", "pinyin": "diàn tī", "meaning": "elevator"},
+      {"word": "扶梯", "pinyin": "fú tī", "meaning": "escalator"}
+    ],
+    "poem": [
+      "Made of wood (木), your brother (弟) climbs,",
+      "step by step, one rung at a time,",
+      "up and up to reach the sky —",
+      "that's a LADDER, tī (梯), so high."
+    ]
+  },
+  {
+    "char": "灯",
+    "pinyin": "dēng",
+    "hsk": 3,
+    "strokes": 6,
+    "radical": "火",
+    "meanings": [
+      {"pos": "noun", "def": "lamp, light"}
+    ],
+    "components": [
+      {"part": "火", "pinyin": "huǒ", "meaning": "fire"},
+      {"part": "丁", "pinyin": "dīng", "meaning": "nail; a small peg (phonetic hint)"}
+    ],
+    "compositionNote": "A small flame (火) fixed on a peg-like stand (丁, also lending its sound) pictures a lamp.",
+    "words": [
+      {"word": "灯光", "pinyin": "dēng guāng", "meaning": "lighting"},
+      {"word": "台灯", "pinyin": "tái dēng", "meaning": "desk lamp"},
+      {"word": "红绿灯", "pinyin": "hóng lǜ dēng", "meaning": "traffic light"}
+    ],
+    "poem": [
+      "A tiny flame (火) on a nail-like (丁) stand,",
+      "glowing warm within your hand,",
+      "chasing shadows, giving sight —",
+      "that's a LAMP, dēng (灯), bringing light."
+    ]
+  },
+  {
+    "char": "地",
+    "pinyin": "dì",
+    "hsk": 3,
+    "strokes": 6,
+    "radical": "土",
+    "meanings": [
+      {"pos": "noun", "def": "earth, ground, land"},
+      {"pos": "particle", "def": "adverbial suffix '-ly', pronounced de (as in 慢慢地)"}
+    ],
+    "components": [
+      {"part": "土", "pinyin": "tǔ", "meaning": "earth, soil"},
+      {"part": "也", "pinyin": "yě", "meaning": "also (phonetic hint for dì)"}
+    ],
+    "compositionNote": "Soil (土) paired with the sound-bearing 也 gives 地, the solid ground beneath everything.",
+    "words": [
+      {"word": "地方", "pinyin": "dì fang", "meaning": "place"},
+      {"word": "地铁", "pinyin": "dì tiě", "meaning": "subway"},
+      {"word": "慢慢地", "pinyin": "màn màn de", "meaning": "slowly"}
+    ],
+    "poem": [
+      "The soil (土) below, and 'also' (也) too,",
+      "combine to form the ground for you,",
+      "where feet stand firm and roots take hold —",
+      "that's the EARTH, called dì (地), so old."
+    ]
+  },
+  {
+    "char": "铁",
+    "pinyin": "tiě",
+    "hsk": 3,
+    "strokes": 10,
+    "radical": "钅",
+    "meanings": [
+      {"pos": "noun", "def": "iron"},
+      {"pos": "adj", "def": "hard, unyielding (figurative, as in 铁的事实)"}
+    ],
+    "components": [
+      {"part": "钅", "pinyin": "jīn", "meaning": "metal"},
+      {"part": "失", "pinyin": "shī", "meaning": "to lose (phonetic hint for tiě)"}
+    ],
+    "compositionNote": "Metal (钅) combines with the sound-bearing 失 to name 铁, iron — a metal too tough to lose its shape.",
+    "words": [
+      {"word": "地铁", "pinyin": "dì tiě", "meaning": "subway"},
+      {"word": "铁路", "pinyin": "tiě lù", "meaning": "railway"},
+      {"word": "钢铁", "pinyin": "gāng tiě", "meaning": "steel, iron"}
+    ],
+    "poem": [
+      "A metal (钅) core that's hard to lose (失),",
+      "strong and firm, the sort you'd choose,",
+      "tracks and tools of gray-black gleam —",
+      "that's IRON, tiě (铁), a sturdy dream."
+    ]
+  },
+  {
+    "char": "弄",
+    "pinyin": "nòng",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "廾",
+    "meanings": [
+      {"pos": "verb", "def": "to do, make, handle, play with (as in 弄坏, 弄清楚)"},
+      {"pos": "noun", "def": "alley, lane (read lòng, as in 弄堂)"}
+    ],
+    "components": [
+      {"part": "王", "pinyin": "wáng", "meaning": "jade (form of 玉 used as a component)"},
+      {"part": "廾", "pinyin": "gǒng", "meaning": "two hands joined together"}
+    ],
+    "compositionNote": "Two hands (廾) turning over a piece of jade (王, from 玉) pictured 'playing with' or 'handling' something.",
+    "words": [
+      {"word": "弄坏", "pinyin": "nòng huài", "meaning": "to break, ruin something"},
+      {"word": "弄清楚", "pinyin": "nòng qīng chu", "meaning": "to clarify, get clear on"},
+      {"word": "玩弄", "pinyin": "wán nòng", "meaning": "to play with, toy with"}
+    ],
+    "poem": [
+      "Two hands (廾) hold jade (王) up to the light,",
+      "turning, twisting, left then right,",
+      "to fiddle, fix, or make it new —",
+      "that's TO HANDLE, nòng (弄), what you do."
+    ]
+  },
+  {
+    "char": "按",
+    "pinyin": "àn",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "扌",
+    "meanings": [
+      {"pos": "verb", "def": "to press (with the hand)"},
+      {"pos": "preposition", "def": "according to, based on (as in 按照)"}
+    ],
+    "components": [
+      {"part": "扌", "pinyin": "shǒu", "meaning": "hand"},
+      {"part": "安", "pinyin": "ān", "meaning": "peace, safety (phonetic hint for àn)"}
+    ],
+    "compositionNote": "A hand (扌) pressing down brings things to rest in peace (安) — the image behind 'to press' and 'to follow (a rule)'.",
+    "words": [
+      {"word": "按照", "pinyin": "àn zhào", "meaning": "according to"},
+      {"word": "按钮", "pinyin": "àn niǔ", "meaning": "button"},
+      {"word": "按时", "pinyin": "àn shí", "meaning": "on time"}
+    ],
+    "poem": [
+      "A hand (扌) brings peace (安) with gentle force,",
+      "pressing down along its course,",
+      "push the button, calm and true —",
+      "that's to PRESS, àn (按), it's up to you."
+    ]
+  }
+]

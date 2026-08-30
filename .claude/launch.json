@@ -1,0 +1,27 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "dev",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "next",
+        "dev",
+        "--port",
+        "3197"
+      ],
+      "port": 3197
+    },
+    {
+      "name": "static-site",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "serve",
+        "out",
+        "-p",
+        "3199"
+      ],
+      "port": 3199
+    }
+  ]
+}

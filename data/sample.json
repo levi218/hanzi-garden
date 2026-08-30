@@ -1,0 +1,55 @@
+[
+  {
+    "char": "好",
+    "pinyin": "hǎo",
+    "hsk": 1,
+    "strokes": 6,
+    "radical": "女",
+    "meanings": [
+      { "pos": "adj", "def": "good; well; fine" },
+      { "pos": "adv", "def": "very; quite (intensifier)" }
+    ],
+    "components": [
+      { "part": "女", "pinyin": "nǚ", "meaning": "woman" },
+      { "part": "子", "pinyin": "zǐ", "meaning": "child" }
+    ],
+    "compositionNote": "A woman (女) beside her child (子) — the ancient picture of all being good and well.",
+    "words": [
+      { "word": "你好", "pinyin": "nǐ hǎo", "meaning": "hello" },
+      { "word": "好吃", "pinyin": "hǎo chī", "meaning": "delicious" },
+      { "word": "好人", "pinyin": "hǎo rén", "meaning": "good person" }
+    ],
+    "poem": [
+      "A mother and her child,",
+      "together, reconciled —",
+      "when woman meets with son,",
+      "then GOOD (hǎo) has begun!"
+    ]
+  },
+  {
+    "char": "明",
+    "pinyin": "míng",
+    "hsk": 1,
+    "strokes": 8,
+    "radical": "日",
+    "meanings": [
+      { "pos": "adj", "def": "bright; clear" },
+      { "pos": "noun", "def": "tomorrow (as in 明天); next" }
+    ],
+    "components": [
+      { "part": "日", "pinyin": "rì", "meaning": "sun" },
+      { "part": "月", "pinyin": "yuè", "meaning": "moon" }
+    ],
+    "compositionNote": "Sun (日) and moon (月) side by side — the two brightest things in the sky make BRIGHT.",
+    "words": [
+      { "word": "明天", "pinyin": "míng tiān", "meaning": "tomorrow" },
+      { "word": "明白", "pinyin": "míng bai", "meaning": "to understand" }
+    ],
+    "poem": [
+      "The sun brings the day,",
+      "the moon brings the night,",
+      "put them together —",
+      "míng shines BRIGHT!"
+    ]
+  }
+]

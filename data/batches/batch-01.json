@@ -1,0 +1,930 @@
+[
+  {
+    "char": "一",
+    "pinyin": "yī",
+    "hsk": 1,
+    "strokes": 1,
+    "radical": "一",
+    "meanings": [
+      {"pos": "number", "def": "one"},
+      {"pos": "adv", "def": "(before a verb, as in 一...就...) as soon as; once"}
+    ],
+    "components": [
+      {"part": "一", "pinyin": "yī", "meaning": "a single horizontal stroke"}
+    ],
+    "compositionNote": "The simplest possible mark — one unbroken line — pictographically stands for the number one itself.",
+    "words": [
+      {"word": "一个", "pinyin": "yí gè", "meaning": "one (item/person)"},
+      {"word": "一起", "pinyin": "yì qǐ", "meaning": "together"},
+      {"word": "一样", "pinyin": "yí yàng", "meaning": "the same"}
+    ],
+    "poem": [
+      "One flat line upon the ground,",
+      "the very first count ever found.",
+      "No bend, no curve, just plain and true,",
+      "ONE (yī) is the stroke where numbers grew."
+    ]
+  },
+  {
+    "char": "二",
+    "pinyin": "èr",
+    "hsk": 1,
+    "strokes": 2,
+    "radical": "二",
+    "meanings": [
+      {"pos": "number", "def": "two"}
+    ],
+    "components": [
+      {"part": "二", "pinyin": "èr", "meaning": "two stacked horizontal strokes"}
+    ],
+    "compositionNote": "Simply two parallel lines stacked one above the other, doubling the single stroke of 一 to picture 'two'.",
+    "words": [
+      {"word": "二月", "pinyin": "èr yuè", "meaning": "February"},
+      {"word": "第二", "pinyin": "dì èr", "meaning": "second (ordinal)"},
+      {"word": "二十", "pinyin": "èr shí", "meaning": "twenty"}
+    ],
+    "poem": [
+      "Two flat lines, stacked up neat,",
+      "doubling one to make a pair complete.",
+      "Sky on top, the ground below,",
+      "TWO (èr) is how the counting starts to grow."
+    ]
+  },
+  {
+    "char": "三",
+    "pinyin": "sān",
+    "hsk": 1,
+    "strokes": 3,
+    "radical": "一",
+    "meanings": [
+      {"pos": "number", "def": "three"}
+    ],
+    "components": [
+      {"part": "三", "pinyin": "sān", "meaning": "three stacked horizontal strokes"}
+    ],
+    "compositionNote": "One more line stacked on 二 gives three parallel strokes, simply counting one higher.",
+    "words": [
+      {"word": "三月", "pinyin": "sān yuè", "meaning": "March"},
+      {"word": "三个", "pinyin": "sān gè", "meaning": "three (items)"},
+      {"word": "第三", "pinyin": "dì sān", "meaning": "third"}
+    ],
+    "poem": [
+      "Add one more line atop the two,",
+      "now three flat strokes come into view.",
+      "Heaven, man, and earth in a row,",
+      "THREE (sān) is the trio, steady and slow."
+    ]
+  },
+  {
+    "char": "四",
+    "pinyin": "sì",
+    "hsk": 1,
+    "strokes": 5,
+    "radical": "囗",
+    "meanings": [
+      {"pos": "number", "def": "four"}
+    ],
+    "components": [
+      {"part": "囗", "pinyin": "wéi", "meaning": "an enclosure; a boundary"},
+      {"part": "儿", "pinyin": "ér", "meaning": "legs of a person"}
+    ],
+    "compositionNote": "A pair of legs (儿) fenced inside a boundary (囗) replaced the four tally-lines of oracle-bone script to write the number four.",
+    "words": [
+      {"word": "四个", "pinyin": "sì gè", "meaning": "four (items)"},
+      {"word": "四月", "pinyin": "sì yuè", "meaning": "April"},
+      {"word": "星期四", "pinyin": "xīng qī sì", "meaning": "Thursday"}
+    ],
+    "poem": [
+      "Legs tucked inside a fenced-in square,",
+      "a boxed-in strider, penned in there.",
+      "Four tally lines once stood in a row,",
+      "FOUR (sì) is the count this fence will show."
+    ]
+  },
+  {
+    "char": "五",
+    "pinyin": "wǔ",
+    "hsk": 1,
+    "strokes": 4,
+    "radical": "二",
+    "meanings": [
+      {"pos": "number", "def": "five"}
+    ],
+    "components": [
+      {"part": "五", "pinyin": "wǔ", "meaning": "an X shape crossing between two bars, symbolizing interacting forces"}
+    ],
+    "compositionNote": "An ancient X-shape crossing between two horizontal lines pictured heaven and earth's forces meeting, later fixed as the numeral five.",
+    "words": [
+      {"word": "五个", "pinyin": "wǔ gè", "meaning": "five (items)"},
+      {"word": "五月", "pinyin": "wǔ yuè", "meaning": "May"},
+      {"word": "星期五", "pinyin": "xīng qī wǔ", "meaning": "Friday"}
+    ],
+    "poem": [
+      "Two flat bars with an X locked tight,",
+      "crossing forces of dark and light.",
+      "Where heaven and earth cross and bend,",
+      "FIVE (wǔ) is the count where they extend."
+    ]
+  },
+  {
+    "char": "六",
+    "pinyin": "liù",
+    "hsk": 1,
+    "strokes": 4,
+    "radical": "八",
+    "meanings": [
+      {"pos": "number", "def": "six"}
+    ],
+    "components": [
+      {"part": "亠", "pinyin": "tóu", "meaning": "a roof; a lid"},
+      {"part": "八", "pinyin": "bā", "meaning": "to divide; to split apart"}
+    ],
+    "compositionNote": "A small roof (亠) over two splitting legs (八) once pictured a simple hut; the shape was later borrowed purely for its sound to write six.",
+    "words": [
+      {"word": "六个", "pinyin": "liù gè", "meaning": "six (items)"},
+      {"word": "六月", "pinyin": "liù yuè", "meaning": "June"},
+      {"word": "星期六", "pinyin": "xīng qī liù", "meaning": "Saturday"}
+    ],
+    "poem": [
+      "A tiny roof with legs that splay,",
+      "a little hut from far away.",
+      "Borrowed now for sound alone,",
+      "SIX (liù) is the number that hut has grown."
+    ]
+  },
+  {
+    "char": "七",
+    "pinyin": "qī",
+    "hsk": 1,
+    "strokes": 2,
+    "radical": "一",
+    "meanings": [
+      {"pos": "number", "def": "seven"}
+    ],
+    "components": [
+      {"part": "七", "pinyin": "qī", "meaning": "a line crossed by a hooked cutting stroke"}
+    ],
+    "compositionNote": "A horizontal line crossed by a hooked stroke once pictured cutting something in two; the shape was later borrowed to write the number seven.",
+    "words": [
+      {"word": "七个", "pinyin": "qī gè", "meaning": "seven (items)"},
+      {"word": "七月", "pinyin": "qī yuè", "meaning": "July"},
+      {"word": "七天", "pinyin": "qī tiān", "meaning": "seven days"}
+    ],
+    "poem": [
+      "A line sliced through by a hooking blade,",
+      "an ancient cut that time has made.",
+      "Borrowed sound, forgetting the knife,",
+      "SEVEN (qī) counts through daily life."
+    ]
+  },
+  {
+    "char": "八",
+    "pinyin": "bā",
+    "hsk": 1,
+    "strokes": 2,
+    "radical": "八",
+    "meanings": [
+      {"pos": "number", "def": "eight"}
+    ],
+    "components": [
+      {"part": "八", "pinyin": "bā", "meaning": "two strokes curving apart, from a picture of something splitting in two"}
+    ],
+    "compositionNote": "Two small strokes leaning away from each other originally pictured something being split apart; the shape was borrowed to write the number eight.",
+    "words": [
+      {"word": "八个", "pinyin": "bā gè", "meaning": "eight (items)"},
+      {"word": "八月", "pinyin": "bā yuè", "meaning": "August"},
+      {"word": "八十", "pinyin": "bā shí", "meaning": "eighty"}
+    ],
+    "poem": [
+      "Two little strokes that lean and part,",
+      "splitting cleanly right from the start.",
+      "Back to back, they gently sway,",
+      "EIGHT (bā) is the number that split away."
+    ]
+  },
+  {
+    "char": "九",
+    "pinyin": "jiǔ",
+    "hsk": 1,
+    "strokes": 2,
+    "radical": "乙",
+    "meanings": [
+      {"pos": "number", "def": "nine"}
+    ],
+    "components": [
+      {"part": "九", "pinyin": "jiǔ", "meaning": "a bent, hooked arm, from an ancient pictograph"}
+    ],
+    "compositionNote": "A single curling stroke once pictured a bent elbow or hooked arm; borrowed for its sound, it became the numeral nine.",
+    "words": [
+      {"word": "九个", "pinyin": "jiǔ gè", "meaning": "nine (items)"},
+      {"word": "九月", "pinyin": "jiǔ yuè", "meaning": "September"},
+      {"word": "九十", "pinyin": "jiǔ shí", "meaning": "ninety"}
+    ],
+    "poem": [
+      "A curling hook, an elbow bent,",
+      "an ancient arm's own shape it lent.",
+      "Twist and turn, then curve some more,",
+      "NINE (jiǔ) sits one shy of a perfect score."
+    ]
+  },
+  {
+    "char": "十",
+    "pinyin": "shí",
+    "hsk": 1,
+    "strokes": 2,
+    "radical": "十",
+    "meanings": [
+      {"pos": "number", "def": "ten"}
+    ],
+    "components": [
+      {"part": "十", "pinyin": "shí", "meaning": "a vertical line crossed by a horizontal one, from a knot tied in a tally cord"}
+    ],
+    "compositionNote": "A simple cross shape once marked a knot tied in a counting cord for every ten items, giving the character its meaning of ten.",
+    "words": [
+      {"word": "十个", "pinyin": "shí gè", "meaning": "ten (items)"},
+      {"word": "十月", "pinyin": "shí yuè", "meaning": "October"},
+      {"word": "第十", "pinyin": "dì shí", "meaning": "tenth"}
+    ],
+    "poem": [
+      "A cross of lines, both straight and true,",
+      "a knot once tied when counts hit ten.",
+      "Vertical meets horizontal too,",
+      "TEN (shí) is the round count born again."
+    ]
+  },
+  {
+    "char": "零",
+    "pinyin": "líng",
+    "hsk": 1,
+    "strokes": 13,
+    "radical": "雨",
+    "meanings": [
+      {"pos": "number", "def": "zero"},
+      {"pos": "adj", "def": "fragmentary; odd; leftover (as in extra small amounts)"}
+    ],
+    "components": [
+      {"part": "雨", "pinyin": "yǔ", "meaning": "rain"},
+      {"part": "令", "pinyin": "lìng", "meaning": "an order; a command"}
+    ],
+    "compositionNote": "Rain (雨) falling as scattered drops gave the original sense of 'fragment, remainder', while 令 lends the sound líng; the word later came to mean 'zero', the emptiest fragment of all.",
+    "words": [
+      {"word": "零下", "pinyin": "líng xià", "meaning": "below zero"},
+      {"word": "零食", "pinyin": "líng shí", "meaning": "snacks"},
+      {"word": "零点", "pinyin": "líng diǎn", "meaning": "midnight; zero o'clock"}
+    ],
+    "poem": [
+      "Raindrops scatter, fragment, fall,",
+      "tiny remnants, that is all.",
+      "An order (令) gives the sound so clear,",
+      "ZERO (líng) is the emptiest drop of the year."
+    ]
+  },
+  {
+    "char": "百",
+    "pinyin": "bǎi",
+    "hsk": 1,
+    "strokes": 6,
+    "radical": "白",
+    "meanings": [
+      {"pos": "number", "def": "hundred"}
+    ],
+    "components": [
+      {"part": "一", "pinyin": "yī", "meaning": "one"},
+      {"part": "白", "pinyin": "bái", "meaning": "white"}
+    ],
+    "compositionNote": "One (一) capping 白, which lends its sound (bái becoming bǎi), builds the numeral for a full hundred.",
+    "words": [
+      {"word": "一百", "pinyin": "yì bǎi", "meaning": "one hundred"},
+      {"word": "百分之", "pinyin": "bǎi fēn zhī", "meaning": "percent"},
+      {"word": "老百姓", "pinyin": "lǎo bǎi xìng", "meaning": "common people"}
+    ],
+    "poem": [
+      "One small stroke sits on top of white,",
+      "a hundred units, gleaming bright.",
+      "White (白) lends its sound, plain to hear,",
+      "A HUNDRED (bǎi) counted, loud and clear."
+    ]
+  },
+  {
+    "char": "个",
+    "pinyin": "gè",
+    "hsk": 1,
+    "strokes": 3,
+    "radical": "人",
+    "meanings": [
+      {"pos": "measure word", "def": "generic measure word for people or objects"},
+      {"pos": "adj", "def": "individual; single"}
+    ],
+    "components": [
+      {"part": "个", "pinyin": "gè", "meaning": "a single stalk of bamboo, from an ancient pictograph"}
+    ],
+    "compositionNote": "The character began as a picture of one stalk of bamboo standing among many in a grove, making it a natural generic counter for individual things.",
+    "words": [
+      {"word": "一个", "pinyin": "yí gè", "meaning": "one (item/person)"},
+      {"word": "这个", "pinyin": "zhè ge", "meaning": "this one"},
+      {"word": "个人", "pinyin": "gè rén", "meaning": "individual; personal"}
+    ],
+    "poem": [
+      "One lone bamboo stalk stands tall,",
+      "a single stem among them all.",
+      "Count the stalks one by one, you see,",
+      "EACH (gè) item gets its own bamboo key."
+    ]
+  },
+  {
+    "char": "人",
+    "pinyin": "rén",
+    "hsk": 1,
+    "strokes": 2,
+    "radical": "人",
+    "meanings": [
+      {"pos": "noun", "def": "person; people; human being"}
+    ],
+    "components": [
+      {"part": "人", "pinyin": "rén", "meaning": "a person walking, seen from the side"}
+    ],
+    "compositionNote": "A simple pictograph of two legs in mid-stride, viewed from the side, drawing a person in motion.",
+    "words": [
+      {"word": "中国人", "pinyin": "zhōng guó rén", "meaning": "Chinese person"},
+      {"word": "人们", "pinyin": "rén men", "meaning": "people"},
+      {"word": "大人", "pinyin": "dà rén", "meaning": "adult"}
+    ],
+    "poem": [
+      "Two legs striding, side in view,",
+      "one leg forward, walking through.",
+      "A simple sketch of you and me,",
+      "PERSON (rén) is all humanity."
+    ]
+  },
+  {
+    "char": "我",
+    "pinyin": "wǒ",
+    "hsk": 1,
+    "strokes": 7,
+    "radical": "戈",
+    "meanings": [
+      {"pos": "pronoun", "def": "I; me"}
+    ],
+    "components": [
+      {"part": "我", "pinyin": "wǒ", "meaning": "an ancient serrated halberd or weapon"}
+    ],
+    "compositionNote": "The character originally drew a jagged, saw-toothed weapon; because its sound matched, it was borrowed to write the first-person pronoun 'I', losing its weapon meaning entirely.",
+    "words": [
+      {"word": "我们", "pinyin": "wǒ men", "meaning": "we; us"},
+      {"word": "我的", "pinyin": "wǒ de", "meaning": "my; mine"},
+      {"word": "自我", "pinyin": "zì wǒ", "meaning": "self"}
+    ],
+    "poem": [
+      "A jagged blade with saw-tooth bite,",
+      "an ancient weapon, sharp in sight.",
+      "Its shape stuck, but not its blow,",
+      "'I' (wǒ) is all it means, you know."
+    ]
+  },
+  {
+    "char": "你",
+    "pinyin": "nǐ",
+    "hsk": 1,
+    "strokes": 7,
+    "radical": "人",
+    "meanings": [
+      {"pos": "pronoun", "def": "you (singular)"}
+    ],
+    "components": [
+      {"part": "亻", "pinyin": "rén", "meaning": "person"},
+      {"part": "尔", "pinyin": "ěr", "meaning": "you; that (an archaic pronoun)"}
+    ],
+    "compositionNote": "A person (亻) stands beside 尔, an old word for 'you' that also lends its sound, pointing straight at the person you're speaking to.",
+    "words": [
+      {"word": "你好", "pinyin": "nǐ hǎo", "meaning": "hello"},
+      {"word": "你们", "pinyin": "nǐ men", "meaning": "you (plural)"},
+      {"word": "你的", "pinyin": "nǐ de", "meaning": "your; yours"}
+    ],
+    "poem": [
+      "A person standing right by 尔,",
+      "the ancient word that once meant 'you'.",
+      "Point a finger, greet them well,",
+      "YOU (nǐ) is the one I'm talking to."
+    ]
+  },
+  {
+    "char": "他",
+    "pinyin": "tā",
+    "hsk": 1,
+    "strokes": 5,
+    "radical": "人",
+    "meanings": [
+      {"pos": "pronoun", "def": "he; him"}
+    ],
+    "components": [
+      {"part": "亻", "pinyin": "rén", "meaning": "person"},
+      {"part": "也", "pinyin": "yě", "meaning": "also; too"}
+    ],
+    "compositionNote": "A person (亻) next to 也, which supplies the sound tā, forms the third-person pronoun 'he'.",
+    "words": [
+      {"word": "他们", "pinyin": "tā men", "meaning": "they; them"},
+      {"word": "他的", "pinyin": "tā de", "meaning": "his"},
+      {"word": "其他", "pinyin": "qí tā", "meaning": "other; else"}
+    ],
+    "poem": [
+      "A person leans on 也 too,",
+      "also here, as people do.",
+      "Not you, not me, but someone new,",
+      "HE (tā) is the other person in view."
+    ]
+  },
+  {
+    "char": "她",
+    "pinyin": "tā",
+    "hsk": 1,
+    "strokes": 6,
+    "radical": "女",
+    "meanings": [
+      {"pos": "pronoun", "def": "she; her"}
+    ],
+    "components": [
+      {"part": "女", "pinyin": "nǚ", "meaning": "woman"},
+      {"part": "也", "pinyin": "yě", "meaning": "also; too"}
+    ],
+    "compositionNote": "A woman (女) paired with the sound-giving 也 (tā) created the modern feminine pronoun 'she', coined in the early 1900s to mirror 他.",
+    "words": [
+      {"word": "她们", "pinyin": "tā men", "meaning": "they; them (female)"},
+      {"word": "她的", "pinyin": "tā de", "meaning": "her; hers"}
+    ],
+    "poem": [
+      "A woman stands by 也 as well,",
+      "also here, the same to tell.",
+      "Swap the person for the girl,",
+      "SHE (tā) steps into the word-whirl."
+    ]
+  },
+  {
+    "char": "它",
+    "pinyin": "tā",
+    "hsk": 1,
+    "strokes": 5,
+    "radical": "宀",
+    "meanings": [
+      {"pos": "pronoun", "def": "it (for animals, objects, or things)"}
+    ],
+    "components": [
+      {"part": "宀", "pinyin": "mián", "meaning": "a roof; a covering"},
+      {"part": "匕", "pinyin": "bǐ", "meaning": "a curled, tapering shape"}
+    ],
+    "compositionNote": "The character began as a picture of a coiled snake tucked beneath a roof-like curve; it later lost that literal meaning and was borrowed as the pronoun 'it'.",
+    "words": [
+      {"word": "它们", "pinyin": "tā men", "meaning": "they; them (non-human)"},
+      {"word": "它的", "pinyin": "tā de", "meaning": "its"}
+    ],
+    "poem": [
+      "A snake once curled beneath its roof,",
+      "tail tucked in, safe and aloof.",
+      "No longer slithering, just a name,",
+      "IT (tā) is what non-humans became."
+    ]
+  },
+  {
+    "char": "们",
+    "pinyin": "men",
+    "hsk": 1,
+    "strokes": 5,
+    "radical": "人",
+    "meanings": [
+      {"pos": "particle", "def": "plural marker attached after pronouns or people"}
+    ],
+    "components": [
+      {"part": "亻", "pinyin": "rén", "meaning": "person"},
+      {"part": "门", "pinyin": "mén", "meaning": "door; gate"}
+    ],
+    "compositionNote": "A person (亻) beside a door (门), which lends its sound men, marks that more than one person is passing through — the plural suffix.",
+    "words": [
+      {"word": "我们", "pinyin": "wǒ men", "meaning": "we; us"},
+      {"word": "你们", "pinyin": "nǐ men", "meaning": "you (plural)"},
+      {"word": "朋友们", "pinyin": "péng yǒu men", "meaning": "friends (plural)"}
+    ],
+    "poem": [
+      "One by one through the door they come,",
+      "person after person, not just one.",
+      "The gate (门) lets many pass again,",
+      "PLURAL is marked by this little men (men)."
+    ]
+  },
+  {
+    "char": "不",
+    "pinyin": "bù",
+    "hsk": 1,
+    "strokes": 4,
+    "radical": "一",
+    "meanings": [
+      {"pos": "adv", "def": "not; no"}
+    ],
+    "components": [
+      {"part": "不", "pinyin": "bù", "meaning": "a bird flying upward, disappearing from sight"}
+    ],
+    "compositionNote": "The character originally pictured a bird flying up until it vanished from view — the idea of something no longer being there gave rise to the negative 'not'.",
+    "words": [
+      {"word": "不是", "pinyin": "bú shì", "meaning": "to not be; is not"},
+      {"word": "不好", "pinyin": "bù hǎo", "meaning": "not good; bad"},
+      {"word": "不客气", "pinyin": "bú kè qi", "meaning": "you're welcome"}
+    ],
+    "poem": [
+      "A bird flies up and out of sight,",
+      "vanishing into fading light.",
+      "Gone from view, it won't come back,",
+      "NOT (bù) is what that bird will lack."
+    ]
+  },
+  {
+    "char": "是",
+    "pinyin": "shì",
+    "hsk": 1,
+    "strokes": 9,
+    "radical": "日",
+    "meanings": [
+      {"pos": "verb", "def": "to be; is; am; are"},
+      {"pos": "adv", "def": "indeed; yes (in affirmation)"}
+    ],
+    "components": [
+      {"part": "日", "pinyin": "rì", "meaning": "sun"},
+      {"part": "正", "pinyin": "zhèng", "meaning": "straight; correct"}
+    ],
+    "compositionNote": "The sun (日) sits above a mark for 'straight, correct' (正, shown in a slightly altered form), the idea being that what the sun reveals is true — hence 'to be; is'.",
+    "words": [
+      {"word": "是的", "pinyin": "shì de", "meaning": "yes; that's right"},
+      {"word": "不是", "pinyin": "bú shì", "meaning": "is not"},
+      {"word": "但是", "pinyin": "dàn shì", "meaning": "but; however"}
+    ],
+    "poem": [
+      "The sun shines straight and never lies,",
+      "correct and true beneath the skies.",
+      "What the sun sees, it will affirm,",
+      "'TO BE' (shì) is the sun's own certain term."
+    ]
+  },
+  {
+    "char": "的",
+    "pinyin": "de",
+    "hsk": 1,
+    "strokes": 8,
+    "radical": "白",
+    "meanings": [
+      {"pos": "particle", "def": "possessive/attributive particle linking a modifier to a noun ('s, of)"}
+    ],
+    "components": [
+      {"part": "白", "pinyin": "bái", "meaning": "white; bright"},
+      {"part": "勺", "pinyin": "sháo", "meaning": "a ladle; a spoon"}
+    ],
+    "compositionNote": "The character originally pictured something bright and clear (白) marked by a small ladle-shaped stroke (勺), meaning a clear 'target'; this common word was later borrowed as the everyday possessive particle 'de'.",
+    "words": [
+      {"word": "我的", "pinyin": "wǒ de", "meaning": "my; mine"},
+      {"word": "好的", "pinyin": "hǎo de", "meaning": "okay; good"},
+      {"word": "漂亮的", "pinyin": "piào liang de", "meaning": "pretty (one)"}
+    ],
+    "poem": [
+      "Bright white target, clear and small,",
+      "a tiny ladle scoops it all.",
+      "Just a little linking key,",
+      "POSSESSIVE de ties things, you see."
+    ]
+  },
+  {
+    "char": "了",
+    "pinyin": "le",
+    "hsk": 1,
+    "strokes": 2,
+    "radical": "亅",
+    "meanings": [
+      {"pos": "particle", "def": "marks a completed action after a verb"},
+      {"pos": "particle", "def": "marks a change of state at the end of a sentence"}
+    ],
+    "components": [
+      {"part": "了", "pinyin": "le", "meaning": "a bent hook, from an ancient picture of a swaddled child"}
+    ],
+    "compositionNote": "The character once pictured a swaddled child with arms wrapped close to the body; the sense of being 'bound up, finished' led to its use as the marker of completed action.",
+    "words": [
+      {"word": "好了", "pinyin": "hǎo le", "meaning": "okay; done"},
+      {"word": "吃了", "pinyin": "chī le", "meaning": "ate; have eaten"},
+      {"word": "太好了", "pinyin": "tài hǎo le", "meaning": "great!; wonderful!"}
+    ],
+    "poem": [
+      "A tiny hook, all bent and small,",
+      "a swaddled babe, arms wrapped and all.",
+      "Wrapped up snug, the deed is done,",
+      "COMPLETE is le — the action's won."
+    ]
+  },
+  {
+    "char": "在",
+    "pinyin": "zài",
+    "hsk": 1,
+    "strokes": 6,
+    "radical": "土",
+    "meanings": [
+      {"pos": "preposition", "def": "at; in; on"},
+      {"pos": "verb", "def": "to be located at; to exist"},
+      {"pos": "adv", "def": "(before a verb) in the process of"}
+    ],
+    "components": [
+      {"part": "土", "pinyin": "tǔ", "meaning": "earth; soil"},
+      {"part": "才", "pinyin": "cái", "meaning": "talent; ability"}
+    ],
+    "compositionNote": "Standing firmly on the earth (土), with 才 lending its sound zài, the character expresses being located somewhere.",
+    "words": [
+      {"word": "现在", "pinyin": "xiàn zài", "meaning": "now"},
+      {"word": "在家", "pinyin": "zài jiā", "meaning": "at home"},
+      {"word": "正在", "pinyin": "zhèng zài", "meaning": "in the process of"}
+    ],
+    "poem": [
+      "Feet planted firm upon the earth (土),",
+      "rooted right where you find your worth.",
+      "Talent (才) whispers its sound today,",
+      "LOCATED here is where you stay (zài)."
+    ]
+  },
+  {
+    "char": "有",
+    "pinyin": "yǒu",
+    "hsk": 1,
+    "strokes": 6,
+    "radical": "月",
+    "meanings": [
+      {"pos": "verb", "def": "to have; to possess"},
+      {"pos": "verb", "def": "there is; there are"}
+    ],
+    "components": [
+      {"part": "又", "pinyin": "yòu", "meaning": "a hand"},
+      {"part": "月", "pinyin": "yuè", "meaning": "meat (here standing in for 肉)"}
+    ],
+    "compositionNote": "A hand (又, shown as the slanted stroke on top) reaching down to grasp a piece of meat (月, originally 肉) pictures the basic act of possessing something.",
+    "words": [
+      {"word": "没有", "pinyin": "méi yǒu", "meaning": "to not have; there isn't"},
+      {"word": "有名", "pinyin": "yǒu míng", "meaning": "famous"},
+      {"word": "有意思", "pinyin": "yǒu yì si", "meaning": "interesting"}
+    ],
+    "poem": [
+      "A hand reaches down, grabs some meat,",
+      "holding tight to something to eat.",
+      "Grip it firm, don't let it go,",
+      "TO HAVE (yǒu) is the oldest 'possess', you know."
+    ]
+  },
+  {
+    "char": "这",
+    "pinyin": "zhè",
+    "hsk": 1,
+    "strokes": 7,
+    "radical": "辶",
+    "meanings": [
+      {"pos": "pronoun", "def": "this"}
+    ],
+    "components": [
+      {"part": "辶", "pinyin": "chuò", "meaning": "to walk; movement"},
+      {"part": "文", "pinyin": "wén", "meaning": "writing; pattern"}
+    ],
+    "compositionNote": "Movement (辶) paired with a sound-component (文, simplified from the original phonetic 言) points to something close at hand as you move toward it — 'this'.",
+    "words": [
+      {"word": "这个", "pinyin": "zhè ge", "meaning": "this (one)"},
+      {"word": "这里", "pinyin": "zhè lǐ", "meaning": "here"},
+      {"word": "这样", "pinyin": "zhè yàng", "meaning": "like this; this way"}
+    ],
+    "poem": [
+      "Walking (辶) toward the words (文) you see,",
+      "step by step, right up close to me.",
+      "Point right here, no need to guess,",
+      "THIS (zhè) is the one within your reach."
+    ]
+  },
+  {
+    "char": "那",
+    "pinyin": "nà",
+    "hsk": 1,
+    "strokes": 6,
+    "radical": "阝",
+    "meanings": [
+      {"pos": "pronoun", "def": "that"}
+    ],
+    "components": [
+      {"part": "冄", "pinyin": "rǎn", "meaning": "an old place-name element"},
+      {"part": "阝", "pinyin": "yì", "meaning": "city; region (from 邑)"}
+    ],
+    "compositionNote": "A phonetic element from an ancient place name (冄) stands beside the 'city' radical (阝, from 邑), since 那 first named a distant region before it came to mean 'that'.",
+    "words": [
+      {"word": "那个", "pinyin": "nà ge", "meaning": "that (one)"},
+      {"word": "那里", "pinyin": "nà lǐ", "meaning": "there"},
+      {"word": "那么", "pinyin": "nà me", "meaning": "so; in that way"}
+    ],
+    "poem": [
+      "A far-off town (阝) with a name of old,",
+      "a place (冄) whose story has been told.",
+      "Point across the distant plain,",
+      "THAT (nà) is the far one, not so plain."
+    ]
+  },
+  {
+    "char": "哪",
+    "pinyin": "nǎ",
+    "hsk": 1,
+    "strokes": 9,
+    "radical": "口",
+    "meanings": [
+      {"pos": "pronoun", "def": "which; where (interrogative)"}
+    ],
+    "components": [
+      {"part": "口", "pinyin": "kǒu", "meaning": "mouth"},
+      {"part": "那", "pinyin": "nà", "meaning": "that"}
+    ],
+    "compositionNote": "A mouth (口) asking a question sits beside 那 (nà), which supplies the sound, turning 'that' into the question word 'which'.",
+    "words": [
+      {"word": "哪个", "pinyin": "nǎ ge", "meaning": "which (one)"},
+      {"word": "哪里", "pinyin": "nǎ lǐ", "meaning": "where"},
+      {"word": "哪儿", "pinyin": "nǎr", "meaning": "where"}
+    ],
+    "poem": [
+      "A mouth (口) pops open, asking 'that'? (那)",
+      "Which one, though? Point me where it's at!",
+      "A curious voice with a questioning air,",
+      "WHICH (nǎ) one is it — tell me where."
+    ]
+  },
+  {
+    "char": "谁",
+    "pinyin": "shéi",
+    "hsk": 1,
+    "strokes": 10,
+    "radical": "讠",
+    "meanings": [
+      {"pos": "pronoun", "def": "who; whom"}
+    ],
+    "components": [
+      {"part": "讠", "pinyin": "yán", "meaning": "speech; words"},
+      {"part": "隹", "pinyin": "zhuī", "meaning": "a short-tailed bird"}
+    ],
+    "compositionNote": "Spoken words (讠) beside a little bird (隹, lending its sound zhuī toward shéi) form the question word asking about an unnamed person — 'who'.",
+    "words": [
+      {"word": "谁的", "pinyin": "shéi de", "meaning": "whose"},
+      {"word": "是谁", "pinyin": "shì shéi", "meaning": "who is it"}
+    ],
+    "poem": [
+      "Words (讠) fly out to ask about a face,",
+      "a little bird (隹) sings from its place.",
+      "A mystery voice calls through the air,",
+      "WHO (shéi) is singing? Tell me who's there."
+    ]
+  },
+  {
+    "char": "什",
+    "pinyin": "shén",
+    "hsk": 1,
+    "strokes": 4,
+    "radical": "人",
+    "meanings": [
+      {"pos": "pronoun", "def": "(used in 什么) what"}
+    ],
+    "components": [
+      {"part": "亻", "pinyin": "rén", "meaning": "person"},
+      {"part": "十", "pinyin": "shí", "meaning": "ten"}
+    ],
+    "compositionNote": "A person (亻) next to the numeral ten (十) originally named a squad of ten soldiers; today the character survives mainly in the question word 什么, 'what'.",
+    "words": [
+      {"word": "什么", "pinyin": "shén me", "meaning": "what"},
+      {"word": "为什么", "pinyin": "wèi shén me", "meaning": "why"},
+      {"word": "什么时候", "pinyin": "shén me shí hou", "meaning": "when"}
+    ],
+    "poem": [
+      "Ten (十) soldiers standing in a line,",
+      "one person (亻) counted every time.",
+      "Now the meaning's shifted, though —",
+      "WHAT (shén) could this old squad still show?"
+    ]
+  },
+  {
+    "char": "么",
+    "pinyin": "me",
+    "hsk": 1,
+    "strokes": 3,
+    "radical": "丿",
+    "meanings": [
+      {"pos": "particle", "def": "toneless suffix with no meaning of its own, used in 什么, 这么, 那么, 怎么"}
+    ],
+    "components": [
+      {"part": "么", "pinyin": "me", "meaning": "a thin twisted thread, from a picture of fine silk (a variant of 幺)"}
+    ],
+    "compositionNote": "The character pictures a small twisted strand of silk — something tiny and slight — and today survives only as a light, toneless suffix in words like 什么 and 怎么.",
+    "words": [
+      {"word": "什么", "pinyin": "shén me", "meaning": "what"},
+      {"word": "怎么", "pinyin": "zěn me", "meaning": "how"},
+      {"word": "那么", "pinyin": "nà me", "meaning": "so; that way"}
+    ],
+    "poem": [
+      "A tiny thread, so thin and light,",
+      "twisted silk, barely in sight.",
+      "No weight of meaning does it hold,",
+      "just a soft SUFFIX (me), story untold."
+    ]
+  },
+  {
+    "char": "吗",
+    "pinyin": "ma",
+    "hsk": 1,
+    "strokes": 6,
+    "radical": "口",
+    "meanings": [
+      {"pos": "particle", "def": "turns a statement into a yes/no question"}
+    ],
+    "components": [
+      {"part": "口", "pinyin": "kǒu", "meaning": "mouth"},
+      {"part": "马", "pinyin": "mǎ", "meaning": "horse"}
+    ],
+    "compositionNote": "A mouth (口) asking something sits beside 马 (mǎ), which lends its sound, forming the simple question particle 'ma' placed at the end of a sentence.",
+    "words": [
+      {"word": "你好吗", "pinyin": "nǐ hǎo ma", "meaning": "how are you?"},
+      {"word": "是吗", "pinyin": "shì ma", "meaning": "really? is that so?"},
+      {"word": "好吗", "pinyin": "hǎo ma", "meaning": "is that okay?"}
+    ],
+    "poem": [
+      "A mouth (口) pops open to ask, you see,",
+      "a horse (马) gallops by, wild and free.",
+      "Tack it on the end of what you say,",
+      "QUESTION particle ma — yes or nay?"
+    ]
+  },
+  {
+    "char": "呢",
+    "pinyin": "ne",
+    "hsk": 1,
+    "strokes": 8,
+    "radical": "口",
+    "meanings": [
+      {"pos": "particle", "def": "softens a question or asks 'and...what about...?'"}
+    ],
+    "components": [
+      {"part": "口", "pinyin": "kǒu", "meaning": "mouth"},
+      {"part": "尼", "pinyin": "ní", "meaning": "a Buddhist nun"}
+    ],
+    "compositionNote": "A mouth (口) speaking sits beside 尼 (ní), which lends its sound, forming the soft question particle 'ne' used to ask 'and what about...?'.",
+    "words": [
+      {"word": "你呢", "pinyin": "nǐ ne", "meaning": "and you?"},
+      {"word": "我呢", "pinyin": "wǒ ne", "meaning": "what about me?"},
+      {"word": "他呢", "pinyin": "tā ne", "meaning": "what about him?"}
+    ],
+    "poem": [
+      "A mouth (口) leans in, soft words it lends,",
+      "a gentle nun (尼) whose calm tone bends.",
+      "'And what about...?' the question flows free,",
+      "that lingering NE (ne) finishes gently."
+    ]
+  },
+  {
+    "char": "和",
+    "pinyin": "hé",
+    "hsk": 1,
+    "strokes": 8,
+    "radical": "口",
+    "meanings": [
+      {"pos": "conjunction", "def": "and"},
+      {"pos": "noun", "def": "harmony; peace"}
+    ],
+    "components": [
+      {"part": "禾", "pinyin": "hé", "meaning": "grain; rice plant"},
+      {"part": "口", "pinyin": "kǒu", "meaning": "mouth"}
+    ],
+    "compositionNote": "Grain (禾, also lending its sound hé) feeding a mouth (口) pictures shared food and contentment, giving the sense of 'harmony', which extended to the everyday connector 'and'.",
+    "words": [
+      {"word": "和平", "pinyin": "hé píng", "meaning": "peace"},
+      {"word": "我和你", "pinyin": "wǒ hé nǐ", "meaning": "you and I"},
+      {"word": "和好", "pinyin": "hé hǎo", "meaning": "to make up; reconcile"}
+    ],
+    "poem": [
+      "Grain (禾) shared out to feed each mouth (口),",
+      "peace grows in from north to south.",
+      "Link one thing with another, see —",
+      "AND (hé) joins us all in harmony."
+    ]
+  },
+  {
+    "char": "很",
+    "pinyin": "hěn",
+    "hsk": 1,
+    "strokes": 9,
+    "radical": "彳",
+    "meanings": [
+      {"pos": "adv", "def": "very"}
+    ],
+    "components": [
+      {"part": "彳", "pinyin": "chì", "meaning": "to step; to walk"},
+      {"part": "艮", "pinyin": "gěn", "meaning": "hard; stubborn"}
+    ],
+    "compositionNote": "Walking (彳) alongside 艮, a stubborn, unyielding element that lends its sound gěn toward hěn, intensified over time into the everyday adverb 'very'.",
+    "words": [
+      {"word": "很好", "pinyin": "hěn hǎo", "meaning": "very good"},
+      {"word": "很多", "pinyin": "hěn duō", "meaning": "very many; a lot"},
+      {"word": "很高兴", "pinyin": "hěn gāo xìng", "meaning": "very happy"}
+    ],
+    "poem": [
+      "Steps (彳) march on, stubborn and set,",
+      "hard as stone (艮), no doubt or fret.",
+      "Push it further, to the max degree —",
+      "VERY (hěn) means 'to the utmost', you see."
+    ]
+  }
+]

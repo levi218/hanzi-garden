@@ -1,0 +1,958 @@
+[
+  {
+    "char": "康",
+    "pinyin": "kāng",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "广",
+    "meanings": [
+      { "pos": "adj", "def": "healthy; in good health" },
+      { "pos": "noun", "def": "peace; wellbeing; abundance" }
+    ],
+    "components": [
+      { "part": "广", "pinyin": "guǎng", "meaning": "a broad shelter or building" },
+      { "part": "隶", "pinyin": "lì", "meaning": "grain husks scattering (ancient form)" }
+    ],
+    "compositionNote": "A broad shelter (广) covers grain husks scattering below (隶) — abundant grain safely stored suggests peace and good HEALTH.",
+    "words": [
+      { "word": "健康", "pinyin": "jiàn kāng", "meaning": "health; healthy" },
+      { "word": "康复", "pinyin": "kāng fù", "meaning": "to recover (from illness)" },
+      { "word": "小康", "pinyin": "xiǎo kāng", "meaning": "moderately well-off" }
+    ],
+    "poem": [
+      "A wide roof (广) shelters grain below,",
+      "kept safe and dry as seasons go,",
+      "well-fed, well-housed, strong and spry —",
+      "that's HEALTHY (kāng), standing high!"
+    ]
+  },
+  {
+    "char": "讲",
+    "pinyin": "jiǎng",
+    "hsk": 3,
+    "strokes": 6,
+    "radical": "讠",
+    "meanings": [
+      { "pos": "verb", "def": "to speak; to say" },
+      { "pos": "verb", "def": "to explain; to discuss" }
+    ],
+    "components": [
+      { "part": "讠", "pinyin": "yán", "meaning": "speech; words" },
+      { "part": "井", "pinyin": "jǐng", "meaning": "a well (sound hint for jiǎng)" }
+    ],
+    "compositionNote": "The speech radical (讠) combines with 井 (jǐng) as a phonetic hint, giving the sound and sense of speaking or explaining.",
+    "words": [
+      { "word": "讲话", "pinyin": "jiǎng huà", "meaning": "to speak; to talk" },
+      { "word": "讲课", "pinyin": "jiǎng kè", "meaning": "to give a lecture" },
+      { "word": "讲价", "pinyin": "jiǎng jià", "meaning": "to bargain" }
+    ],
+    "poem": [
+      "Words (讠) drop into a deep stone well (井),",
+      "echoing out the tales we tell,",
+      "open your mouth and let it ring —",
+      "that's how to SPEAK (jiǎng): just say the thing!"
+    ]
+  },
+  {
+    "char": "角",
+    "pinyin": "jiǎo",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "角",
+    "meanings": [
+      { "pos": "noun", "def": "horn (of an animal)" },
+      { "pos": "noun", "def": "corner; angle" },
+      { "pos": "measure word", "def": "jiao (1/10 of a yuan)" }
+    ],
+    "components": [
+      { "part": "角", "pinyin": "jiǎo", "meaning": "ancient picture of a curved animal horn" }
+    ],
+    "compositionNote": "角 is itself a pictograph — the original drawing of a pointed, ridged animal horn, later extended to mean any pointed corner.",
+    "words": [
+      { "word": "角落", "pinyin": "jiǎo luò", "meaning": "corner; nook" },
+      { "word": "牛角", "pinyin": "niú jiǎo", "meaning": "ox horn" },
+      { "word": "三角", "pinyin": "sān jiǎo", "meaning": "triangle" }
+    ],
+    "poem": [
+      "A single picture, sharp and curled,",
+      "an animal's horn against the world,",
+      "corners poke out, edges appear —",
+      "that's a HORN, or corner (jiǎo), here!"
+    ]
+  },
+  {
+    "char": "脚",
+    "pinyin": "jiǎo",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "月",
+    "meanings": [
+      { "pos": "noun", "def": "foot" },
+      { "pos": "noun", "def": "base; leg (of an object)" }
+    ],
+    "components": [
+      { "part": "月", "pinyin": "ròu", "meaning": "flesh; part of the body" },
+      { "part": "却", "pinyin": "què", "meaning": "to retreat; but (sound hint for jiǎo)" }
+    ],
+    "compositionNote": "The flesh radical (月) plus 却 (què), used here as a phonetic hint, together point to a part of the body: the foot.",
+    "words": [
+      { "word": "脚步", "pinyin": "jiǎo bù", "meaning": "footstep" },
+      { "word": "脚印", "pinyin": "jiǎo yìn", "meaning": "footprint" },
+      { "word": "脚下", "pinyin": "jiǎo xià", "meaning": "under one's feet" }
+    ],
+    "poem": [
+      "Flesh (月) that won't retreat (却) or flee,",
+      "planted firm and steady, see,",
+      "down below where two legs connect —",
+      "that's the FOOT (jiǎo) you use to trek!"
+    ]
+  },
+  {
+    "char": "接",
+    "pinyin": "jiē",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "扌",
+    "meanings": [
+      { "pos": "verb", "def": "to receive; to meet (someone)" },
+      { "pos": "verb", "def": "to connect; to join" }
+    ],
+    "components": [
+      { "part": "扌", "pinyin": "shǒu", "meaning": "hand" },
+      { "part": "妾", "pinyin": "qiè", "meaning": "concubine (sound hint for jiē)" }
+    ],
+    "compositionNote": "A hand (扌) reaching out, with 妾 (qiè) giving a phonetic hint, gives the sense of receiving or connecting with someone.",
+    "words": [
+      { "word": "接电话", "pinyin": "jiē diàn huà", "meaning": "to answer the phone" },
+      { "word": "接待", "pinyin": "jiē dài", "meaning": "to receive (a guest)" },
+      { "word": "接着", "pinyin": "jiē zhe", "meaning": "to continue; next" }
+    ],
+    "poem": [
+      "A hand (扌) reaches out, warm and true,",
+      "greeting guests as they come through,",
+      "linking arms, joining a chain —",
+      "that's to RECEIVE (jiē), again, again!"
+    ]
+  },
+  {
+    "char": "街",
+    "pinyin": "jiē",
+    "hsk": 3,
+    "strokes": 12,
+    "radical": "行",
+    "meanings": [
+      { "pos": "noun", "def": "street" }
+    ],
+    "components": [
+      { "part": "彳", "pinyin": "chì", "meaning": "step with the left foot (walking)" },
+      { "part": "圭", "pinyin": "guī", "meaning": "jade tablet (sound hint for jiē)" },
+      { "part": "亍", "pinyin": "chù", "meaning": "step with the right foot (walking)" }
+    ],
+    "compositionNote": "Two 'walking' strokes (彳 and 亍, together forming 行) frame 圭 (guī), a phonetic hint, picturing feet moving along a street.",
+    "words": [
+      { "word": "街道", "pinyin": "jiē dào", "meaning": "street" },
+      { "word": "逛街", "pinyin": "guàng jiē", "meaning": "to stroll the streets; go shopping" },
+      { "word": "上街", "pinyin": "shàng jiē", "meaning": "to go out onto the street" }
+    ],
+    "poem": [
+      "Left foot steps (彳), a jade charm gleams (圭),",
+      "right foot follows (亍), or so it seems,",
+      "rows of shops where people flow —",
+      "that's the STREET (jiē) where crowds all go!"
+    ]
+  },
+  {
+    "char": "结",
+    "pinyin": "jié",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "纟",
+    "meanings": [
+      { "pos": "verb", "def": "to tie; to knot" },
+      { "pos": "verb", "def": "to conclude; to settle" }
+    ],
+    "components": [
+      { "part": "纟", "pinyin": "sī", "meaning": "silk; thread" },
+      { "part": "吉", "pinyin": "jí", "meaning": "lucky (sound hint for jié)" }
+    ],
+    "compositionNote": "Silk thread (纟) tied around 吉 (jí, 'lucky'), used here as a phonetic hint, gives the idea of tying a knot.",
+    "words": [
+      { "word": "结婚", "pinyin": "jié hūn", "meaning": "to get married" },
+      { "word": "结束", "pinyin": "jié shù", "meaning": "to end; to finish" },
+      { "word": "结果", "pinyin": "jié guǒ", "meaning": "result" }
+    ],
+    "poem": [
+      "Silk thread (纟) wraps round something lucky (吉),",
+      "knotted tight, secure and plucky,",
+      "bound together, start to end —",
+      "that's how you TIE (jié) a knot, my friend!"
+    ]
+  },
+  {
+    "char": "束",
+    "pinyin": "shù",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "木",
+    "meanings": [
+      { "pos": "noun", "def": "bundle; measure word for bunches" },
+      { "pos": "verb", "def": "to bind; to tie up" }
+    ],
+    "components": [
+      { "part": "束", "pinyin": "shù", "meaning": "ancient picture of a bundle of wood tied round the middle" }
+    ],
+    "compositionNote": "束 is an old pictograph showing a bundle of sticks bound tightly at the middle, giving the sense of tying or a bundle.",
+    "words": [
+      { "word": "结束", "pinyin": "jié shù", "meaning": "to end; to finish" },
+      { "word": "一束花", "pinyin": "yī shù huā", "meaning": "a bouquet of flowers" },
+      { "word": "约束", "pinyin": "yuē shù", "meaning": "to restrict; to bind" }
+    ],
+    "poem": [
+      "A bundle of wood, tied round its middle,",
+      "sticks held snug, no room to fiddle,",
+      "wrapped up tight from end to end —",
+      "that's a BUNDLE (shù), a rope its friend!"
+    ]
+  },
+  {
+    "char": "解",
+    "pinyin": "jiě",
+    "hsk": 3,
+    "strokes": 13,
+    "radical": "角",
+    "meanings": [
+      { "pos": "verb", "def": "to untie; to loosen" },
+      { "pos": "verb", "def": "to explain; to understand" },
+      { "pos": "verb", "def": "to solve" }
+    ],
+    "components": [
+      { "part": "角", "pinyin": "jiǎo", "meaning": "horn" },
+      { "part": "刀", "pinyin": "dāo", "meaning": "knife" },
+      { "part": "牛", "pinyin": "niú", "meaning": "ox" }
+    ],
+    "compositionNote": "A knife (刀) cutting an ox's (牛) horn (角) apart pictures the act of dividing something complex — to untie, solve, or explain.",
+    "words": [
+      { "word": "解决", "pinyin": "jiě jué", "meaning": "to resolve; to solve" },
+      { "word": "了解", "pinyin": "liǎo jiě", "meaning": "to understand; to find out" },
+      { "word": "解释", "pinyin": "jiě shì", "meaning": "to explain" }
+    ],
+    "poem": [
+      "A horn (角), a knife (刀), and an ox (牛) appear,",
+      "cutting apart what's tangled here,",
+      "slice the knot, make the puzzle clear —",
+      "that's to SOLVE (jiě) whatever's near!"
+    ]
+  },
+  {
+    "char": "决",
+    "pinyin": "jué",
+    "hsk": 3,
+    "strokes": 6,
+    "radical": "冫",
+    "meanings": [
+      { "pos": "verb", "def": "to decide; to determine" }
+    ],
+    "components": [
+      { "part": "冫", "pinyin": "bīng", "meaning": "ice; water" },
+      { "part": "夬", "pinyin": "guài", "meaning": "to break off; resolute (sound hint for jué)" }
+    ],
+    "compositionNote": "The ice/water radical (冫) with 夬 (guài), a phonetic hint meaning 'to break off decisively', points to making a firm decision.",
+    "words": [
+      { "word": "决定", "pinyin": "jué dìng", "meaning": "to decide; decision" },
+      { "word": "解决", "pinyin": "jiě jué", "meaning": "to resolve; to solve" },
+      { "word": "决心", "pinyin": "jué xīn", "meaning": "determination" }
+    ],
+    "poem": [
+      "Ice (冫) cracks apart, resolute and bold (夬),",
+      "the choice is made, the die is told,",
+      "no more waiting, no delay —",
+      "that's to DECIDE (jué), come what may!"
+    ]
+  },
+  {
+    "char": "借",
+    "pinyin": "jiè",
+    "hsk": 3,
+    "strokes": 10,
+    "radical": "亻",
+    "meanings": [
+      { "pos": "verb", "def": "to borrow" },
+      { "pos": "verb", "def": "to lend" }
+    ],
+    "components": [
+      { "part": "亻", "pinyin": "rén", "meaning": "person" },
+      { "part": "昔", "pinyin": "xī", "meaning": "former times; past (sound hint for jiè)" }
+    ],
+    "compositionNote": "A person (亻) reaching back to the past (昔), used as a phonetic hint, gives the sense of borrowing or lending.",
+    "words": [
+      { "word": "借钱", "pinyin": "jiè qián", "meaning": "to borrow/lend money" },
+      { "word": "借书", "pinyin": "jiè shū", "meaning": "to borrow a book" },
+      { "word": "借口", "pinyin": "jiè kǒu", "meaning": "excuse; pretext" }
+    ],
+    "poem": [
+      "A person (亻) reaches back to olden days (昔),",
+      "asking to borrow in so many ways,",
+      "lend a book, a cup, a hand —",
+      "that's to BORROW (jiè), understand!"
+    ]
+  },
+  {
+    "char": "理",
+    "pinyin": "lǐ",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "王",
+    "meanings": [
+      { "pos": "noun", "def": "reason; logic; principle" },
+      { "pos": "verb", "def": "to manage; to handle" }
+    ],
+    "components": [
+      { "part": "王", "pinyin": "yù", "meaning": "jade (abbreviated form of 玉)" },
+      { "part": "里", "pinyin": "lǐ", "meaning": "village; unit of distance (sound hint for lǐ)" }
+    ],
+    "compositionNote": "Jade (王) carved along its natural veins, plus 里 (lǐ) as a phonetic hint, gives the sense of pattern, reason, and order.",
+    "words": [
+      { "word": "道理", "pinyin": "dào lǐ", "meaning": "reason; sense" },
+      { "word": "理解", "pinyin": "lǐ jiě", "meaning": "to understand" },
+      { "word": "经理", "pinyin": "jīng lǐ", "meaning": "manager" }
+    ],
+    "poem": [
+      "Jade (王) is carved along its grain,",
+      "shaped with logic, not in vain,",
+      "ordered like a village clear and neat (里) —",
+      "that's the REASON (lǐ) that makes it complete!"
+    ]
+  },
+  {
+    "char": "久",
+    "pinyin": "jiǔ",
+    "hsk": 3,
+    "strokes": 3,
+    "radical": "丿",
+    "meanings": [
+      { "pos": "adj", "def": "long (of time); for a long time" }
+    ],
+    "components": [
+      { "part": "久", "pinyin": "jiǔ", "meaning": "ancient picture of a person being held back or braced, suggesting delay" }
+    ],
+    "compositionNote": "久 is an old pictograph of a figure being restrained or braced from behind, drawing out the moment — hence 'a long time'.",
+    "words": [
+      { "word": "很久", "pinyin": "hěn jiǔ", "meaning": "a long time" },
+      { "word": "好久不见", "pinyin": "hǎo jiǔ bú jiàn", "meaning": "long time no see" },
+      { "word": "多久", "pinyin": "duō jiǔ", "meaning": "how long" }
+    ],
+    "poem": [
+      "A tiny figure, held, delayed,",
+      "waiting long while time is stayed,",
+      "minutes stretch, the hours accrue —",
+      "that's LONG (jiǔ) — it takes a while, it's true!"
+    ]
+  },
+  {
+    "char": "旧",
+    "pinyin": "jiù",
+    "hsk": 3,
+    "strokes": 5,
+    "radical": "日",
+    "meanings": [
+      { "pos": "adj", "def": "old; used; worn" },
+      { "pos": "adj", "def": "former; past" }
+    ],
+    "components": [
+      { "part": "日", "pinyin": "rì", "meaning": "sun; day" },
+      { "part": "丨", "pinyin": "gǔn", "meaning": "a simple vertical stroke, like a worn pole" }
+    ],
+    "compositionNote": "A weathered pole (丨) standing beside the sun (日) that has risen on it day after day suggests something worn with age — OLD.",
+    "words": [
+      { "word": "旧的", "pinyin": "jiù de", "meaning": "old (things)" },
+      { "word": "老旧", "pinyin": "lǎo jiù", "meaning": "old and worn" },
+      { "word": "依旧", "pinyin": "yī jiù", "meaning": "still; as before" }
+    ],
+    "poem": [
+      "A pole (丨) beside the sun (日) each day,",
+      "weathered, worn, and turning gray,",
+      "seen so many suns go by —",
+      "that's OLD (jiù): the years pile high!"
+    ]
+  },
+  {
+    "char": "句",
+    "pinyin": "jù",
+    "hsk": 3,
+    "strokes": 5,
+    "radical": "口",
+    "meanings": [
+      { "pos": "noun", "def": "sentence" },
+      { "pos": "measure word", "def": "for sentences or lines" }
+    ],
+    "components": [
+      { "part": "勹", "pinyin": "bāo", "meaning": "to wrap; to enclose" },
+      { "part": "口", "pinyin": "kǒu", "meaning": "mouth" }
+    ],
+    "compositionNote": "A mouth (口) wrapped up (勹) into a neat, complete package of words gives the idea of a finished SENTENCE.",
+    "words": [
+      { "word": "句子", "pinyin": "jù zi", "meaning": "sentence" },
+      { "word": "一句话", "pinyin": "yī jù huà", "meaning": "a sentence; in a word" },
+      { "word": "句型", "pinyin": "jù xíng", "meaning": "sentence pattern" }
+    ],
+    "poem": [
+      "Wrapped up (勹) around a mouth (口) so small,",
+      "words enclosed, both short and tall,",
+      "a thought tied up, complete, construed —",
+      "that's a SENTENCE (jù), neatly glued!"
+    ]
+  },
+  {
+    "char": "定",
+    "pinyin": "dìng",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "宀",
+    "meanings": [
+      { "pos": "verb", "def": "to decide; to fix; to set" },
+      { "pos": "adj", "def": "certain; definite" }
+    ],
+    "components": [
+      { "part": "宀", "pinyin": "mián", "meaning": "roof; house" },
+      { "part": "正", "pinyin": "zhèng", "meaning": "straight; correct (feet coming to a stop)" }
+    ],
+    "compositionNote": "Feet coming to a stop (正) under a roof (宀) picture someone settling down — hence 'fixed' or 'certain'.",
+    "words": [
+      { "word": "决定", "pinyin": "jué dìng", "meaning": "to decide" },
+      { "word": "一定", "pinyin": "yí dìng", "meaning": "certainly; definitely" },
+      { "word": "定时", "pinyin": "dìng shí", "meaning": "to set a time; timed" }
+    ],
+    "poem": [
+      "Under a roof (宀), feet stand firm and true (正),",
+      "settled now, with nothing left to do,",
+      "the matter's fixed, the plan's in place —",
+      "that's DEFINITE (dìng): a settled case!"
+    ]
+  },
+  {
+    "char": "渴",
+    "pinyin": "kě",
+    "hsk": 3,
+    "strokes": 12,
+    "radical": "氵",
+    "meanings": [
+      { "pos": "adj", "def": "thirsty" }
+    ],
+    "components": [
+      { "part": "氵", "pinyin": "shuǐ", "meaning": "water" },
+      { "part": "曷", "pinyin": "hé", "meaning": "how; why (sound hint for kě)" }
+    ],
+    "compositionNote": "Water (氵) paired with 曷 (hé), used as a phonetic hint, points to the body craving water — THIRSTY.",
+    "words": [
+      { "word": "口渴", "pinyin": "kǒu kě", "meaning": "thirsty" },
+      { "word": "渴望", "pinyin": "kě wàng", "meaning": "to yearn for; to thirst for" },
+      { "word": "解渴", "pinyin": "jiě kě", "meaning": "to quench one's thirst" }
+    ],
+    "poem": [
+      "Water (氵) longed for, dry throat's plea (曷),",
+      "craving a drink so desperately,",
+      "parched and dry, wanting more —",
+      "that's THIRSTY (kě) down to your core!"
+    ]
+  },
+  {
+    "char": "刻",
+    "pinyin": "kè",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "刂",
+    "meanings": [
+      { "pos": "verb", "def": "to carve; to engrave" },
+      { "pos": "noun", "def": "a quarter of an hour; a moment" }
+    ],
+    "components": [
+      { "part": "亥", "pinyin": "hài", "meaning": "12th earthly branch (sound hint for kè)" },
+      { "part": "刂", "pinyin": "dāo", "meaning": "knife" }
+    ],
+    "compositionNote": "A knife (刂) beside 亥 (hài), used as a phonetic hint, shows the act of cutting marks into something — to CARVE.",
+    "words": [
+      { "word": "一刻钟", "pinyin": "yí kè zhōng", "meaning": "a quarter of an hour" },
+      { "word": "深刻", "pinyin": "shēn kè", "meaning": "profound; deep" },
+      { "word": "刻苦", "pinyin": "kè kǔ", "meaning": "hardworking; assiduous" }
+    ],
+    "poem": [
+      "A knife (刂) cuts marks by an ancient sign (亥),",
+      "carving lines in careful design,",
+      "each little notch, a moment's trace —",
+      "that's to CARVE (kè), or a MOMENT's space!"
+    ]
+  },
+  {
+    "char": "空",
+    "pinyin": "kōng",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "穴",
+    "meanings": [
+      { "pos": "adj", "def": "empty; hollow" },
+      { "pos": "noun", "def": "sky; air" },
+      { "pos": "noun", "def": "free time; gap (kòng)" }
+    ],
+    "components": [
+      { "part": "穴", "pinyin": "xué", "meaning": "cave; hole" },
+      { "part": "工", "pinyin": "gōng", "meaning": "work; labor (sound hint for kōng)" }
+    ],
+    "compositionNote": "A hollow cave (穴) dug by hard work (工), used here as a phonetic hint, gives the idea of empty space.",
+    "words": [
+      { "word": "天空", "pinyin": "tiān kōng", "meaning": "sky" },
+      { "word": "空气", "pinyin": "kōng qì", "meaning": "air" },
+      { "word": "有空", "pinyin": "yǒu kòng", "meaning": "to have free time" }
+    ],
+    "poem": [
+      "A cave (穴) dug out by careful work (工),",
+      "hollow inside, where shadows lurk,",
+      "nothing left but air and space —",
+      "that's EMPTY (kōng), an open place!"
+    ]
+  },
+  {
+    "char": "调",
+    "pinyin": "tiáo",
+    "hsk": 3,
+    "strokes": 10,
+    "radical": "讠",
+    "meanings": [
+      { "pos": "verb", "def": "to adjust; to mix; to blend" },
+      { "pos": "verb", "def": "to transfer; to move (diào)" },
+      { "pos": "noun", "def": "tune; tone (diào)" }
+    ],
+    "components": [
+      { "part": "讠", "pinyin": "yán", "meaning": "speech; words" },
+      { "part": "周", "pinyin": "zhōu", "meaning": "cycle; week (sound hint)" }
+    ],
+    "compositionNote": "Speech (讠) combined with 周 (zhōu, 'cycle'), used as a phonetic hint, points to adjusting or tuning something until it's right.",
+    "words": [
+      { "word": "空调", "pinyin": "kōng tiáo", "meaning": "air conditioner" },
+      { "word": "调皮", "pinyin": "tiáo pí", "meaning": "naughty; mischievous" },
+      { "word": "调查", "pinyin": "diào chá", "meaning": "to investigate" }
+    ],
+    "poem": [
+      "Words (讠) go round in weekly cycles (周),",
+      "tuning, mixing, working through you,",
+      "adjust the settings, get it right —",
+      "that's to ADJUST (tiáo) both day and night!"
+    ]
+  },
+  {
+    "char": "口",
+    "pinyin": "kǒu",
+    "hsk": 3,
+    "strokes": 3,
+    "radical": "口",
+    "meanings": [
+      { "pos": "noun", "def": "mouth" },
+      { "pos": "measure word", "def": "for family members; for things with an opening" }
+    ],
+    "components": [
+      { "part": "口", "pinyin": "kǒu", "meaning": "ancient picture of an open mouth" }
+    ],
+    "compositionNote": "口 is itself a pictograph of a simple open mouth, shown as a square opening.",
+    "words": [
+      { "word": "门口", "pinyin": "mén kǒu", "meaning": "doorway; entrance" },
+      { "word": "人口", "pinyin": "rén kǒu", "meaning": "population" },
+      { "word": "口水", "pinyin": "kǒu shuǐ", "meaning": "saliva" }
+    ],
+    "poem": [
+      "A simple square, open and wide,",
+      "a picture of a mouth, open-eyed,",
+      "words come out and food goes in —",
+      "that's the MOUTH (kǒu) where sounds begin!"
+    ]
+  },
+  {
+    "char": "哭",
+    "pinyin": "kū",
+    "hsk": 3,
+    "strokes": 10,
+    "radical": "口",
+    "meanings": [
+      { "pos": "verb", "def": "to cry; to weep" }
+    ],
+    "components": [
+      { "part": "口", "pinyin": "kǒu", "meaning": "mouth (doubled here to show wailing)" },
+      { "part": "犬", "pinyin": "quǎn", "meaning": "dog" }
+    ],
+    "compositionNote": "Two mouths (口口) wailing above a dog (犬) picture loud, uncontrolled howling — to CRY.",
+    "words": [
+      { "word": "哭泣", "pinyin": "kū qì", "meaning": "to sob; to weep" },
+      { "word": "大哭", "pinyin": "dà kū", "meaning": "to cry loudly" },
+      { "word": "别哭", "pinyin": "bié kū", "meaning": "don't cry" }
+    ],
+    "poem": [
+      "Two mouths (口口) wail like a dog's (犬) sad cry,",
+      "howling loud beneath the sky,",
+      "tears fall down, the sobs pour through —",
+      "that's to CRY (kū), boo-hoo-hoo!"
+    ]
+  },
+  {
+    "char": "裤",
+    "pinyin": "kù",
+    "hsk": 3,
+    "strokes": 12,
+    "radical": "衤",
+    "meanings": [
+      { "pos": "noun", "def": "trousers; pants" }
+    ],
+    "components": [
+      { "part": "衤", "pinyin": "yī", "meaning": "clothing" },
+      { "part": "库", "pinyin": "kù", "meaning": "warehouse (exact sound match for kù)" }
+    ],
+    "compositionNote": "The clothing radical (衤) with 库 (kù, 'warehouse') as an exact phonetic match gives both sound and sense: clothing for the legs.",
+    "words": [
+      { "word": "裤子", "pinyin": "kù zi", "meaning": "pants; trousers" },
+      { "word": "短裤", "pinyin": "duǎn kù", "meaning": "shorts" },
+      { "word": "牛仔裤", "pinyin": "niú zǎi kù", "meaning": "jeans" }
+    ],
+    "poem": [
+      "Clothing (衤) stored inside a warehouse (库),",
+      "folded pants, both new and old,",
+      "two legs slide in, side by side —",
+      "that's your PANTS (kù) you wear with pride!"
+    ]
+  },
+  {
+    "char": "筷",
+    "pinyin": "kuài",
+    "hsk": 3,
+    "strokes": 13,
+    "radical": "竹",
+    "meanings": [
+      { "pos": "noun", "def": "chopsticks" }
+    ],
+    "components": [
+      { "part": "竹", "pinyin": "zhú", "meaning": "bamboo" },
+      { "part": "快", "pinyin": "kuài", "meaning": "fast (exact sound match for kuài)" }
+    ],
+    "compositionNote": "Bamboo (竹) paired with 快 (kuài, 'fast'), an exact phonetic match, names the quick bamboo sticks used for eating.",
+    "words": [
+      { "word": "筷子", "pinyin": "kuài zi", "meaning": "chopsticks" },
+      { "word": "一次性筷子", "pinyin": "yí cì xìng kuài zi", "meaning": "disposable chopsticks" }
+    ],
+    "poem": [
+      "Bamboo (竹) sticks, quick (快) and light,",
+      "picking up your food just right,",
+      "two thin sticks that work as one —",
+      "CHOPSTICKS (kuài) make the eating fun!"
+    ]
+  },
+  {
+    "char": "蓝",
+    "pinyin": "lán",
+    "hsk": 3,
+    "strokes": 13,
+    "radical": "艹",
+    "meanings": [
+      { "pos": "adj", "def": "blue" }
+    ],
+    "components": [
+      { "part": "艹", "pinyin": "cǎo", "meaning": "grass; plant" },
+      { "part": "监", "pinyin": "jiān", "meaning": "to supervise (sound hint for lán)" }
+    ],
+    "compositionNote": "The grass radical (艹), for the indigo plant once used to make dye, combines with 监 (jiān) as a phonetic hint to give BLUE.",
+    "words": [
+      { "word": "蓝色", "pinyin": "lán sè", "meaning": "blue (color)" },
+      { "word": "蓝天", "pinyin": "lán tiān", "meaning": "blue sky" },
+      { "word": "天蓝", "pinyin": "tiān lán", "meaning": "sky blue" }
+    ],
+    "poem": [
+      "A plant (艹) once watched with careful eye (监),",
+      "dyed indigo beneath the sky,",
+      "color of the sea and air —",
+      "that's the color BLUE (lán) laid bare!"
+    ]
+  },
+  {
+    "char": "虎",
+    "pinyin": "hǔ",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "虍",
+    "meanings": [
+      { "pos": "noun", "def": "tiger" }
+    ],
+    "components": [
+      { "part": "虎", "pinyin": "hǔ", "meaning": "ancient picture of a tiger, showing its head, stripes, and legs" }
+    ],
+    "compositionNote": "虎 is an old pictograph drawn to resemble a standing tiger with its open mouth and striped body.",
+    "words": [
+      { "word": "老虎", "pinyin": "lǎo hǔ", "meaning": "tiger" },
+      { "word": "虎年", "pinyin": "hǔ nián", "meaning": "Year of the Tiger" },
+      { "word": "马虎", "pinyin": "mǎ hu", "meaning": "careless; sloppy" }
+    ],
+    "poem": [
+      "Stripes and claws in ancient guise,",
+      "a fearsome shape before your eyes,",
+      "king of the jungle, bold and true —",
+      "that's the TIGER (hǔ) stalking you!"
+    ]
+  },
+  {
+    "char": "礼",
+    "pinyin": "lǐ",
+    "hsk": 3,
+    "strokes": 5,
+    "radical": "礻",
+    "meanings": [
+      { "pos": "noun", "def": "ceremony; rite" },
+      { "pos": "noun", "def": "gift; present" },
+      { "pos": "noun", "def": "courtesy; manners" }
+    ],
+    "components": [
+      { "part": "礻", "pinyin": "shì", "meaning": "altar; spirit; ritual" },
+      { "part": "乚", "pinyin": "yǐ", "meaning": "a simplified curling stroke standing in for the original phonetic 豊" }
+    ],
+    "compositionNote": "The altar radical (礻), for ritual and worship, combines with a simplified stroke (乚) replacing the old phonetic 豊, giving CEREMONY.",
+    "words": [
+      { "word": "礼物", "pinyin": "lǐ wù", "meaning": "gift; present" },
+      { "word": "礼貌", "pinyin": "lǐ mào", "meaning": "politeness; manners" },
+      { "word": "婚礼", "pinyin": "hūn lǐ", "meaning": "wedding ceremony" }
+    ],
+    "poem": [
+      "An altar (礻) bows with a curling line (乚),",
+      "offerings placed, a sacred sign,",
+      "manners shown and gifts bestowed —",
+      "that's the CEREMONY (lǐ) that's owed!"
+    ]
+  },
+  {
+    "char": "物",
+    "pinyin": "wù",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "牛",
+    "meanings": [
+      { "pos": "noun", "def": "thing; object; matter" }
+    ],
+    "components": [
+      { "part": "牛", "pinyin": "niú", "meaning": "ox; cattle" },
+      { "part": "勿", "pinyin": "wù", "meaning": "do not (exact sound match for wù)" }
+    ],
+    "compositionNote": "An ox (牛) beside 勿 (wù, 'do not'), an exact phonetic match, broadened over time to mean any THING or object.",
+    "words": [
+      { "word": "动物", "pinyin": "dòng wù", "meaning": "animal" },
+      { "word": "礼物", "pinyin": "lǐ wù", "meaning": "gift" },
+      { "word": "购物", "pinyin": "gòu wù", "meaning": "to shop" }
+    ],
+    "poem": [
+      "An ox (牛) warned back by a do-not sign (勿),",
+      "yet still it works the whole day's time,",
+      "creatures, goods, and things at hand —",
+      "that's a THING (wù) across the land!"
+    ]
+  },
+  {
+    "char": "历",
+    "pinyin": "lì",
+    "hsk": 3,
+    "strokes": 4,
+    "radical": "厂",
+    "meanings": [
+      { "pos": "verb", "def": "to experience; to pass through" },
+      { "pos": "noun", "def": "calendar" }
+    ],
+    "components": [
+      { "part": "厂", "pinyin": "chǎng", "meaning": "cliff; shelter" },
+      { "part": "力", "pinyin": "lì", "meaning": "strength (exact sound match for lì)" }
+    ],
+    "compositionNote": "Under a cliff (厂), strength (力) is exerted step by step through time — giving the sense of passing through, or HISTORY.",
+    "words": [
+      { "word": "历史", "pinyin": "lì shǐ", "meaning": "history" },
+      { "word": "经历", "pinyin": "jīng lì", "meaning": "experience" },
+      { "word": "日历", "pinyin": "rì lì", "meaning": "calendar" }
+    ],
+    "poem": [
+      "Under a cliff (厂), with strength (力) to spare,",
+      "trudging through the years, everywhere,",
+      "seasons passed and days gone by —",
+      "that's HISTORY (lì) reaching high!"
+    ]
+  },
+  {
+    "char": "史",
+    "pinyin": "shǐ",
+    "hsk": 3,
+    "strokes": 5,
+    "radical": "口",
+    "meanings": [
+      { "pos": "noun", "def": "history" }
+    ],
+    "components": [
+      { "part": "史", "pinyin": "shǐ", "meaning": "ancient picture of a hand holding a recording tool, like a scribe keeping records" }
+    ],
+    "compositionNote": "史 pictures a hand grasping a document or brush — the ancient scribe who recorded events, giving us HISTORY.",
+    "words": [
+      { "word": "历史", "pinyin": "lì shǐ", "meaning": "history" },
+      { "word": "史书", "pinyin": "shǐ shū", "meaning": "history book" },
+      { "word": "历史学家", "pinyin": "lì shǐ xué jiā", "meaning": "historian" }
+    ],
+    "poem": [
+      "A steady hand holds a scribe's own tool,",
+      "recording facts by an ancient rule,",
+      "writing down what's come to pass —",
+      "that's HISTORY (shǐ), built to last!"
+    ]
+  },
+  {
+    "char": "脸",
+    "pinyin": "liǎn",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "月",
+    "meanings": [
+      { "pos": "noun", "def": "face" }
+    ],
+    "components": [
+      { "part": "月", "pinyin": "ròu", "meaning": "flesh; body" },
+      { "part": "佥", "pinyin": "qiān", "meaning": "all; together (sound hint for liǎn)" }
+    ],
+    "compositionNote": "The flesh radical (月) with 佥 (qiān), used as a phonetic hint, points to the fleshy part where all your features meet — the FACE.",
+    "words": [
+      { "word": "脸色", "pinyin": "liǎn sè", "meaning": "complexion; facial expression" },
+      { "word": "洗脸", "pinyin": "xǐ liǎn", "meaning": "to wash one's face" },
+      { "word": "笑脸", "pinyin": "xiào liǎn", "meaning": "smiling face" }
+    ],
+    "poem": [
+      "Flesh (月) shaped smooth, all brought together (佥),",
+      "features formed to last forever,",
+      "eyes and nose and mouth in place —",
+      "that's your FACE (liǎn), your own true face!"
+    ]
+  },
+  {
+    "char": "练",
+    "pinyin": "liàn",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "纟",
+    "meanings": [
+      { "pos": "verb", "def": "to practice; to train; to drill" }
+    ],
+    "components": [
+      { "part": "纟", "pinyin": "sī", "meaning": "silk; thread" },
+      { "part": "东", "pinyin": "dōng", "meaning": "east (simplified stand-in for the original phonetic 柬)" }
+    ],
+    "compositionNote": "Thread (纟) that must be worked and pulled repeatedly, with 东 replacing the old phonetic 柬, gives the sense of PRACTICE.",
+    "words": [
+      { "word": "练习", "pinyin": "liàn xí", "meaning": "to practice; exercise" },
+      { "word": "训练", "pinyin": "xùn liàn", "meaning": "to train" },
+      { "word": "熟练", "pinyin": "shú liàn", "meaning": "skilled; proficient" }
+    ],
+    "poem": [
+      "Thread (纟) pulled taut, looped and refined (东),",
+      "worked again till it's aligned,",
+      "drill it daily, don't give in —",
+      "that's to PRACTICE (liàn) till you win!"
+    ]
+  },
+  {
+    "char": "辆",
+    "pinyin": "liàng",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "车",
+    "meanings": [
+      { "pos": "measure word", "def": "for vehicles (cars, bikes, etc.)" }
+    ],
+    "components": [
+      { "part": "车", "pinyin": "chē", "meaning": "cart; vehicle" },
+      { "part": "两", "pinyin": "liǎng", "meaning": "two (close sound hint for liàng)" }
+    ],
+    "compositionNote": "The vehicle radical (车) with 两 (liǎng, 'two'), a close phonetic hint, gives the measure word used for counting vehicles.",
+    "words": [
+      { "word": "一辆车", "pinyin": "yí liàng chē", "meaning": "a car; a vehicle" },
+      { "word": "车辆", "pinyin": "chē liàng", "meaning": "vehicles" },
+      { "word": "两辆自行车", "pinyin": "liǎng liàng zì xíng chē", "meaning": "two bicycles" }
+    ],
+    "poem": [
+      "A cart (车) counted, one then two (两),",
+      "lined up waiting in a queue,",
+      "count them all along the road —",
+      "that's the word for CARS (liàng), each load!"
+    ]
+  },
+  {
+    "char": "聊",
+    "pinyin": "liáo",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "耳",
+    "meanings": [
+      { "pos": "verb", "def": "to chat; to converse" }
+    ],
+    "components": [
+      { "part": "耳", "pinyin": "ěr", "meaning": "ear" },
+      { "part": "卯", "pinyin": "mǎo", "meaning": "4th earthly branch (sound hint for liáo)" }
+    ],
+    "compositionNote": "An ear (耳) leaning in, with 卯 (mǎo) as a phonetic hint, points to listening closely while chatting.",
+    "words": [
+      { "word": "聊天", "pinyin": "liáo tiān", "meaning": "to chat" },
+      { "word": "聊天室", "pinyin": "liáo tiān shì", "meaning": "chat room" },
+      { "word": "无聊", "pinyin": "wú liáo", "meaning": "boring" }
+    ],
+    "poem": [
+      "An ear (耳) leans in at a certain call (卯),",
+      "listening close to hear it all,",
+      "words flow easy, back and forth —",
+      "that's to CHAT (liáo), south and north!"
+    ]
+  },
+  {
+    "char": "邻",
+    "pinyin": "lín",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "阝",
+    "meanings": [
+      { "pos": "noun", "def": "neighbor" }
+    ],
+    "components": [
+      { "part": "令", "pinyin": "lìng", "meaning": "order; command (close sound hint for lín)" },
+      { "part": "阝", "pinyin": "yì", "meaning": "city; settlement (right-side form of 邑)" }
+    ],
+    "compositionNote": "令 (lìng), a close phonetic hint, combines with the settlement radical (阝) to mean someone living in the same settlement — NEIGHBOR.",
+    "words": [
+      { "word": "邻居", "pinyin": "lín jū", "meaning": "neighbor" },
+      { "word": "邻近", "pinyin": "lín jìn", "meaning": "adjacent; nearby" },
+      { "word": "邻里", "pinyin": "lín lǐ", "meaning": "neighborhood" }
+    ],
+    "poem": [
+      "An order given (令) near your place (阝),",
+      "living close, right by your space,",
+      "just next door, not far to roam —",
+      "that's your NEIGHBOR (lín), near your home!"
+    ]
+  },
+  {
+    "char": "居",
+    "pinyin": "jū",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "尸",
+    "meanings": [
+      { "pos": "verb", "def": "to reside; to live (in a place)" },
+      { "pos": "noun", "def": "residence; dwelling" }
+    ],
+    "components": [
+      { "part": "尸", "pinyin": "shī", "meaning": "a reclining person; body (suggests a dwelling)" },
+      { "part": "古", "pinyin": "gǔ", "meaning": "ancient; old (sound hint for jū)" }
+    ],
+    "compositionNote": "A reclining figure (尸), suggesting someone settled at home, combines with 古 (gǔ) as a phonetic hint to mean RESIDE.",
+    "words": [
+      { "word": "居住", "pinyin": "jū zhù", "meaning": "to reside" },
+      { "word": "邻居", "pinyin": "lín jū", "meaning": "neighbor" },
+      { "word": "居民", "pinyin": "jū mín", "meaning": "resident" }
+    ],
+    "poem": [
+      "A reclining form (尸) from days of old (古),",
+      "settled down as the story's told,",
+      "making a home, staying put —",
+      "that's to RESIDE (jū), putting down foot!"
+    ]
+  }
+]

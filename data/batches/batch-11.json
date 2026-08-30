@@ -1,0 +1,973 @@
+[
+  {
+    "char": "层",
+    "pinyin": "céng",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "尸",
+    "meanings": [
+      {"pos": "measure word", "def": "layer; story, floor (of a building)"},
+      {"pos": "noun", "def": "layer, level, tier"}
+    ],
+    "components": [
+      {"part": "尸", "pinyin": "shī", "meaning": "a roof-like covering (originally a reclining body)"},
+      {"part": "云", "pinyin": "yún", "meaning": "cloud (used here as a simplified phonetic, replacing 曾)"}
+    ],
+    "compositionNote": "A roof-like covering (尸) sits over 云 (cloud, a simplified phonetic hint replacing 曾), picturing things stacked one on top of another.",
+    "words": [
+      {"word": "楼层", "pinyin": "lóucéng", "meaning": "floor, story (of a building)"},
+      {"word": "层次", "pinyin": "céngcì", "meaning": "level, hierarchy"},
+      {"word": "云层", "pinyin": "yúncéng", "meaning": "cloud layer"}
+    ],
+    "poem": [
+      "A roof (尸) sits over a cloud (云) below,",
+      "stacked up high, layer by layer they grow.",
+      "Floor upon floor, a LAYER (céng) so neat,",
+      "each story cloud-topped, complete."
+    ]
+  },
+  {
+    "char": "差",
+    "pinyin": "chà",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "工",
+    "meanings": [
+      {"pos": "adj", "def": "poor; not good; lacking"},
+      {"pos": "noun", "def": "difference; discrepancy"},
+      {"pos": "verb", "def": "to lack, to be short of"}
+    ],
+    "components": [
+      {"part": "𠂹", "pinyin": "chuí", "meaning": "drooping, uneven ears of grain (original picture)"},
+      {"part": "工", "pinyin": "gōng", "meaning": "work, tool"}
+    ],
+    "compositionNote": "The top depicts drooping, uneven ears of grain (𠂹) over 工 (work), picturing something uneven or lacking — the root sense of 'difference' or 'poor'.",
+    "words": [
+      {"word": "差不多", "pinyin": "chàbuduō", "meaning": "almost, about the same"},
+      {"word": "出差", "pinyin": "chūchāi", "meaning": "to go on a business trip"},
+      {"word": "差点儿", "pinyin": "chàdiǎnr", "meaning": "nearly, almost"}
+    ],
+    "poem": [
+      "Drooping grain (𠂹) sits above hard toil (工),",
+      "uneven lengths make the harvest spoil.",
+      "Not quite right, a shade too BAD (chà),",
+      "close, but missing — small gap, ha!"
+    ]
+  },
+  {
+    "char": "超",
+    "pinyin": "chāo",
+    "hsk": 3,
+    "strokes": 12,
+    "radical": "走",
+    "meanings": [
+      {"pos": "verb", "def": "to exceed, surpass"},
+      {"pos": "adj", "def": "super-, ultra- (prefix)"}
+    ],
+    "components": [
+      {"part": "走", "pinyin": "zǒu", "meaning": "to walk, run"},
+      {"part": "召", "pinyin": "zhào", "meaning": "to call, summon (phonetic hint)"}
+    ],
+    "compositionNote": "走 (to run) combines with 召 (zhào, 'to call' — a phonetic hint) to picture running ahead and calling out, i.e., surpassing others.",
+    "words": [
+      {"word": "超市", "pinyin": "chāoshì", "meaning": "supermarket"},
+      {"word": "超过", "pinyin": "chāoguò", "meaning": "to exceed, surpass"},
+      {"word": "超级", "pinyin": "chāojí", "meaning": "super"}
+    ],
+    "poem": [
+      "Running (走) fast, you call (召) ahead the pack,",
+      "leaving rivals lagging back.",
+      "Zoom right past, no turning track,",
+      "SUPER-fast (chāo) — you won't look back."
+    ]
+  },
+  {
+    "char": "市",
+    "pinyin": "shì",
+    "hsk": 3,
+    "strokes": 5,
+    "radical": "巾",
+    "meanings": [
+      {"pos": "noun", "def": "city"},
+      {"pos": "noun", "def": "market"}
+    ],
+    "components": [
+      {"part": "亠", "pinyin": "-", "meaning": "a simplified marker stroke"},
+      {"part": "巾", "pinyin": "jīn", "meaning": "cloth (a flag marking a trading spot)"}
+    ],
+    "compositionNote": "A cloth banner (巾) topped by a mark (亠) originally represented a flag hung to mark a trading place — a market, later extended to mean 'city'.",
+    "words": [
+      {"word": "城市", "pinyin": "chéngshì", "meaning": "city"},
+      {"word": "超市", "pinyin": "chāoshì", "meaning": "supermarket"},
+      {"word": "市场", "pinyin": "shìchǎng", "meaning": "market"}
+    ],
+    "poem": [
+      "A cloth flag (巾) waves with a mark (亠) on top,",
+      "calling traders to stop and shop.",
+      "Stalls line up where the banner flies —",
+      "a bustling CITY (shì) meets your eyes."
+    ]
+  },
+  {
+    "char": "衬",
+    "pinyin": "chèn",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "衤",
+    "meanings": [
+      {"pos": "noun", "def": "lining"},
+      {"pos": "verb", "def": "to set off, contrast"}
+    ],
+    "components": [
+      {"part": "衤", "pinyin": "yī", "meaning": "clothing"},
+      {"part": "寸", "pinyin": "cùn", "meaning": "inch (phonetic hint)"}
+    ],
+    "compositionNote": "衤 (clothing) combines with 寸 (cùn, 'inch' — a phonetic hint) to give 衬, meaning a garment worn underneath or something that sets off another.",
+    "words": [
+      {"word": "衬衫", "pinyin": "chènshān", "meaning": "shirt"},
+      {"word": "衬托", "pinyin": "chèntuō", "meaning": "to set off, contrast"},
+      {"word": "衬衣", "pinyin": "chènyī", "meaning": "shirt, blouse"}
+    ],
+    "poem": [
+      "Clothes (衤) measured out by an inch (寸) so neat,",
+      "worn beneath to make things complete.",
+      "A LINING (chèn) hides, but plays its part,",
+      "setting off the outer art."
+    ]
+  },
+  {
+    "char": "衫",
+    "pinyin": "shān",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "衤",
+    "meanings": [
+      {"pos": "noun", "def": "shirt; unlined upper garment"}
+    ],
+    "components": [
+      {"part": "衤", "pinyin": "yī", "meaning": "clothing"},
+      {"part": "彡", "pinyin": "shān", "meaning": "decorative strokes, fine lines (phonetic hint)"}
+    ],
+    "compositionNote": "衤 (clothing) plus 彡 (shān, fine decorative lines — also a phonetic hint) form 衫, a light garment such as a shirt.",
+    "words": [
+      {"word": "衬衫", "pinyin": "chènshān", "meaning": "shirt"},
+      {"word": "汗衫", "pinyin": "hànshān", "meaning": "undershirt"},
+      {"word": "衣衫", "pinyin": "yīshān", "meaning": "clothing, garments"}
+    ],
+    "poem": [
+      "Clothes (衤) get fine decorative lines (彡),",
+      "patterns dance in soft designs.",
+      "Light and airy, worn with charm,",
+      "a SHIRT (shān) draped over your arm."
+    ]
+  },
+  {
+    "char": "成",
+    "pinyin": "chéng",
+    "hsk": 3,
+    "strokes": 6,
+    "radical": "戈",
+    "meanings": [
+      {"pos": "verb", "def": "to become; to turn into"},
+      {"pos": "verb", "def": "to succeed, accomplish"},
+      {"pos": "adj", "def": "okay, all right"}
+    ],
+    "components": [
+      {"part": "丁", "pinyin": "dīng", "meaning": "nail (phonetic hint)"},
+      {"part": "戈", "pinyin": "gē", "meaning": "dagger-axe, weapon"}
+    ],
+    "compositionNote": "戈 (a weapon) combines with 丁 (dīng, 'nail' — a phonetic hint) to depict completing a task, giving the meaning 'to become, succeed.'",
+    "words": [
+      {"word": "成功", "pinyin": "chénggōng", "meaning": "success"},
+      {"word": "完成", "pinyin": "wánchéng", "meaning": "to complete"},
+      {"word": "成绩", "pinyin": "chéngjì", "meaning": "grades, results"}
+    ],
+    "poem": [
+      "A nail (丁) driven home by a blade (戈) so bold,",
+      "the task is finished, brave and told.",
+      "Struggle's done, the goal is won —",
+      "BECOME (chéng) complete, the deed is done."
+    ]
+  },
+  {
+    "char": "绩",
+    "pinyin": "jì",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "纟",
+    "meanings": [
+      {"pos": "noun", "def": "achievement, result, merit"}
+    ],
+    "components": [
+      {"part": "纟", "pinyin": "sī", "meaning": "silk thread"},
+      {"part": "责", "pinyin": "zé", "meaning": "duty, responsibility (phonetic hint)"}
+    ],
+    "compositionNote": "纟 (silk thread, once a measure of spun work) combines with 责 (zé, 'duty' — a phonetic hint) to mean accomplishment or merit.",
+    "words": [
+      {"word": "成绩", "pinyin": "chéngjì", "meaning": "grades, results"},
+      {"word": "业绩", "pinyin": "yèjì", "meaning": "achievement, performance"},
+      {"word": "成绩单", "pinyin": "chéngjìdān", "meaning": "report card"}
+    ],
+    "poem": [
+      "Silk thread (纟) spun to measure one's duty (责),",
+      "work well done shows in its beauty.",
+      "Grades and gains, both hard-earned bits —",
+      "ACHIEVEMENT (jì) is what merit permits."
+    ]
+  },
+  {
+    "char": "城",
+    "pinyin": "chéng",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "土",
+    "meanings": [
+      {"pos": "noun", "def": "city, town"},
+      {"pos": "noun", "def": "city wall"}
+    ],
+    "components": [
+      {"part": "土", "pinyin": "tǔ", "meaning": "earth, soil"},
+      {"part": "成", "pinyin": "chéng", "meaning": "to complete (phonetic hint, also 'become')"}
+    ],
+    "compositionNote": "土 (earth, for building walls) combines with 成 (chéng, 'to complete' — a phonetic hint) to depict a completed earthen wall enclosing a city.",
+    "words": [
+      {"word": "城市", "pinyin": "chéngshì", "meaning": "city"},
+      {"word": "长城", "pinyin": "Chángchéng", "meaning": "the Great Wall"},
+      {"word": "城里", "pinyin": "chénglǐ", "meaning": "in the city"}
+    ],
+    "poem": [
+      "Earth (土) piled high till walls are done (成),",
+      "ringing homes beneath the sun.",
+      "Gates stand guard, the walls stand tall —",
+      "a CITY (chéng) rises, earth and all."
+    ]
+  },
+  {
+    "char": "迟",
+    "pinyin": "chí",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "辶",
+    "meanings": [
+      {"pos": "adj", "def": "late, tardy"},
+      {"pos": "adj", "def": "slow"}
+    ],
+    "components": [
+      {"part": "辶", "pinyin": "-", "meaning": "walking, movement"},
+      {"part": "尺", "pinyin": "chǐ", "meaning": "ruler, a foot measure (phonetic hint)"}
+    ],
+    "compositionNote": "辶 (movement) combines with 尺 (chǐ, 'ruler/a foot' — a phonetic hint) to suggest slow, measured movement — being late or tardy.",
+    "words": [
+      {"word": "迟到", "pinyin": "chídào", "meaning": "to arrive late"},
+      {"word": "推迟", "pinyin": "tuīchí", "meaning": "to postpone"},
+      {"word": "迟早", "pinyin": "chízǎo", "meaning": "sooner or later"}
+    ],
+    "poem": [
+      "Walking (辶) slow, measured by a ruler's span (尺),",
+      "dragging feet as best they can.",
+      "Clock ticks on, but you're still behind —",
+      "LATE (chí) again, oh never mind."
+    ]
+  },
+  {
+    "char": "除",
+    "pinyin": "chú",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "阝",
+    "meanings": [
+      {"pos": "verb", "def": "to remove, get rid of"},
+      {"pos": "preposition", "def": "except, besides"},
+      {"pos": "verb", "def": "to divide (mathematics)"}
+    ],
+    "components": [
+      {"part": "阝", "pinyin": "-", "meaning": "mound, hill"},
+      {"part": "余", "pinyin": "yú", "meaning": "remaining, surplus (phonetic hint)"}
+    ],
+    "compositionNote": "阝 (a mound or set of steps) combines with 余 (yú, 'remaining' — a phonetic hint), originally depicting stairs being cleared, giving the sense of 'to remove' or 'except'.",
+    "words": [
+      {"word": "除了", "pinyin": "chúle", "meaning": "except for"},
+      {"word": "除去", "pinyin": "chúqù", "meaning": "to remove"},
+      {"word": "除法", "pinyin": "chúfǎ", "meaning": "division (math)"}
+    ],
+    "poem": [
+      "Steps (阝) are swept where extras (余) lay,",
+      "clearing the mound, sweeping away.",
+      "All but one, set the rest apart —",
+      "REMOVE (chú) it all, a clean fresh start."
+    ]
+  },
+  {
+    "char": "船",
+    "pinyin": "chuán",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "舟",
+    "meanings": [
+      {"pos": "noun", "def": "boat, ship, vessel"}
+    ],
+    "components": [
+      {"part": "舟", "pinyin": "zhōu", "meaning": "boat"},
+      {"part": "㕣", "pinyin": "yán", "meaning": "a phonetic component (also seen in 沿)"}
+    ],
+    "compositionNote": "舟 (a boat) combines with 㕣 (a phonetic component seen in characters like 沿) to give 船, meaning boat or ship.",
+    "words": [
+      {"word": "船票", "pinyin": "chuánpiào", "meaning": "boat ticket"},
+      {"word": "轮船", "pinyin": "lúnchuán", "meaning": "steamship"},
+      {"word": "坐船", "pinyin": "zuò chuán", "meaning": "to travel by boat"}
+    ],
+    "poem": [
+      "A little boat (舟) sails with sound (㕣) in tow,",
+      "gliding where the rivers flow.",
+      "Waves may rock but on it speeds —",
+      "a SHIP (chuán) that meets the sailor's needs."
+    ]
+  },
+  {
+    "char": "春",
+    "pinyin": "chūn",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "日",
+    "meanings": [
+      {"pos": "noun", "def": "spring (season)"},
+      {"pos": "noun", "def": "vitality, youth (figurative)"}
+    ],
+    "components": [
+      {"part": "艹", "pinyin": "cǎo", "meaning": "grass, sprouting plants"},
+      {"part": "日", "pinyin": "rì", "meaning": "sun"}
+    ],
+    "compositionNote": "The top depicts sprouting plants pushing upward (from ancient 艸/屯), warmed by the 日 (sun) below — the picture of spring growth.",
+    "words": [
+      {"word": "春天", "pinyin": "chūntiān", "meaning": "spring"},
+      {"word": "春节", "pinyin": "Chūnjié", "meaning": "Spring Festival"},
+      {"word": "青春", "pinyin": "qīngchūn", "meaning": "youth"}
+    ],
+    "poem": [
+      "Green sprouts (艹) push up toward the sun (日),",
+      "warmth returns, the cold is done.",
+      "Buds unfurl, the fields turn bright —",
+      "SPRING (chūn) awakens day and night."
+    ]
+  },
+  {
+    "char": "词",
+    "pinyin": "cí",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "讠",
+    "meanings": [
+      {"pos": "noun", "def": "word, term"},
+      {"pos": "noun", "def": "a classical Chinese poetic form (ci)"}
+    ],
+    "components": [
+      {"part": "讠", "pinyin": "yán", "meaning": "speech"},
+      {"part": "司", "pinyin": "sī", "meaning": "to manage, govern (phonetic hint)"}
+    ],
+    "compositionNote": "讠 (speech) combines with 司 (sī, 'to manage' — a phonetic hint) to give 词, meaning a word or term used in speech.",
+    "words": [
+      {"word": "词语", "pinyin": "cíyǔ", "meaning": "word, expression"},
+      {"word": "生词", "pinyin": "shēngcí", "meaning": "new word (vocabulary)"},
+      {"word": "词典", "pinyin": "cídiǎn", "meaning": "dictionary"}
+    ],
+    "poem": [
+      "Speech (讠) is managed (司) with careful art,",
+      "choosing words to play their part.",
+      "Sound and meaning, tied as one —",
+      "a WORD (cí) is spoken, said, and done."
+    ]
+  },
+  {
+    "char": "典",
+    "pinyin": "diǎn",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "八",
+    "meanings": [
+      {"pos": "noun", "def": "dictionary, standard reference book"},
+      {"pos": "noun", "def": "statute, classic text"},
+      {"pos": "noun", "def": "ceremony, ritual"}
+    ],
+    "components": [
+      {"part": "册", "pinyin": "cè", "meaning": "a bound book of bamboo slips"},
+      {"part": "丌", "pinyin": "jī", "meaning": "a stand, table"}
+    ],
+    "compositionNote": "册 (a bound book of bamboo slips) rests atop 丌 (a stand or table), depicting an important document held with reverence — a classic text or standard.",
+    "words": [
+      {"word": "词典", "pinyin": "cídiǎn", "meaning": "dictionary"},
+      {"word": "字典", "pinyin": "zìdiǎn", "meaning": "dictionary (character-based)"},
+      {"word": "典礼", "pinyin": "diǎnlǐ", "meaning": "ceremony"}
+    ],
+    "poem": [
+      "A bamboo book (册) set upon a stand (丌),",
+      "honored words at your command.",
+      "Rules and wisdom, bound and fine —",
+      "a CLASSIC (diǎn) text through space and time."
+    ]
+  },
+  {
+    "char": "聪",
+    "pinyin": "cōng",
+    "hsk": 3,
+    "strokes": 15,
+    "radical": "耳",
+    "meanings": [
+      {"pos": "adj", "def": "clever, intelligent, sharp-witted"}
+    ],
+    "components": [
+      {"part": "耳", "pinyin": "ěr", "meaning": "ear"},
+      {"part": "总", "pinyin": "zǒng", "meaning": "a phonetic component derived from 悤 (cōng, 'hasty, alert')"}
+    ],
+    "compositionNote": "耳 (ear) combines with a phonetic component derived from 悤 (cōng, suggesting quick, alert thinking) to give 聪, meaning sharp-eared and clever.",
+    "words": [
+      {"word": "聪明", "pinyin": "cōngming", "meaning": "clever, smart"},
+      {"word": "聪慧", "pinyin": "cōnghuì", "meaning": "intelligent, bright"},
+      {"word": "耳聪目明", "pinyin": "ěrcōngmùmíng", "meaning": "keen of ear and eye (idiom)"}
+    ],
+    "poem": [
+      "Sharp little ears (耳) that catch each sound,",
+      "quick minds (总) with wisdom all around.",
+      "Nothing slips by, thoughts run along —",
+      "CLEVER (cōng) and bright, keen and strong."
+    ]
+  },
+  {
+    "char": "段",
+    "pinyin": "duàn",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "殳",
+    "meanings": [
+      {"pos": "measure word", "def": "section, segment, paragraph; period (of time)"},
+      {"pos": "noun", "def": "stage, phase"}
+    ],
+    "components": [
+      {"part": "厂", "pinyin": "hàn", "meaning": "a cliff face (visual origin of the left side)"},
+      {"part": "殳", "pinyin": "shū", "meaning": "a hand holding a tool, to strike"}
+    ],
+    "compositionNote": "The left side pictures rock breaking off a cliff, and 殳 shows a hand striking with a tool — together depicting breaking something into a section or segment.",
+    "words": [
+      {"word": "一段时间", "pinyin": "yī duàn shíjiān", "meaning": "a period of time"},
+      {"word": "段落", "pinyin": "duànluò", "meaning": "paragraph"},
+      {"word": "阶段", "pinyin": "jiēduàn", "meaning": "stage, phase"}
+    ],
+    "poem": [
+      "A cliff face (厂) cracks beneath a striking hand (殳),",
+      "broken pieces scattered on the land.",
+      "Cut apart, a piece, a part —",
+      "each SEGMENT (duàn) marks a brand-new start."
+    ]
+  },
+  {
+    "char": "短",
+    "pinyin": "duǎn",
+    "hsk": 3,
+    "strokes": 12,
+    "radical": "矢",
+    "meanings": [
+      {"pos": "adj", "def": "short (in length or distance)"},
+      {"pos": "adj", "def": "short, brief (in time)"},
+      {"pos": "noun", "def": "shortcoming, weak point"}
+    ],
+    "components": [
+      {"part": "矢", "pinyin": "shǐ", "meaning": "arrow"},
+      {"part": "豆", "pinyin": "dòu", "meaning": "bean (phonetic hint)"}
+    ],
+    "compositionNote": "矢 (an arrow, once used as a short measuring stick) combines with 豆 (dòu, 'bean' — a phonetic hint) to mean short in length.",
+    "words": [
+      {"word": "短信", "pinyin": "duǎnxìn", "meaning": "text message"},
+      {"word": "短裤", "pinyin": "duǎnkù", "meaning": "shorts"},
+      {"word": "短期", "pinyin": "duǎnqī", "meaning": "short-term"}
+    ],
+    "poem": [
+      "An arrow (矢) small as a single bean (豆),",
+      "measures out what's brief and lean.",
+      "Not too long, just a little span —",
+      "SHORT (duǎn) and quick, as short as it can."
+    ]
+  },
+  {
+    "char": "锻",
+    "pinyin": "duàn",
+    "hsk": 3,
+    "strokes": 14,
+    "radical": "钅",
+    "meanings": [
+      {"pos": "verb", "def": "to forge (metal)"},
+      {"pos": "verb", "def": "to temper, exercise (figurative)"}
+    ],
+    "components": [
+      {"part": "钅", "pinyin": "jīn", "meaning": "metal"},
+      {"part": "段", "pinyin": "duàn", "meaning": "section (phonetic hint, reused for its sound)"}
+    ],
+    "compositionNote": "钅 (metal) combines with 段 (duàn, 'section' — a phonetic hint) to mean forging metal by repeated striking.",
+    "words": [
+      {"word": "锻炼", "pinyin": "duànliàn", "meaning": "to exercise, work out"},
+      {"word": "锻造", "pinyin": "duànzào", "meaning": "to forge"}
+    ],
+    "poem": [
+      "Metal (钅) struck in glowing sections (段),",
+      "hammered hard by strong hands' actions.",
+      "Heat and force make iron strong —",
+      "FORGED (duàn) and tempered all day long."
+    ]
+  },
+  {
+    "char": "炼",
+    "pinyin": "liàn",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "火",
+    "meanings": [
+      {"pos": "verb", "def": "to refine, smelt"},
+      {"pos": "verb", "def": "to temper, train"}
+    ],
+    "components": [
+      {"part": "火", "pinyin": "huǒ", "meaning": "fire"},
+      {"part": "东", "pinyin": "dōng", "meaning": "a simplified phonetic component (replacing original 柬)"}
+    ],
+    "compositionNote": "火 (fire) combines with 东 (a simplified phonetic component, replacing the original 柬 'to select') to mean refining or smelting with fire.",
+    "words": [
+      {"word": "锻炼", "pinyin": "duànliàn", "meaning": "to exercise, work out"},
+      {"word": "炼油", "pinyin": "liànyóu", "meaning": "to refine oil"},
+      {"word": "提炼", "pinyin": "tíliàn", "meaning": "to extract, refine"}
+    ],
+    "poem": [
+      "Fire (火) roars where metals turn (东) to gold,",
+      "melting rough into something bold.",
+      "Heat refines what's crude and plain —",
+      "REFINED (liàn) and pure, through fire's flame."
+    ]
+  },
+  {
+    "char": "饿",
+    "pinyin": "è",
+    "hsk": 3,
+    "strokes": 10,
+    "radical": "饣",
+    "meanings": [
+      {"pos": "adj", "def": "hungry"},
+      {"pos": "verb", "def": "to starve"}
+    ],
+    "components": [
+      {"part": "饣", "pinyin": "shí", "meaning": "food"},
+      {"part": "我", "pinyin": "wǒ", "meaning": "I, me (phonetic hint)"}
+    ],
+    "compositionNote": "饣 (food) combines with 我 (wǒ, 'I' — a phonetic hint) to give 饿, meaning 'I' feel the lack of food — hungry.",
+    "words": [
+      {"word": "饿了", "pinyin": "è le", "meaning": "[to be] hungry"},
+      {"word": "饥饿", "pinyin": "jī'è", "meaning": "starvation, hunger"},
+      {"word": "饿死", "pinyin": "èsǐ", "meaning": "to starve to death"}
+    ],
+    "poem": [
+      "Food (饣) is all that 'I' (我) can crave,",
+      "my stomach growls, my belly's a cave.",
+      "Give me a meal, don't let me wait —",
+      "I'm HUNGRY (è), oh please don't be late!"
+    ]
+  },
+  {
+    "char": "耳",
+    "pinyin": "ěr",
+    "hsk": 3,
+    "strokes": 6,
+    "radical": "耳",
+    "meanings": [
+      {"pos": "noun", "def": "ear"}
+    ],
+    "components": [
+      {"part": "耳", "pinyin": "ěr", "meaning": "a pictograph of the shape of a human ear"}
+    ],
+    "compositionNote": "耳 is a pictograph that traces the outline of a human ear.",
+    "words": [
+      {"word": "耳朵", "pinyin": "ěrduo", "meaning": "ear"},
+      {"word": "耳机", "pinyin": "ěrjī", "meaning": "earphones, headphones"},
+      {"word": "耳环", "pinyin": "ěrhuán", "meaning": "earring"}
+    ],
+    "poem": [
+      "A simple shape, curved and small,",
+      "the picture of an EAR (ěr), that's all.",
+      "Sounds float in through this ancient door,",
+      "listening close, forevermore."
+    ]
+  },
+  {
+    "char": "朵",
+    "pinyin": "duǒ",
+    "hsk": 3,
+    "strokes": 6,
+    "radical": "木",
+    "meanings": [
+      {"pos": "measure word", "def": "for flowers, clouds, and similar clusters"}
+    ],
+    "components": [
+      {"part": "几", "pinyin": "-", "meaning": "a curved, drooping shape"},
+      {"part": "木", "pinyin": "mù", "meaning": "tree"}
+    ],
+    "compositionNote": "几 (a curved, drooping shape) sits atop 木 (tree), picturing a flower or fruit hanging from a branch — used as the measure word for flowers and clouds.",
+    "words": [
+      {"word": "花朵", "pinyin": "huāduǒ", "meaning": "flowers, blossoms"},
+      {"word": "耳朵", "pinyin": "ěrduo", "meaning": "ear"},
+      {"word": "一朵云", "pinyin": "yī duǒ yún", "meaning": "a cloud"}
+    ],
+    "poem": [
+      "A blossom droops (几) atop a tree (木) so tall,",
+      "hanging soft before its fall.",
+      "Count each bloom, each cloud so fluffy —",
+      "one little FLOWER (duǒ), soft and puffy."
+    ]
+  },
+  {
+    "char": "发",
+    "pinyin": "fā",
+    "hsk": 3,
+    "strokes": 5,
+    "radical": "又",
+    "meanings": [
+      {"pos": "verb", "def": "to send out, issue, emit"},
+      {"pos": "verb", "def": "to develop, grow"},
+      {"pos": "noun", "def": "hair (read fà, as in 头发)"}
+    ],
+    "components": [
+      {"part": "发", "pinyin": "fā", "meaning": "a simplified character without a clear graphical decomposition (derived from 發/髮)"}
+    ],
+    "compositionNote": "发 is a modern simplification of the traditional 發 (to send out) and 髮 (hair); the simplified form no longer shows a clear semantic breakdown.",
+    "words": [
+      {"word": "发展", "pinyin": "fāzhǎn", "meaning": "to develop"},
+      {"word": "出发", "pinyin": "chūfā", "meaning": "to set off, depart"},
+      {"word": "头发", "pinyin": "tóufa", "meaning": "hair"}
+    ],
+    "poem": [
+      "No picture hides in this modern shape,",
+      "just strokes combined to help thoughts escape.",
+      "Send it out, let it GROW (fā) and spread,",
+      "news and hair both come from here, it's said."
+    ]
+  },
+  {
+    "char": "烧",
+    "pinyin": "shāo",
+    "hsk": 3,
+    "strokes": 10,
+    "radical": "火",
+    "meanings": [
+      {"pos": "verb", "def": "to burn"},
+      {"pos": "verb", "def": "to run a fever"},
+      {"pos": "verb", "def": "to cook, stew, roast"}
+    ],
+    "components": [
+      {"part": "火", "pinyin": "huǒ", "meaning": "fire"},
+      {"part": "尧", "pinyin": "yáo", "meaning": "a phonetic component (simplified from 堯)"}
+    ],
+    "compositionNote": "火 (fire) combines with 尧 (yáo — a phonetic hint, simplified from 堯) to mean to burn, roast, or (of a body) run a fever.",
+    "words": [
+      {"word": "发烧", "pinyin": "fāshāo", "meaning": "to have a fever"},
+      {"word": "烧烤", "pinyin": "shāokǎo", "meaning": "barbecue"},
+      {"word": "燃烧", "pinyin": "ránshāo", "meaning": "to burn, combust"}
+    ],
+    "poem": [
+      "Fire (火) leaps high where 尧 stands proud and tall,",
+      "flames lick upward, climbing the wall.",
+      "Skin runs hot, cheeks start to glow —",
+      "BURNING (shāo) fever, embers aglow."
+    ]
+  },
+  {
+    "char": "方",
+    "pinyin": "fāng",
+    "hsk": 3,
+    "strokes": 4,
+    "radical": "方",
+    "meanings": [
+      {"pos": "noun", "def": "square"},
+      {"pos": "noun", "def": "direction, side"},
+      {"pos": "noun", "def": "method, way"}
+    ],
+    "components": [
+      {"part": "方", "pinyin": "fāng", "meaning": "a pictograph, originally a plow or a square-cornered shape"}
+    ],
+    "compositionNote": "方 is a pictograph, originally depicting a plow or a square-cornered shape, later extended to mean direction and method.",
+    "words": [
+      {"word": "方向", "pinyin": "fāngxiàng", "meaning": "direction"},
+      {"word": "方法", "pinyin": "fāngfǎ", "meaning": "method"},
+      {"word": "地方", "pinyin": "dìfang", "meaning": "place"}
+    ],
+    "poem": [
+      "Four corners drawn, a shape so square,",
+      "pointing the way, near and far.",
+      "A method found, a path, a place —",
+      "SQUARE (fāng) and steady, marking space."
+    ]
+  },
+  {
+    "char": "放",
+    "pinyin": "fàng",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "攵",
+    "meanings": [
+      {"pos": "verb", "def": "to put, place"},
+      {"pos": "verb", "def": "to release, let go"},
+      {"pos": "verb", "def": "to let out, dismiss (e.g. from school/work)"}
+    ],
+    "components": [
+      {"part": "方", "pinyin": "fāng", "meaning": "direction (phonetic hint)"},
+      {"part": "攵", "pinyin": "-", "meaning": "a hand holding a stick, action"}
+    ],
+    "compositionNote": "方 (direction — a phonetic hint) combines with 攵 (a hand holding a stick, suggesting action) to depict driving something away or setting it free — to release or put.",
+    "words": [
+      {"word": "放心", "pinyin": "fàngxīn", "meaning": "to rest assured"},
+      {"word": "放假", "pinyin": "fàngjià", "meaning": "to have a holiday, vacation"},
+      {"word": "放学", "pinyin": "fàngxué", "meaning": "to finish school for the day"}
+    ],
+    "poem": [
+      "A hand with a stick (攵) points a direction (方),",
+      "driving it forth without objection.",
+      "Let it go, set it wide and free —",
+      "RELEASE (fàng) it now, however it'll be."
+    ]
+  },
+  {
+    "char": "心",
+    "pinyin": "xīn",
+    "hsk": 3,
+    "strokes": 4,
+    "radical": "心",
+    "meanings": [
+      {"pos": "noun", "def": "heart"},
+      {"pos": "noun", "def": "mind, feeling, intention"}
+    ],
+    "components": [
+      {"part": "心", "pinyin": "xīn", "meaning": "a pictograph of the shape of a heart"}
+    ],
+    "compositionNote": "心 is a pictograph tracing the outline of a heart.",
+    "words": [
+      {"word": "小心", "pinyin": "xiǎoxīn", "meaning": "careful"},
+      {"word": "放心", "pinyin": "fàngxīn", "meaning": "to rest assured"},
+      {"word": "开心", "pinyin": "kāixīn", "meaning": "happy"}
+    ],
+    "poem": [
+      "A shape once drawn from an ancient beat,",
+      "the picture of a HEART (xīn), so neat.",
+      "Feelings stir where thoughts reside,",
+      "mind and spirit, side by side."
+    ]
+  },
+  {
+    "char": "复",
+    "pinyin": "fù",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "夂",
+    "meanings": [
+      {"pos": "verb", "def": "to repeat"},
+      {"pos": "verb", "def": "to return, reply"},
+      {"pos": "adj", "def": "compound, multiple, complex"}
+    ],
+    "components": [
+      {"part": "𠮛", "pinyin": "-", "meaning": "an ancient bellows or storehouse shape"},
+      {"part": "夂", "pinyin": "-", "meaning": "footprints, to walk slowly"}
+    ],
+    "compositionNote": "The top depicts an ancient bellows or storehouse, and 夂 (footprints, 'to walk slowly') below shows returning to it again and again — giving the sense of repeating or returning.",
+    "words": [
+      {"word": "复习", "pinyin": "fùxí", "meaning": "to review"},
+      {"word": "恢复", "pinyin": "huīfù", "meaning": "to recover"},
+      {"word": "重复", "pinyin": "chóngfù", "meaning": "to repeat"}
+    ],
+    "poem": [
+      "Back to the storehouse, footsteps (夂) retrace,",
+      "walking again to the same old place.",
+      "Round and round, the cycle's spun —",
+      "REPEAT (fù) it well till the task is done."
+    ]
+  },
+  {
+    "char": "习",
+    "pinyin": "xí",
+    "hsk": 3,
+    "strokes": 3,
+    "radical": "乙",
+    "meanings": [
+      {"pos": "verb", "def": "to practice, study, learn"},
+      {"pos": "noun", "def": "habit, custom"}
+    ],
+    "components": [
+      {"part": "习", "pinyin": "xí", "meaning": "a simplified form of 習, an ancient picture of a bird's wing (羽) reduced to a few strokes"}
+    ],
+    "compositionNote": "习 is a simplified form of 習, which originally showed 羽 (wings, feathers) over 日 (sun) — a young bird flapping its wings repeatedly to learn to fly, hence 'to practice, study.'",
+    "words": [
+      {"word": "学习", "pinyin": "xuéxí", "meaning": "to study, learn"},
+      {"word": "习惯", "pinyin": "xíguàn", "meaning": "habit"},
+      {"word": "复习", "pinyin": "fùxí", "meaning": "to review"}
+    ],
+    "poem": [
+      "A fledgling flaps its wings toward the sun,",
+      "trying again till flight is won.",
+      "Practice and drill, day by day —",
+      "LEARNING (xí) to soar, come what may."
+    ]
+  },
+  {
+    "char": "附",
+    "pinyin": "fù",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "阝",
+    "meanings": [
+      {"pos": "verb", "def": "to attach, append"},
+      {"pos": "adj", "def": "nearby, adjacent"}
+    ],
+    "components": [
+      {"part": "阝", "pinyin": "-", "meaning": "mound, hill"},
+      {"part": "付", "pinyin": "fù", "meaning": "to hand over (phonetic hint)"}
+    ],
+    "compositionNote": "阝 (a mound or hill) combines with 付 (fù, 'to hand over' — a phonetic hint) to mean attaching close to something, as if placed alongside a hill.",
+    "words": [
+      {"word": "附近", "pinyin": "fùjìn", "meaning": "nearby"},
+      {"word": "附件", "pinyin": "fùjiàn", "meaning": "attachment"},
+      {"word": "附加", "pinyin": "fùjiā", "meaning": "additional"}
+    ],
+    "poem": [
+      "A little hill (阝) where things are handed (付) near,",
+      "close beside, always right here.",
+      "Stick it on, don't let it stray —",
+      "ATTACHED (fù) close by, come what may."
+    ]
+  },
+  {
+    "char": "该",
+    "pinyin": "gāi",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "讠",
+    "meanings": [
+      {"pos": "verb", "def": "should, ought to"},
+      {"pos": "pronoun", "def": "that, the aforementioned (formal)"}
+    ],
+    "components": [
+      {"part": "讠", "pinyin": "yán", "meaning": "speech"},
+      {"part": "亥", "pinyin": "hài", "meaning": "12th earthly branch (phonetic hint)"}
+    ],
+    "compositionNote": "讠 (speech) combines with 亥 (hài — a phonetic hint) to give 该, originally meaning 'to state completely,' now used for 'should' or 'ought to.'",
+    "words": [
+      {"word": "应该", "pinyin": "yīnggāi", "meaning": "should"},
+      {"word": "活该", "pinyin": "huógāi", "meaning": "it serves one right"},
+      {"word": "该死", "pinyin": "gāisǐ", "meaning": "damn it"}
+    ],
+    "poem": [
+      "Words (讠) declared beneath the sign (亥),",
+      "telling you what's right and fine.",
+      "Duty calls, don't be slow —",
+      "you SHOULD (gāi) do it, here we go."
+    ]
+  },
+  {
+    "char": "敢",
+    "pinyin": "gǎn",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "攵",
+    "meanings": [
+      {"pos": "verb", "def": "to dare"},
+      {"pos": "adj", "def": "bold, daring"}
+    ],
+    "components": [
+      {"part": "古", "pinyin": "gǔ", "meaning": "ancient (phonetic hint)"},
+      {"part": "攵", "pinyin": "-", "meaning": "a hand striking or grasping firmly"}
+    ],
+    "compositionNote": "敢 derives from hands grasping firmly (now 攵) combined with 古 (gǔ — a phonetic hint), picturing someone boldly seizing something — hence 'to dare.'",
+    "words": [
+      {"word": "勇敢", "pinyin": "yǒnggǎn", "meaning": "brave"},
+      {"word": "敢于", "pinyin": "gǎnyú", "meaning": "to dare to"},
+      {"word": "不敢", "pinyin": "bùgǎn", "meaning": "not dare to"}
+    ],
+    "poem": [
+      "Old hands (古) grip tight, refusing to fear,",
+      "holding on firm, courage sincere.",
+      "Step up bold, don't hesitate —",
+      "DARE (gǎn) to act, don't ever wait."
+    ]
+  },
+  {
+    "char": "感",
+    "pinyin": "gǎn",
+    "hsk": 3,
+    "strokes": 13,
+    "radical": "心",
+    "meanings": [
+      {"pos": "verb", "def": "to feel, sense"},
+      {"pos": "noun", "def": "feeling, sense"},
+      {"pos": "verb", "def": "to move (emotionally), touch"}
+    ],
+    "components": [
+      {"part": "咸", "pinyin": "xián", "meaning": "all, entirely (phonetic hint)"},
+      {"part": "心", "pinyin": "xīn", "meaning": "heart"}
+    ],
+    "compositionNote": "咸 (xián — a phonetic hint, meaning 'all') sits above 心 (heart), showing the heart being fully touched or stirred — to feel or be moved.",
+    "words": [
+      {"word": "感觉", "pinyin": "gǎnjué", "meaning": "to feel, feeling"},
+      {"word": "感谢", "pinyin": "gǎnxiè", "meaning": "to thank"},
+      {"word": "感冒", "pinyin": "gǎnmào", "meaning": "common cold"}
+    ],
+    "poem": [
+      "All (咸) the heart (心) can hold is stirred,",
+      "moved by every unspoken word.",
+      "Something touches deep within —",
+      "to FEEL (gǎn) it all, let it begin."
+    ]
+  },
+  {
+    "char": "冒",
+    "pinyin": "mào",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "冂",
+    "meanings": [
+      {"pos": "verb", "def": "to risk, brave (danger)"},
+      {"pos": "verb", "def": "to emit, give off"}
+    ],
+    "components": [
+      {"part": "冃", "pinyin": "mào", "meaning": "a cap, covering"},
+      {"part": "目", "pinyin": "mù", "meaning": "eye"}
+    ],
+    "compositionNote": "冃 (a cap or covering) sits over 目 (eye), picturing something covering the eyes — extended to mean recklessly pushing ahead despite the risk, and also 'to emit' (like steam covering something).",
+    "words": [
+      {"word": "感冒", "pinyin": "gǎnmào", "meaning": "common cold"},
+      {"word": "冒险", "pinyin": "màoxiǎn", "meaning": "to take a risk"},
+      {"word": "冒烟", "pinyin": "màoyān", "meaning": "to emit smoke"}
+    ],
+    "poem": [
+      "A cap (冃) pulled low above the eye (目),",
+      "blinding sight beneath the sky.",
+      "Push ahead, though danger's near —",
+      "RISK (mào) it all, and show no fear."
+    ]
+  },
+  {
+    "char": "刚",
+    "pinyin": "gāng",
+    "hsk": 3,
+    "strokes": 6,
+    "radical": "刂",
+    "meanings": [
+      {"pos": "adv", "def": "just now, a moment ago"},
+      {"pos": "adj", "def": "firm, strong, tough"}
+    ],
+    "components": [
+      {"part": "冈", "pinyin": "gāng", "meaning": "ridge (phonetic hint)"},
+      {"part": "刂", "pinyin": "-", "meaning": "knife"}
+    ],
+    "compositionNote": "冈 (gāng, 'ridge' — a phonetic hint) combines with 刂 (knife, suggesting hardness) to mean firm and tough, or 'just now' (freshly settled).",
+    "words": [
+      {"word": "刚才", "pinyin": "gāngcái", "meaning": "just now"},
+      {"word": "刚刚", "pinyin": "gānggāng", "meaning": "just, only just"},
+      {"word": "刚强", "pinyin": "gāngqiáng", "meaning": "firm, tough"}
+    ],
+    "poem": [
+      "A ridge (冈) stands hard against the knife (刂),",
+      "tough and firm through all of life.",
+      "Only moments since it passed by —",
+      "JUST NOW (gāng) it happened, don't ask why."
+    ]
+  }
+]

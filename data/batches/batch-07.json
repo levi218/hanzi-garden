@@ -1,0 +1,1798 @@
+[
+  {
+    "char": "游",
+    "pinyin": "yóu",
+    "hsk": 2,
+    "strokes": 12,
+    "radical": "氵",
+    "meanings": [
+      {
+        "pos": "verb",
+        "def": "to swim"
+      },
+      {
+        "pos": "verb",
+        "def": "to travel; to roam"
+      }
+    ],
+    "components": [
+      {
+        "part": "氵",
+        "pinyin": "shuǐ",
+        "meaning": "water"
+      },
+      {
+        "part": "斿",
+        "pinyin": "yóu",
+        "meaning": "a flag fluttering as someone walks (phonetic)"
+      }
+    ],
+    "compositionNote": "Water (氵) plus 斿, a fluttering banner that also lends its sound — together they picture drifting through water or roaming free.",
+    "words": [
+      {
+        "word": "游泳",
+        "pinyin": "yóu yǒng",
+        "meaning": "to swim"
+      },
+      {
+        "word": "旅游",
+        "pinyin": "lǚ yóu",
+        "meaning": "to travel"
+      },
+      {
+        "word": "游戏",
+        "pinyin": "yóu xì",
+        "meaning": "game"
+      }
+    ],
+    "poem": [
+      "Water swirls where banners fly,",
+      "a flag held high as rivers ply.",
+      "Dive in, drift on, roam and go —",
+      "to SWIM and ROAM (yóu), with the flow."
+    ]
+  },
+  {
+    "char": "慢",
+    "pinyin": "màn",
+    "hsk": 2,
+    "strokes": 14,
+    "radical": "忄",
+    "meanings": [
+      {
+        "pos": "adj",
+        "def": "slow"
+      }
+    ],
+    "components": [
+      {
+        "part": "忄",
+        "pinyin": "xīn",
+        "meaning": "heart"
+      },
+      {
+        "part": "曼",
+        "pinyin": "màn",
+        "meaning": "long, stretched, graceful (phonetic)"
+      }
+    ],
+    "compositionNote": "A heart (忄) stretched long and graceful (曼) — a mind unhurried gives the meaning of SLOW, and 曼 also supplies the sound.",
+    "words": [
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "meaning": "slowly"
+      },
+      {
+        "word": "快慢",
+        "pinyin": "kuài màn",
+        "meaning": "speed"
+      },
+      {
+        "word": "慢车",
+        "pinyin": "màn chē",
+        "meaning": "slow train"
+      }
+    ],
+    "poem": [
+      "Heart stretched long and full of grace,",
+      "takes its time at easy pace.",
+      "No rush at all, just calm and low —",
+      "SLOW (màn) as syrup, sweet and slow."
+    ]
+  },
+  {
+    "char": "忙",
+    "pinyin": "máng",
+    "hsk": 2,
+    "strokes": 6,
+    "radical": "忄",
+    "meanings": [
+      {
+        "pos": "adj",
+        "def": "busy"
+      }
+    ],
+    "components": [
+      {
+        "part": "忄",
+        "pinyin": "xīn",
+        "meaning": "heart"
+      },
+      {
+        "part": "亡",
+        "pinyin": "wáng",
+        "meaning": "to lose; to perish (phonetic)"
+      }
+    ],
+    "compositionNote": "A heart (忄) that feels it has lost (亡) itself in too many tasks — a flustered mind gives the meaning BUSY.",
+    "words": [
+      {
+        "word": "忙碌",
+        "pinyin": "máng lù",
+        "meaning": "busy"
+      },
+      {
+        "word": "帮忙",
+        "pinyin": "bāng máng",
+        "meaning": "to help"
+      },
+      {
+        "word": "很忙",
+        "pinyin": "hěn máng",
+        "meaning": "very busy"
+      }
+    ],
+    "poem": [
+      "Heart that feels it's lost its way,",
+      "too many tasks to fit the day.",
+      "Rushing here, rushing there, no rest at all —",
+      "so BUSY (máng), answering every call."
+    ]
+  },
+  {
+    "char": "每",
+    "pinyin": "měi",
+    "hsk": 2,
+    "strokes": 7,
+    "radical": "毋",
+    "meanings": [
+      {
+        "pos": "pronoun",
+        "def": "every; each"
+      }
+    ],
+    "components": [
+      {
+        "part": "母",
+        "pinyin": "mǔ",
+        "meaning": "mother (visual base of the character)"
+      },
+      {
+        "part": "丿",
+        "pinyin": "piě",
+        "meaning": "an extra stroke on top, like a hairpin"
+      }
+    ],
+    "compositionNote": "Built from the picture of a mother (母) with an ornament on top, extended in meaning to stand for any one, and so EVERY one.",
+    "words": [
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "meaning": "every day"
+      },
+      {
+        "word": "每个",
+        "pinyin": "měi gè",
+        "meaning": "each one"
+      },
+      {
+        "word": "每次",
+        "pinyin": "měi cì",
+        "meaning": "every time"
+      }
+    ],
+    "poem": [
+      "A mother-shape with hairpin bright,",
+      "stands for one, and stands for right.",
+      "From her comes each, and all the same —",
+      "EVERY (měi) single one, by any name."
+    ]
+  },
+  {
+    "char": "妹",
+    "pinyin": "mèi",
+    "hsk": 2,
+    "strokes": 8,
+    "radical": "女",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "younger sister"
+      }
+    ],
+    "components": [
+      {
+        "part": "女",
+        "pinyin": "nǚ",
+        "meaning": "woman"
+      },
+      {
+        "part": "未",
+        "pinyin": "wèi",
+        "meaning": "not yet (phonetic)"
+      }
+    ],
+    "compositionNote": "A woman (女) who is not yet (未) fully grown — the younger girl of the family, the YOUNGER SISTER.",
+    "words": [
+      {
+        "word": "妹妹",
+        "pinyin": "mèi mei",
+        "meaning": "younger sister"
+      },
+      {
+        "word": "姐妹",
+        "pinyin": "jiě mèi",
+        "meaning": "sisters"
+      },
+      {
+        "word": "表妹",
+        "pinyin": "biǎo mèi",
+        "meaning": "younger female cousin"
+      }
+    ],
+    "poem": [
+      "A girl who's not yet grown so tall,",
+      "littlest sibling, loved by all.",
+      "Younger, sweeter, trailing behind —",
+      "YOUNGER SISTER (mèi), one of a kind."
+    ]
+  },
+  {
+    "char": "门",
+    "pinyin": "mén",
+    "hsk": 2,
+    "strokes": 3,
+    "radical": "门",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "door; gate"
+      },
+      {
+        "pos": "measure word",
+        "def": "for academic subjects or lessons"
+      }
+    ],
+    "components": [
+      {
+        "part": "门",
+        "pinyin": "mén",
+        "meaning": "a two-leaf door, drawn as a picture"
+      }
+    ],
+    "compositionNote": "A simple picture of a two-panel door swinging on its frame gives the character DOOR.",
+    "words": [
+      {
+        "word": "门口",
+        "pinyin": "mén kǒu",
+        "meaning": "doorway"
+      },
+      {
+        "word": "大门",
+        "pinyin": "dà mén",
+        "meaning": "main gate"
+      },
+      {
+        "word": "出门",
+        "pinyin": "chū mén",
+        "meaning": "to go out"
+      }
+    ],
+    "poem": [
+      "Two wooden leaves stand side by side,",
+      "a picture of a door thrown wide.",
+      "Knock and enter, come on in —",
+      "that's the DOOR (mén) where trips begin."
+    ]
+  },
+  {
+    "char": "条",
+    "pinyin": "tiáo",
+    "hsk": 2,
+    "strokes": 7,
+    "radical": "木",
+    "meanings": [
+      {
+        "pos": "measure word",
+        "def": "for long, thin things (roads, fish, trousers)"
+      },
+      {
+        "pos": "noun",
+        "def": "strip; item; article"
+      }
+    ],
+    "components": [
+      {
+        "part": "夂",
+        "pinyin": "zhǐ",
+        "meaning": "simplified top, from the older phonetic 攸"
+      },
+      {
+        "part": "木",
+        "pinyin": "mù",
+        "meaning": "tree"
+      }
+    ],
+    "compositionNote": "A tree (木) with a slender branch on top — something long and thin, giving the measure word for STRIPS and long items.",
+    "words": [
+      {
+        "word": "一条",
+        "pinyin": "yì tiáo",
+        "meaning": "one (long thin item)"
+      },
+      {
+        "word": "面条",
+        "pinyin": "miàn tiáo",
+        "meaning": "noodles"
+      },
+      {
+        "word": "条件",
+        "pinyin": "tiáo jiàn",
+        "meaning": "condition"
+      }
+    ],
+    "poem": [
+      "A tree with a slender branch that grows,",
+      "one long strip, as thin as it goes.",
+      "Count them out, one by one, so neat —",
+      "a STRIP (tiáo) of noodles, or a street."
+    ]
+  },
+  {
+    "char": "奶",
+    "pinyin": "nǎi",
+    "hsk": 2,
+    "strokes": 5,
+    "radical": "女",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "milk"
+      },
+      {
+        "pos": "noun",
+        "def": "grandma (informal, in 奶奶)"
+      }
+    ],
+    "components": [
+      {
+        "part": "女",
+        "pinyin": "nǚ",
+        "meaning": "woman"
+      },
+      {
+        "part": "乃",
+        "pinyin": "nǎi",
+        "meaning": "thereupon (phonetic)"
+      }
+    ],
+    "compositionNote": "A woman (女) paired with the sound-carrying 乃 gives 奶 — originally the woman who nurses a child, hence MILK.",
+    "words": [
+      {
+        "word": "奶奶",
+        "pinyin": "nǎi nai",
+        "meaning": "paternal grandmother"
+      },
+      {
+        "word": "牛奶",
+        "pinyin": "niú nǎi",
+        "meaning": "milk"
+      },
+      {
+        "word": "奶粉",
+        "pinyin": "nǎi fěn",
+        "meaning": "milk powder"
+      }
+    ],
+    "poem": [
+      "A woman says her sound so plain (乃),",
+      "pouring milk again, again.",
+      "Grandma smiles and fills the cup —",
+      "that's the MILK (nǎi), warm, drink it up."
+    ]
+  },
+  {
+    "char": "男",
+    "pinyin": "nán",
+    "hsk": 2,
+    "strokes": 7,
+    "radical": "田",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "male; man (used attributively, e.g. 男人, 男孩)"
+      }
+    ],
+    "components": [
+      {
+        "part": "田",
+        "pinyin": "tián",
+        "meaning": "field"
+      },
+      {
+        "part": "力",
+        "pinyin": "lì",
+        "meaning": "strength; plow"
+      }
+    ],
+    "compositionNote": "Strength (力) applied in the field (田) — the ancient picture of a man working the land gives the meaning MALE.",
+    "words": [
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "meaning": "man"
+      },
+      {
+        "word": "男孩",
+        "pinyin": "nán hái",
+        "meaning": "boy"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "meaning": "boyfriend"
+      }
+    ],
+    "poem": [
+      "In the field he lends his strength,",
+      "plowing rows at any length.",
+      "Muscle, sweat, and labor's call —",
+      "that's a MALE (nán), standing tall."
+    ]
+  },
+  {
+    "char": "难",
+    "pinyin": "nán",
+    "hsk": 2,
+    "strokes": 10,
+    "radical": "又",
+    "meanings": [
+      {
+        "pos": "adj",
+        "def": "difficult; hard"
+      }
+    ],
+    "components": [
+      {
+        "part": "又",
+        "pinyin": "yòu",
+        "meaning": "hand (simplified from a longer phonetic)"
+      },
+      {
+        "part": "隹",
+        "pinyin": "zhuī",
+        "meaning": "short-tailed bird"
+      }
+    ],
+    "compositionNote": "A hand (又) trying to catch a bird (隹) — a slippery, hard-to-grasp task, the picture of DIFFICULT.",
+    "words": [
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "meaning": "sad"
+      },
+      {
+        "word": "困难",
+        "pinyin": "kùn nan",
+        "meaning": "difficulty"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "meaning": "ugly"
+      }
+    ],
+    "poem": [
+      "A hand that chases a fleeing bird,",
+      "tricky catch, and rarely heard.",
+      "Hard to grasp and hard to do —",
+      "that's DIFFICULT (nán), through and through."
+    ]
+  },
+  {
+    "char": "您",
+    "pinyin": "nín",
+    "hsk": 2,
+    "strokes": 11,
+    "radical": "心",
+    "meanings": [
+      {
+        "pos": "pronoun",
+        "def": "you (polite, singular)"
+      }
+    ],
+    "components": [
+      {
+        "part": "你",
+        "pinyin": "nǐ",
+        "meaning": "you"
+      },
+      {
+        "part": "心",
+        "pinyin": "xīn",
+        "meaning": "heart"
+      }
+    ],
+    "compositionNote": "You (你) plus a heart (心) beneath — speaking to someone with heartfelt respect gives the polite YOU.",
+    "words": [
+      {
+        "word": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)"
+      },
+      {
+        "word": "您早",
+        "pinyin": "nín zǎo",
+        "meaning": "good morning (polite)"
+      },
+      {
+        "word": "谢谢您",
+        "pinyin": "xiè xie nín",
+        "meaning": "thank you (polite)"
+      }
+    ],
+    "poem": [
+      "\"You\" plus a heart laid at the base,",
+      "warmth and manners, gentle grace.",
+      "Speak with respect, in kindest tone —",
+      "that's the polite word YOU (nín) alone."
+    ]
+  },
+  {
+    "char": "牛",
+    "pinyin": "niú",
+    "hsk": 2,
+    "strokes": 4,
+    "radical": "牛",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "ox; cow; cattle"
+      }
+    ],
+    "components": [
+      {
+        "part": "牛",
+        "pinyin": "niú",
+        "meaning": "an ox's head with horns, seen from the front"
+      }
+    ],
+    "compositionNote": "A simple pictograph of an ox's head and horns gives the character OX.",
+    "words": [
+      {
+        "word": "牛奶",
+        "pinyin": "niú nǎi",
+        "meaning": "milk"
+      },
+      {
+        "word": "牛肉",
+        "pinyin": "niú ròu",
+        "meaning": "beef"
+      },
+      {
+        "word": "牛仔裤",
+        "pinyin": "niú zǎi kù",
+        "meaning": "jeans"
+      }
+    ],
+    "poem": [
+      "Two horns atop a sturdy head,",
+      "a picture from the barn instead.",
+      "Pulling plows through muddy fields —",
+      "that's the OX (niú), whose labor yields."
+    ]
+  },
+  {
+    "char": "旁",
+    "pinyin": "páng",
+    "hsk": 2,
+    "strokes": 10,
+    "radical": "方",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "side; nearby"
+      }
+    ],
+    "components": [
+      {
+        "part": "亠",
+        "pinyin": "tóu",
+        "meaning": "top element, historically suggesting broad or general"
+      },
+      {
+        "part": "方",
+        "pinyin": "fāng",
+        "meaning": "direction; side"
+      }
+    ],
+    "compositionNote": "A broad, general shape sitting above 方 (direction) narrows down to a nearby direction — the meaning SIDE.",
+    "words": [
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "meaning": "beside"
+      },
+      {
+        "word": "两旁",
+        "pinyin": "liǎng páng",
+        "meaning": "both sides"
+      },
+      {
+        "word": "旁人",
+        "pinyin": "páng rén",
+        "meaning": "bystander"
+      }
+    ],
+    "poem": [
+      "Wide and broad, spread far and free,",
+      "beside a direction you will see.",
+      "Not the center, just nearby —",
+      "that's the SIDE (páng), close passing by."
+    ]
+  },
+  {
+    "char": "边",
+    "pinyin": "biān",
+    "hsk": 2,
+    "strokes": 5,
+    "radical": "辶",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "side; edge; border"
+      }
+    ],
+    "components": [
+      {
+        "part": "辶",
+        "pinyin": "chuò",
+        "meaning": "walking; movement"
+      },
+      {
+        "part": "力",
+        "pinyin": "lì",
+        "meaning": "strength (simplified from a fuller phonetic)"
+      }
+    ],
+    "compositionNote": "Walking (辶) along a boundary, with the simplified 力 standing in for the original sound component, gives EDGE or SIDE.",
+    "words": [
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "meaning": "beside"
+      },
+      {
+        "word": "边界",
+        "pinyin": "biān jiè",
+        "meaning": "border"
+      },
+      {
+        "word": "那边",
+        "pinyin": "nà biān",
+        "meaning": "over there"
+      }
+    ],
+    "poem": [
+      "Walking on, with strength in tow,",
+      "tracing borders as you go.",
+      "Along the rim, along the line —",
+      "that's the EDGE (biān), the border's sign."
+    ]
+  },
+  {
+    "char": "跑",
+    "pinyin": "pǎo",
+    "hsk": 2,
+    "strokes": 12,
+    "radical": "足",
+    "meanings": [
+      {
+        "pos": "verb",
+        "def": "to run"
+      }
+    ],
+    "components": [
+      {
+        "part": "足",
+        "pinyin": "zú",
+        "meaning": "foot"
+      },
+      {
+        "part": "包",
+        "pinyin": "bāo",
+        "meaning": "to wrap (phonetic)"
+      }
+    ],
+    "compositionNote": "A foot (足) in motion, paired with the sound-carrying 包, gives the action of legs pounding forward — to RUN.",
+    "words": [
+      {
+        "word": "跑步",
+        "pinyin": "pǎo bù",
+        "meaning": "to jog"
+      },
+      {
+        "word": "跑车",
+        "pinyin": "pǎo chē",
+        "meaning": "sports car"
+      },
+      {
+        "word": "逃跑",
+        "pinyin": "táo pǎo",
+        "meaning": "to flee"
+      }
+    ],
+    "poem": [
+      "Feet that wrap around the track,",
+      "racing forward, no turning back.",
+      "Fast and fleet, with pounding sound —",
+      "to RUN (pǎo) is to cover ground."
+    ]
+  },
+  {
+    "char": "步",
+    "pinyin": "bù",
+    "hsk": 2,
+    "strokes": 7,
+    "radical": "止",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "step; pace"
+      }
+    ],
+    "components": [
+      {
+        "part": "止",
+        "pinyin": "zhǐ",
+        "meaning": "a footprint; foot"
+      },
+      {
+        "part": "少",
+        "pinyin": "shǎo",
+        "meaning": "an altered second footprint below"
+      }
+    ],
+    "compositionNote": "Two footprints stacked one after another, left then right, form the picture of a single STEP.",
+    "words": [
+      {
+        "word": "步行",
+        "pinyin": "bù xíng",
+        "meaning": "to walk"
+      },
+      {
+        "word": "跑步",
+        "pinyin": "pǎo bù",
+        "meaning": "jogging"
+      },
+      {
+        "word": "进步",
+        "pinyin": "jìn bù",
+        "meaning": "progress"
+      }
+    ],
+    "poem": [
+      "One foot down, then one foot more,",
+      "footprints stacking on the floor.",
+      "Left then right, then right then left —",
+      "a single STEP (bù), one foot's heft."
+    ]
+  },
+  {
+    "char": "便",
+    "pinyin": "biàn",
+    "hsk": 2,
+    "strokes": 9,
+    "radical": "亻",
+    "meanings": [
+      {
+        "pos": "adj",
+        "def": "convenient"
+      },
+      {
+        "pos": "adv",
+        "def": "then; in that case (formal)"
+      }
+    ],
+    "components": [
+      {
+        "part": "亻",
+        "pinyin": "rén",
+        "meaning": "person"
+      },
+      {
+        "part": "更",
+        "pinyin": "gēng",
+        "meaning": "to change (phonetic)"
+      }
+    ],
+    "compositionNote": "A person (亻) who adapts and changes (更) with ease — quick to adjust, hence CONVENIENT.",
+    "words": [
+      {
+        "word": "方便",
+        "pinyin": "fāng biàn",
+        "meaning": "convenient"
+      },
+      {
+        "word": "便宜",
+        "pinyin": "pián yi",
+        "meaning": "cheap"
+      },
+      {
+        "word": "随便",
+        "pinyin": "suí biàn",
+        "meaning": "casual; whatever"
+      }
+    ],
+    "poem": [
+      "A person who will change with ease,",
+      "adapting fast to any breeze.",
+      "Handy, simple, quick to do —",
+      "CONVENIENT (biàn) fits right for you."
+    ]
+  },
+  {
+    "char": "宜",
+    "pinyin": "yí",
+    "hsk": 2,
+    "strokes": 8,
+    "radical": "宀",
+    "meanings": [
+      {
+        "pos": "adj",
+        "def": "suitable; appropriate"
+      }
+    ],
+    "components": [
+      {
+        "part": "宀",
+        "pinyin": "mián",
+        "meaning": "roof"
+      },
+      {
+        "part": "且",
+        "pinyin": "qiě",
+        "meaning": "a table with meat on it (original picture)"
+      }
+    ],
+    "compositionNote": "Under a roof (宀), a table set just right (且) shows the proper, fitting amount — the meaning SUITABLE.",
+    "words": [
+      {
+        "word": "便宜",
+        "pinyin": "pián yi",
+        "meaning": "cheap"
+      },
+      {
+        "word": "适宜",
+        "pinyin": "shì yí",
+        "meaning": "suitable"
+      },
+      {
+        "word": "相宜",
+        "pinyin": "xiāng yí",
+        "meaning": "appropriate"
+      }
+    ],
+    "poem": [
+      "Under a roof, a table spread,",
+      "just the right amount is said.",
+      "Fitting well, appropriate too —",
+      "SUITABLE (yí) is right for you."
+    ]
+  },
+  {
+    "char": "票",
+    "pinyin": "piào",
+    "hsk": 2,
+    "strokes": 11,
+    "radical": "示",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "ticket"
+      },
+      {
+        "pos": "noun",
+        "def": "vote; ballot"
+      }
+    ],
+    "components": [
+      {
+        "part": "覀",
+        "pinyin": "xī",
+        "meaning": "variant of 西, west (top)"
+      },
+      {
+        "part": "示",
+        "pinyin": "shì",
+        "meaning": "altar; sign (bottom)"
+      }
+    ],
+    "compositionNote": "A western (覀) sign posted like an altar notice (示) — an official paper slip, the TICKET or ballot.",
+    "words": [
+      {
+        "word": "车票",
+        "pinyin": "chē piào",
+        "meaning": "bus/train ticket"
+      },
+      {
+        "word": "门票",
+        "pinyin": "mén piào",
+        "meaning": "entrance ticket"
+      },
+      {
+        "word": "投票",
+        "pinyin": "tóu piào",
+        "meaning": "to vote"
+      }
+    ],
+    "poem": [
+      "West winds blow past an altar sign,",
+      "a paper stub, a printed line.",
+      "Show it quick before you board —",
+      "that's your TICKET (piào), safely stored."
+    ]
+  },
+  {
+    "char": "妻",
+    "pinyin": "qī",
+    "hsk": 2,
+    "strokes": 8,
+    "radical": "女",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "wife"
+      }
+    ],
+    "components": [
+      {
+        "part": "⺕",
+        "pinyin": "jì",
+        "meaning": "a hand holding a hairpin (top)"
+      },
+      {
+        "part": "女",
+        "pinyin": "nǚ",
+        "meaning": "woman"
+      }
+    ],
+    "compositionNote": "A hand arranging hair above a woman (女) — the picture of a woman managing the household, the WIFE.",
+    "words": [
+      {
+        "word": "妻子",
+        "pinyin": "qī zi",
+        "meaning": "wife"
+      },
+      {
+        "word": "夫妻",
+        "pinyin": "fū qī",
+        "meaning": "husband and wife"
+      },
+      {
+        "word": "前妻",
+        "pinyin": "qián qī",
+        "meaning": "ex-wife"
+      }
+    ],
+    "poem": [
+      "A hand pins up her flowing hair,",
+      "a woman with a household's care.",
+      "Bound by vows, she stands close by —",
+      "that's the WIFE (qī), 'neath the sky."
+    ]
+  },
+  {
+    "char": "床",
+    "pinyin": "chuáng",
+    "hsk": 2,
+    "strokes": 7,
+    "radical": "广",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "bed"
+      },
+      {
+        "pos": "measure word",
+        "def": "for quilts, blankets"
+      }
+    ],
+    "components": [
+      {
+        "part": "广",
+        "pinyin": "yǎn",
+        "meaning": "shelter; lean-to roof"
+      },
+      {
+        "part": "木",
+        "pinyin": "mù",
+        "meaning": "wood"
+      }
+    ],
+    "compositionNote": "Wood (木) framed under a shelter (广) — a wooden frame for resting, the picture of a BED.",
+    "words": [
+      {
+        "word": "床上",
+        "pinyin": "chuáng shàng",
+        "meaning": "on the bed"
+      },
+      {
+        "word": "起床",
+        "pinyin": "qǐ chuáng",
+        "meaning": "to get up"
+      },
+      {
+        "word": "单人床",
+        "pinyin": "dān rén chuáng",
+        "meaning": "single bed"
+      }
+    ],
+    "poem": [
+      "Under a shelter, wood laid flat,",
+      "a cozy frame to rest upon that.",
+      "Tuck in tight when day is done —",
+      "that's your BED (chuáng), when night's begun."
+    ]
+  },
+  {
+    "char": "千",
+    "pinyin": "qiān",
+    "hsk": 2,
+    "strokes": 3,
+    "radical": "十",
+    "meanings": [
+      {
+        "pos": "number",
+        "def": "thousand"
+      }
+    ],
+    "components": [
+      {
+        "part": "丿",
+        "pinyin": "piě",
+        "meaning": "a person shape (top stroke)"
+      },
+      {
+        "part": "十",
+        "pinyin": "shí",
+        "meaning": "ten"
+      }
+    ],
+    "compositionNote": "A single stroke standing atop 十 (ten) suggests ten taken many times over — the number THOUSAND.",
+    "words": [
+      {
+        "word": "一千",
+        "pinyin": "yì qiān",
+        "meaning": "one thousand"
+      },
+      {
+        "word": "千万",
+        "pinyin": "qiān wàn",
+        "meaning": "ten million; by all means"
+      },
+      {
+        "word": "成千上万",
+        "pinyin": "chéng qiān shàng wàn",
+        "meaning": "thousands upon thousands"
+      }
+    ],
+    "poem": [
+      "A person stands atop the ten,",
+      "multiplied again, again.",
+      "Hundreds stacked, then stacked some more —",
+      "a THOUSAND (qiān), that's the score."
+    ]
+  },
+  {
+    "char": "晴",
+    "pinyin": "qíng",
+    "hsk": 2,
+    "strokes": 12,
+    "radical": "日",
+    "meanings": [
+      {
+        "pos": "adj",
+        "def": "sunny; clear (weather)"
+      }
+    ],
+    "components": [
+      {
+        "part": "日",
+        "pinyin": "rì",
+        "meaning": "sun"
+      },
+      {
+        "part": "青",
+        "pinyin": "qīng",
+        "meaning": "blue-green; clear (phonetic)"
+      }
+    ],
+    "compositionNote": "The sun (日) shining alongside 青 (clear blue-green) gives the meaning SUNNY, with 青 also lending the sound.",
+    "words": [
+      {
+        "word": "晴天",
+        "pinyin": "qíng tiān",
+        "meaning": "sunny day"
+      },
+      {
+        "word": "晴朗",
+        "pinyin": "qíng lǎng",
+        "meaning": "clear and bright"
+      },
+      {
+        "word": "天晴",
+        "pinyin": "tiān qíng",
+        "meaning": "the weather clears up"
+      }
+    ],
+    "poem": [
+      "The sun shines on skies of blue,",
+      "clear and bright, no clouds in view.",
+      "Warm rays fall on everything —",
+      "that's a SUNNY (qíng) day in spring."
+    ]
+  },
+  {
+    "char": "让",
+    "pinyin": "ràng",
+    "hsk": 2,
+    "strokes": 5,
+    "radical": "讠",
+    "meanings": [
+      {
+        "pos": "verb",
+        "def": "to let; to allow"
+      },
+      {
+        "pos": "verb",
+        "def": "to yield; to give way"
+      }
+    ],
+    "components": [
+      {
+        "part": "讠",
+        "pinyin": "yán",
+        "meaning": "speech; words"
+      },
+      {
+        "part": "上",
+        "pinyin": "shàng",
+        "meaning": "up (simplified phonetic)"
+      }
+    ],
+    "compositionNote": "A word (讠) spoken to raise (上) someone else up or ahead — giving way with speech, the meaning to LET or ALLOW.",
+    "words": [
+      {
+        "word": "让步",
+        "pinyin": "ràng bù",
+        "meaning": "to give way"
+      },
+      {
+        "word": "谦让",
+        "pinyin": "qiān ràng",
+        "meaning": "to yield modestly"
+      },
+      {
+        "word": "让座",
+        "pinyin": "ràng zuò",
+        "meaning": "to give up a seat"
+      }
+    ],
+    "poem": [
+      "Words spoken, rising up with grace,",
+      "stepping back to give you space.",
+      "\"After you,\" is what they say —",
+      "to LET (ràng) someone lead the way."
+    ]
+  },
+  {
+    "char": "容",
+    "pinyin": "róng",
+    "hsk": 2,
+    "strokes": 10,
+    "radical": "宀",
+    "meanings": [
+      {
+        "pos": "verb",
+        "def": "to contain; to hold"
+      },
+      {
+        "pos": "verb",
+        "def": "to allow; to tolerate"
+      }
+    ],
+    "components": [
+      {
+        "part": "宀",
+        "pinyin": "mián",
+        "meaning": "roof"
+      },
+      {
+        "part": "谷",
+        "pinyin": "gǔ",
+        "meaning": "valley (phonetic, also suggests open space)"
+      }
+    ],
+    "compositionNote": "A roof (宀) over a wide valley (谷) — plenty of space to hold things, giving the meaning to CONTAIN or allow.",
+    "words": [
+      {
+        "word": "容易",
+        "pinyin": "róng yì",
+        "meaning": "easy"
+      },
+      {
+        "word": "内容",
+        "pinyin": "nèi róng",
+        "meaning": "content"
+      },
+      {
+        "word": "容纳",
+        "pinyin": "róng nà",
+        "meaning": "to hold; to accommodate"
+      }
+    ],
+    "poem": [
+      "Under a roof, a valley wide,",
+      "plenty of room for all inside.",
+      "Space to hold, and room to spare —",
+      "to CONTAIN (róng) with ease and care."
+    ]
+  },
+  {
+    "char": "易",
+    "pinyin": "yì",
+    "hsk": 2,
+    "strokes": 8,
+    "radical": "日",
+    "meanings": [
+      {
+        "pos": "adj",
+        "def": "easy"
+      }
+    ],
+    "components": [
+      {
+        "part": "日",
+        "pinyin": "rì",
+        "meaning": "sun (top, from an older pictograph)"
+      },
+      {
+        "part": "勿",
+        "pinyin": "wù",
+        "meaning": "do not (bottom, remnant of the same pictograph)"
+      }
+    ],
+    "compositionNote": "Originally a picture of a changeable lizard, the simplified shape reads as sun (日) over 勿 — something that shifts smoothly and effortlessly, hence EASY.",
+    "words": [
+      {
+        "word": "容易",
+        "pinyin": "róng yì",
+        "meaning": "easy"
+      },
+      {
+        "word": "简易",
+        "pinyin": "jiǎn yì",
+        "meaning": "simple"
+      },
+      {
+        "word": "轻易",
+        "pinyin": "qīng yì",
+        "meaning": "easily; rashly"
+      }
+    ],
+    "poem": [
+      "Sun above, a \"don't\" below,",
+      "nothing hard, just letting go.",
+      "Simple steps that flow with ease —",
+      "EASY (yì) as a gentle breeze."
+    ]
+  },
+  {
+    "char": "身",
+    "pinyin": "shēn",
+    "hsk": 2,
+    "strokes": 7,
+    "radical": "身",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "body"
+      }
+    ],
+    "components": [
+      {
+        "part": "身",
+        "pinyin": "shēn",
+        "meaning": "a human torso, drawn from the side"
+      }
+    ],
+    "compositionNote": "A pictograph of a person's torso, seen from the side, gives the character BODY.",
+    "words": [
+      {
+        "word": "身体",
+        "pinyin": "shēn tǐ",
+        "meaning": "body"
+      },
+      {
+        "word": "身上",
+        "pinyin": "shēn shang",
+        "meaning": "on one's body"
+      },
+      {
+        "word": "全身",
+        "pinyin": "quán shēn",
+        "meaning": "whole body"
+      }
+    ],
+    "poem": [
+      "A curving shape, a torso whole,",
+      "the picture of a body's role.",
+      "Arms and legs and beating heart —",
+      "that's the BODY (shēn), every part."
+    ]
+  },
+  {
+    "char": "体",
+    "pinyin": "tǐ",
+    "hsk": 2,
+    "strokes": 7,
+    "radical": "亻",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "body"
+      }
+    ],
+    "components": [
+      {
+        "part": "亻",
+        "pinyin": "rén",
+        "meaning": "person"
+      },
+      {
+        "part": "本",
+        "pinyin": "běn",
+        "meaning": "root; origin"
+      }
+    ],
+    "compositionNote": "A person (亻) and their root or foundation (本) — the basic frame that holds a person together, the BODY.",
+    "words": [
+      {
+        "word": "身体",
+        "pinyin": "shēn tǐ",
+        "meaning": "body"
+      },
+      {
+        "word": "体育",
+        "pinyin": "tǐ yù",
+        "meaning": "physical education; sports"
+      },
+      {
+        "word": "体重",
+        "pinyin": "tǐ zhòng",
+        "meaning": "body weight"
+      }
+    ],
+    "poem": [
+      "A person's root, their very core,",
+      "the frame that holds them, nothing more.",
+      "Strong and whole from head to feet —",
+      "that's the BODY (tǐ), form complete."
+    ]
+  },
+  {
+    "char": "病",
+    "pinyin": "bìng",
+    "hsk": 2,
+    "strokes": 10,
+    "radical": "疒",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "illness; disease"
+      },
+      {
+        "pos": "verb",
+        "def": "to fall ill"
+      }
+    ],
+    "components": [
+      {
+        "part": "疒",
+        "pinyin": "chuáng",
+        "meaning": "sickness; lying on a sickbed"
+      },
+      {
+        "part": "丙",
+        "pinyin": "bǐng",
+        "meaning": "third (phonetic)"
+      }
+    ],
+    "compositionNote": "The sickness radical (疒), showing a person lying ill, combined with the sound-carrying 丙, gives the meaning ILLNESS.",
+    "words": [
+      {
+        "word": "生病",
+        "pinyin": "shēng bìng",
+        "meaning": "to get sick"
+      },
+      {
+        "word": "病人",
+        "pinyin": "bìng rén",
+        "meaning": "patient"
+      },
+      {
+        "word": "看病",
+        "pinyin": "kàn bìng",
+        "meaning": "to see a doctor"
+      }
+    ],
+    "poem": [
+      "A sickbed shape with 丙 hidden deep,",
+      "fever rising, troubled sleep.",
+      "Aches and chills, you're feeling low —",
+      "you're SICK (bìng), and germs will show."
+    ]
+  },
+  {
+    "char": "手",
+    "pinyin": "shǒu",
+    "hsk": 2,
+    "strokes": 4,
+    "radical": "手",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "hand"
+      }
+    ],
+    "components": [
+      {
+        "part": "手",
+        "pinyin": "shǒu",
+        "meaning": "a hand with fingers and wrist, drawn as a picture"
+      }
+    ],
+    "compositionNote": "A simple pictograph of an open hand with its fingers gives the character HAND.",
+    "words": [
+      {
+        "word": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone"
+      },
+      {
+        "word": "手表",
+        "pinyin": "shǒu biǎo",
+        "meaning": "wristwatch"
+      },
+      {
+        "word": "洗手",
+        "pinyin": "xǐ shǒu",
+        "meaning": "to wash hands"
+      }
+    ],
+    "poem": [
+      "Five fingers spread out on a palm,",
+      "a simple picture, still and calm.",
+      "Reach and hold, and wave hello —",
+      "that's the HAND (shǒu), watch it go."
+    ]
+  },
+  {
+    "char": "表",
+    "pinyin": "biǎo",
+    "hsk": 2,
+    "strokes": 8,
+    "radical": "衣",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "watch (wristwatch)"
+      },
+      {
+        "pos": "verb",
+        "def": "to express; to show"
+      }
+    ],
+    "components": [
+      {
+        "part": "毛",
+        "pinyin": "máo",
+        "meaning": "fur; hair (top, now merged into the shape)"
+      },
+      {
+        "part": "衣",
+        "pinyin": "yī",
+        "meaning": "clothing"
+      }
+    ],
+    "compositionNote": "Originally fur (毛) worn on the outside of clothing (衣) — the visible surface of a garment, extended to mean what is shown on the outside: to EXPRESS, or a watch face.",
+    "words": [
+      {
+        "word": "手表",
+        "pinyin": "shǒu biǎo",
+        "meaning": "wristwatch"
+      },
+      {
+        "word": "表示",
+        "pinyin": "biǎo shì",
+        "meaning": "to express; to indicate"
+      },
+      {
+        "word": "表哥",
+        "pinyin": "biǎo gē",
+        "meaning": "older male cousin"
+      }
+    ],
+    "poem": [
+      "Fur worn outside over clothes,",
+      "showing what the surface shows.",
+      "A dial worn upon the wrist —",
+      "to SHOW or WATCH (biǎo), don't be missed."
+    ]
+  },
+  {
+    "char": "送",
+    "pinyin": "sòng",
+    "hsk": 2,
+    "strokes": 9,
+    "radical": "辶",
+    "meanings": [
+      {
+        "pos": "verb",
+        "def": "to give (as a gift)"
+      },
+      {
+        "pos": "verb",
+        "def": "to see someone off; to deliver"
+      }
+    ],
+    "components": [
+      {
+        "part": "辶",
+        "pinyin": "chuò",
+        "meaning": "walking; movement"
+      },
+      {
+        "part": "关",
+        "pinyin": "guān",
+        "meaning": "shape resembling a gate or pass (phonetic remnant)"
+      }
+    ],
+    "compositionNote": "Walking (辶) someone through the gate (关) and beyond — accompanying them out, or carrying a gift along the way, giving TO SEND or GIVE.",
+    "words": [
+      {
+        "word": "送给",
+        "pinyin": "sòng gěi",
+        "meaning": "to give to"
+      },
+      {
+        "word": "送行",
+        "pinyin": "sòng xíng",
+        "meaning": "to see someone off"
+      },
+      {
+        "word": "送礼",
+        "pinyin": "sòng lǐ",
+        "meaning": "to give a gift"
+      }
+    ],
+    "poem": [
+      "Walking on, with a gift in hand,",
+      "delivered forth across the land.",
+      "A present given, a friend seen off —",
+      "to GIVE or SEND (sòng), never scoff."
+    ]
+  },
+  {
+    "char": "虽",
+    "pinyin": "suī",
+    "hsk": 2,
+    "strokes": 9,
+    "radical": "口",
+    "meanings": [
+      {
+        "pos": "conjunction",
+        "def": "although"
+      }
+    ],
+    "components": [
+      {
+        "part": "口",
+        "pinyin": "kǒu",
+        "meaning": "mouth"
+      },
+      {
+        "part": "虫",
+        "pinyin": "chóng",
+        "meaning": "insect (phonetic)"
+      }
+    ],
+    "compositionNote": "A mouth (口) speaking up despite the small insect (虫) — voicing an objection anyway, the sense of ALTHOUGH.",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "meaning": "although"
+      },
+      {
+        "word": "虽说",
+        "pinyin": "suī shuō",
+        "meaning": "although"
+      },
+      {
+        "word": "虽则",
+        "pinyin": "suī zé",
+        "meaning": "although (literary)"
+      }
+    ],
+    "poem": [
+      "A mouth that speaks despite the bug,",
+      "\"but still,\" it says, with a knowing shrug.",
+      "Yes, but — despite it, all the same —",
+      "ALTHOUGH (suī) begins the frame."
+    ]
+  },
+  {
+    "char": "然",
+    "pinyin": "rán",
+    "hsk": 2,
+    "strokes": 12,
+    "radical": "灬",
+    "meanings": [
+      {
+        "pos": "particle",
+        "def": "suffix forming adverbs; so; like that"
+      }
+    ],
+    "components": [
+      {
+        "part": "月",
+        "pinyin": "ròu",
+        "meaning": "meat (flesh radical shape)"
+      },
+      {
+        "part": "犬",
+        "pinyin": "quǎn",
+        "meaning": "dog"
+      },
+      {
+        "part": "灬",
+        "pinyin": "huǒ",
+        "meaning": "fire (four dots)"
+      }
+    ],
+    "compositionNote": "Meat (月) from a dog (犬) set over fire (灬) — originally 'to burn', later borrowed to mean SO or LIKE THAT.",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "meaning": "although"
+      },
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "meaning": "of course"
+      },
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "meaning": "suddenly"
+      }
+    ],
+    "poem": [
+      "Dog meat set above the fire,",
+      "burning bright and climbing higher.",
+      "\"Just like that,\" is what we say —",
+      "SO, LIKE THAT (rán), it happened that way."
+    ]
+  },
+  {
+    "char": "踢",
+    "pinyin": "tī",
+    "hsk": 2,
+    "strokes": 15,
+    "radical": "足",
+    "meanings": [
+      {
+        "pos": "verb",
+        "def": "to kick"
+      }
+    ],
+    "components": [
+      {
+        "part": "足",
+        "pinyin": "zú",
+        "meaning": "foot"
+      },
+      {
+        "part": "易",
+        "pinyin": "yì",
+        "meaning": "easy (phonetic)"
+      }
+    ],
+    "compositionNote": "A foot (足) swinging with the sound-carrying 易 — a quick strike of the foot gives the meaning to KICK.",
+    "words": [
+      {
+        "word": "踢球",
+        "pinyin": "tī qiú",
+        "meaning": "to kick a ball"
+      },
+      {
+        "word": "踢足球",
+        "pinyin": "tī zú qiú",
+        "meaning": "to play soccer"
+      },
+      {
+        "word": "踢腿",
+        "pinyin": "tī tuǐ",
+        "meaning": "to kick a leg"
+      }
+    ],
+    "poem": [
+      "A foot that finds it easy, quick,",
+      "swinging hard to give a kick.",
+      "Ball goes flying, goal in sight —",
+      "to KICK (tī) it well with all your might."
+    ]
+  },
+  {
+    "char": "足",
+    "pinyin": "zú",
+    "hsk": 2,
+    "strokes": 7,
+    "radical": "足",
+    "meanings": [
+      {
+        "pos": "noun",
+        "def": "foot"
+      },
+      {
+        "pos": "adj",
+        "def": "enough; sufficient"
+      }
+    ],
+    "components": [
+      {
+        "part": "足",
+        "pinyin": "zú",
+        "meaning": "a leg with knee above and foot below, drawn as a picture"
+      }
+    ],
+    "compositionNote": "A pictograph of a leg bent at the knee down to the foot gives the character FOOT, later extended to mean ENOUGH.",
+    "words": [
+      {
+        "word": "足球",
+        "pinyin": "zú qiú",
+        "meaning": "soccer; football"
+      },
+      {
+        "word": "满足",
+        "pinyin": "mǎn zú",
+        "meaning": "satisfied"
+      },
+      {
+        "word": "不足",
+        "pinyin": "bù zú",
+        "meaning": "insufficient"
+      }
+    ],
+    "poem": [
+      "A knee above, a foot below,",
+      "a leg's whole picture, head to toe.",
+      "Plenty here, no need for more —",
+      "ENOUGH, a FOOT (zú), this word's the core."
+    ]
+  }
+]

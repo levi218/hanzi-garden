@@ -1,0 +1,327 @@
+{
+  "_comment": "Hand-curated look-alike sets for the Spot the Imposter game. `groups[].chars` is a plain string of characters — the first is not special. `tight` is 0-1: how hard the set is to tell apart, which drives the difficulty curve. `outside` carries pinyin/meaning for characters that are NOT in the HSK 1-3 dataset; those may only ever appear as distractors, never as the answer.",
+  "outside": {
+    "巳": { "pinyin": "sì", "meaning": "sixth earthly branch; the snake hour" },
+    "犬": { "pinyin": "quǎn", "meaning": "dog (classical)" },
+    "曰": { "pinyin": "yuē", "meaning": "to say (classical)" },
+    "入": { "pinyin": "rù", "meaning": "to enter; to go in" },
+    "干": { "pinyin": "gān", "meaning": "dry; to do" },
+    "刀": { "pinyin": "dāo", "meaning": "knife; blade" },
+    "木": { "pinyin": "mù", "meaning": "tree; wood" },
+    "末": { "pinyin": "mò", "meaning": "tip; end; final stage" },
+    "未": { "pinyin": "wèi", "meaning": "not yet; have not" },
+    "毛": { "pinyin": "máo", "meaning": "hair; fur; 0.1 yuan" },
+    "永": { "pinyin": "yǒng", "meaning": "forever; eternal" },
+    "眠": { "pinyin": "mián", "meaning": "to sleep; dormant" },
+    "过": { "pinyin": "guò", "meaning": "to pass; to cross; (past marker)" },
+    "银": { "pinyin": "yín", "meaning": "silver" },
+    "土": { "pinyin": "tǔ", "meaning": "earth; soil" },
+    "士": { "pinyin": "shì", "meaning": "scholar; gentleman" },
+    "田": { "pinyin": "tián", "meaning": "field; farmland" },
+    "由": { "pinyin": "yóu", "meaning": "from; by; cause" },
+    "甲": { "pinyin": "jiǎ", "meaning": "first; shell; armour" },
+    "申": { "pinyin": "shēn", "meaning": "to state; to apply for" },
+    "困": { "pinyin": "kùn", "meaning": "sleepy; trapped; hard-pressed" },
+    "汗": { "pinyin": "hàn", "meaning": "sweat; perspiration" },
+    "泡": { "pinyin": "pào", "meaning": "bubble; to steep" },
+    "戊": { "pinyin": "wù", "meaning": "fifth heavenly stem" },
+    "卡": { "pinyin": "kǎ", "meaning": "card; to get stuck" }
+  },
+  "groups": [
+    {
+      "chars": "己已巳",
+      "tight": 0.98,
+      "note": "Three strokes, three different mouths: 己 jǐ is wide open on the left, 已 yǐ is half closed, 巳 sì is sealed shut."
+    },
+    {
+      "chars": "本末未木",
+      "tight": 0.96,
+      "note": "All are 木 with one extra bar. 本 běn marks the root at the *foot*; 末 mò marks the tip with a *long* stroke on top; 未 wèi uses a *short* one."
+    },
+    {
+      "chars": "大天夫太",
+      "tight": 0.9,
+      "note": "大 dà is a person with arms out. 天 tiān lays a flat sky above the arms, 夫 fū pushes a hairpin straight *through* them, 太 tài drops a dot underneath."
+    },
+    {
+      "chars": "太犬大",
+      "tight": 0.95,
+      "note": "Same dot, different corner: 太 tài wears it low and centred, 犬 quǎn wears it high on the right shoulder."
+    },
+    {
+      "chars": "日曰",
+      "tight": 0.97,
+      "note": "Proportion is the only clue. 日 rì (sun) is taller than it is wide; 曰 yuē (to say) is wider than it is tall."
+    },
+    {
+      "chars": "白百自",
+      "tight": 0.9,
+      "note": "白 bái is 日 with a dropped stroke on top. 百 bǎi lays a full 一 above that. 自 zì is taller with an extra bar inside."
+    },
+    {
+      "chars": "人入八",
+      "tight": 0.92,
+      "note": "Where do the two strokes meet? 人 rén: the left stroke starts on top. 入 rù: the right one reaches *over* the left. 八 bā: they never touch at all."
+    },
+    {
+      "chars": "十千干土士",
+      "tight": 0.92,
+      "note": "A cross plus bars, five ways. 十 shí is the bare cross; 千 qiān adds a slanting flick; 干 gān has two full horizontals; 土 tǔ has the longer bar at the *bottom*; 士 shì has it on *top*."
+    },
+    {
+      "chars": "力刀办",
+      "tight": 0.85,
+      "note": "刀 dāo is the bare blade. 力 lì bends the left stroke into a straining arm. 办 bàn is 力 flanked by two dots."
+    },
+    {
+      "chars": "手毛",
+      "tight": 0.9,
+      "note": "The tail decides it: 手 shǒu hooks *down* at the bottom, 毛 máo flicks *up*."
+    },
+    {
+      "chars": "儿几九",
+      "tight": 0.86,
+      "note": "儿 ér ends in an upward hook on the right. 几 jǐ has a flat lid and turns down. 九 jiǔ crosses through itself."
+    },
+    {
+      "chars": "水冰永",
+      "tight": 0.85,
+      "note": "水 shuǐ stands alone. 冰 bīng adds the two ice strokes 冫 on the left. 永 yǒng caps the same body with a dot."
+    },
+    {
+      "chars": "车东",
+      "tight": 0.8,
+      "note": "车 chē is one vertical driven through two bars. 东 dōng hangs two dots under the crossbar."
+    },
+    {
+      "chars": "问间闻",
+      "tight": 0.93,
+      "note": "All three live inside the gate 门. Look at what is standing in the doorway: 口 mouth (问 to ask), 日 sun (间 between), 耳 ear (闻 to hear)."
+    },
+    {
+      "chars": "找我或成",
+      "tight": 0.9,
+      "note": "All lean on the halberd 戈. 找 zhǎo is a hand 扌 reaching; 我 wǒ has the extra stroke slicing through the middle."
+    },
+    {
+      "chars": "请清情晴睛",
+      "tight": 1.0,
+      "note": "青 qīng on the right gives the sound; the left gives the sense — 讠 speech (请 please), 氵 water (清 clear), 忄 heart (情 feeling), 日 sun (晴 sunny), 目 eye (睛 eyeball)."
+    },
+    {
+      "chars": "做作",
+      "tight": 0.85,
+      "note": "Both are zuò. 做 zuò is three blocks wide (亻+ 古 + 攵) and means to make something. 作 zuò is just 亻+ 乍 and leans on doing or working."
+    },
+    {
+      "chars": "在再",
+      "tight": 0.82,
+      "note": "在 zài tucks 土 (earth) under a slanted lid — being somewhere. 再 zài is a closed box with a bar driven through it — once more."
+    },
+    {
+      "chars": "是足",
+      "tight": 0.8,
+      "note": "Same pair of legs below. 是 shì stands on 日 (sun); 足 zú stands on 口 (mouth)."
+    },
+    {
+      "chars": "有友右",
+      "tight": 0.9,
+      "note": "友 yǒu is two hands, 𠂇 over 又. 右 yòu drops a 口 underneath instead. 有 yǒu carries a 月 (flesh) — to have."
+    },
+    {
+      "chars": "买卖",
+      "tight": 0.96,
+      "note": "卖 mài is 买 with a 十 on the roof — the seller has to put the goods *out*. Fewer strokes on top means you are buying."
+    },
+    {
+      "chars": "借错",
+      "tight": 0.86,
+      "note": "Both take 昔 xī on the right. A person 亻 borrows (借 jiè); metal 钅 goes wrong (错 cuò)."
+    },
+    {
+      "chars": "快块决",
+      "tight": 1.0,
+      "note": "Same 夬 on the right, three different left halves: heart 忄 is fast (快), earth 土 is a lump (块), ice 冫 decides (决)."
+    },
+    {
+      "chars": "什件",
+      "tight": 0.87,
+      "note": "Count the strokes on the right: 什 shén is 亻+ 十 (four total), 件 jiàn is 亻+ 牛 (six total)."
+    },
+    {
+      "chars": "他她它",
+      "tight": 0.92,
+      "note": "All three are read tā. 他 for a man (亻), 她 for a woman (女), 它 for a thing — the only one under a roof 宀."
+    },
+    {
+      "chars": "睡睛眼眠",
+      "tight": 0.86,
+      "note": "All are eyes 目. 睡 shuì adds 垂 (drooping) — eyelids falling; 睛 jīng adds 青; 眼 yǎn adds 艮; 眠 mián adds 民."
+    },
+    {
+      "chars": "边这近远过",
+      "tight": 0.82,
+      "note": "All ride the walking radical 辶. Only the passenger changes: 力 in 边 (side), 文 in 这 (this), 斤 in 近 (near), 元 in 远 (far), 寸 in 过 (to pass)."
+    },
+    {
+      "chars": "很根跟眼银",
+      "tight": 0.95,
+      "note": "艮 on the right every time. The left half is the whole story: 彳 stepping (很 very), 木 wood (根 root), 足 foot (跟 heel), 目 eye (眼), 钅 metal (银 silver)."
+    },
+    {
+      "chars": "吗妈马",
+      "tight": 0.92,
+      "note": "马 mǎ is the horse itself. Add a mouth 口 and it turns into the question particle 吗; add a woman 女 and it is 妈 mā, mother."
+    },
+    {
+      "chars": "吧把爸爬",
+      "tight": 0.9,
+      "note": "All built on 巴 bā. Mouth 口 makes the suggestion particle 吧; hand 扌 grabs (把); father 父 sits on top (爸); claws 爪 crawl (爬)."
+    },
+    {
+      "chars": "老考者",
+      "tight": 0.9,
+      "note": "Same 耂 hat. 老 lǎo curls its last stroke into 匕; 考 kǎo ends in the hook 丂; 者 zhě puts a 日 underneath."
+    },
+    {
+      "chars": "喝渴",
+      "tight": 1.0,
+      "note": "Same 曷 on the right. Drinking needs a mouth 口 (喝 hē); being thirsty is about the water 氵 you do not have (渴 kě)."
+    },
+    {
+      "chars": "校较",
+      "tight": 0.96,
+      "note": "Same 交 on the right. Wood 木 builds a school (校 xiào); a cart 车 does the comparing (较 jiào)."
+    },
+    {
+      "chars": "检脸",
+      "tight": 0.96,
+      "note": "Same 佥 on the right. Wood 木 inspects (检 jiǎn); flesh 月 makes a face (脸 liǎn)."
+    },
+    {
+      "chars": "钱铅铁钟",
+      "tight": 0.9,
+      "note": "Four metals 钅 in a row. The right half is the entire difference: 戋 money, 㕣 lead pencil, 失 iron, 中 clock."
+    },
+    {
+      "chars": "房放",
+      "tight": 0.9,
+      "note": "Both carry 方 fāng. 房 fáng shelters under a door 户; 放 fàng is being struck by 攵 — let go, release."
+    },
+    {
+      "chars": "园远完玩元",
+      "tight": 0.9,
+      "note": "元 yuán is the seed. Boxed 囗 it is a garden (园), walking 辶 it is far (远), roofed 宀 it is finished (完), jade 王 makes it play (玩)."
+    },
+    {
+      "chars": "练炼",
+      "tight": 0.96,
+      "note": "Identical right half. Silk 纟 is practice (练 liàn); fire 火 is smelting (炼 liàn). Same sound, same shape, different element."
+    },
+    {
+      "chars": "名多岁",
+      "tight": 0.85,
+      "note": "夕 (evening) in three arrangements: 多 duō stacks 夕 on 夕; 名 míng puts 夕 over 口; 岁 suì puts 山 over 夕."
+    },
+    {
+      "chars": "半牛午生",
+      "tight": 0.86,
+      "note": "牛 niú slants its top stroke to the left; 午 wǔ lays it flat; 半 bàn adds two dots on top; 生 shēng adds one more crossbar."
+    },
+    {
+      "chars": "万方",
+      "tight": 0.85,
+      "note": "方 fāng has a dot on the roof; 万 wàn does not. Nothing else separates them."
+    },
+    {
+      "chars": "上下卡",
+      "tight": 0.75,
+      "note": "上 shàng grows *above* the baseline; 下 xià hangs *below* it; 卡 kǎ is both at once — stuck in between."
+    },
+    {
+      "chars": "冷冰次决",
+      "tight": 0.8,
+      "note": "The two-stroke ice 冫 on the left of all four. Cold (冷), ice (冰), next (次), decide (决) — the right half carries every bit of the meaning."
+    },
+    {
+      "chars": "住主注往",
+      "tight": 0.95,
+      "note": "主 zhǔ is the core. A person 亻 lives there (住), water 氵 pours (注), stepping 彳 heads toward (往)."
+    },
+    {
+      "chars": "那哪",
+      "tight": 0.96,
+      "note": "哪 nǎ is 那 with a mouth 口 in front — you need a mouth to ask *which*."
+    },
+    {
+      "chars": "汉汗汽",
+      "tight": 0.85,
+      "note": "Three water words. 汉 hàn takes 又 (a hand), 汗 hàn takes 干, 汽 qì takes 气 (vapour)."
+    },
+    {
+      "chars": "姓生",
+      "tight": 0.8,
+      "note": "姓 xìng is 女 + 生 — a family name is born through the mother. 生 shēng alone is to be born."
+    },
+    {
+      "chars": "图园国",
+      "tight": 0.86,
+      "note": "All boxed in 囗. What is inside names it: 冬 a picture (图), 元 a garden (园), 玉 a country (国)."
+    },
+    {
+      "chars": "回四西",
+      "tight": 0.86,
+      "note": "回 huí is a box inside a box. 四 sì has two little legs inside. 西 xī puts the same legs under a lid."
+    },
+    {
+      "chars": "第弟",
+      "tight": 0.95,
+      "note": "第 dì wears the bamboo hat ⺮ and orders things; 弟 dì is bare-headed and means younger brother."
+    },
+    {
+      "chars": "因回困",
+      "tight": 0.87,
+      "note": "Same box 囗. 因 yīn has 大 inside (cause), 回 huí another box (to return), 困 kùn a tree 木 (trapped, sleepy)."
+    },
+    {
+      "chars": "票要西",
+      "tight": 0.86,
+      "note": "Both 票 and 要 stand on the lid 覀. 票 piào has 示 below; 要 yào has 女."
+    },
+    {
+      "chars": "子字",
+      "tight": 0.85,
+      "note": "字 zì is 子 (child) given a roof 宀 — characters are what a child is taught under the family roof."
+    },
+    {
+      "chars": "息思",
+      "tight": 0.9,
+      "note": "Both rest on a heart 心. 息 xī has 自 (the nose) above it — breathing; 思 sī has 田 (the skull) — thinking."
+    },
+    {
+      "chars": "词司",
+      "tight": 0.9,
+      "note": "词 cí is 司 with 讠 (speech) in front. Without the speech radical it is 司 sī, to manage."
+    },
+    {
+      "chars": "饱抱跑泡",
+      "tight": 0.95,
+      "note": "All wrap around 包 bāo. Food 饣 is full (饱), a hand 扌 hugs (抱), a foot 足 runs (跑), water 氵 bubbles (泡)."
+    },
+    {
+      "chars": "矮短",
+      "tight": 0.9,
+      "note": "Both measure with an arrow 矢 on the left. 矮 ǎi ends in 委 (short in height); 短 duǎn ends in 豆 (short in length)."
+    },
+    {
+      "chars": "我找戊",
+      "tight": 0.94,
+      "note": "戈 with different left halves. 我 wǒ has the short slash crossing high; 找 zhǎo has the full hand 扌 with a hook."
+    },
+    {
+      "chars": "田由甲申电",
+      "tight": 0.95,
+      "note": "One box, one stroke, four directions. 田 tián keeps it inside; 由 yóu pushes it out the top; 甲 jiǎ pushes it out the bottom; 申 shēn out both ends; 电 diàn bends the tail."
+    }
+  ]
+}

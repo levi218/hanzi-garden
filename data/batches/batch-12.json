@@ -1,0 +1,968 @@
+[
+  {
+    "char": "根",
+    "pinyin": "gēn",
+    "hsk": 3,
+    "strokes": 10,
+    "radical": "木",
+    "meanings": [
+      {"pos": "noun", "def": "root"},
+      {"pos": "measure word", "def": "for long thin objects (e.g. sticks, strands)"}
+    ],
+    "components": [
+      {"part": "木", "pinyin": "mù", "meaning": "tree"},
+      {"part": "艮", "pinyin": "gèn", "meaning": "stopping/hard (phonetic)"}
+    ],
+    "compositionNote": "根 pairs the tree radical 木 with the phonetic 艮 (gèn), grounding the meaning of 'root' at the base of a tree.",
+    "words": [
+      {"word": "根本", "pinyin": "gēnběn", "meaning": "fundamental; at all"},
+      {"word": "树根", "pinyin": "shùgēn", "meaning": "tree root"},
+      {"word": "根据", "pinyin": "gēnjù", "meaning": "according to; basis"}
+    ],
+    "poem": [
+      "Deep beneath the tree (木) so tall,",
+      "艮 hums a sound, that's all —",
+      "reaching down where nutrients dwell,",
+      "ROOT (gēn) below, the tree's own well."
+    ]
+  },
+  {
+    "char": "据",
+    "pinyin": "jù",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "扌",
+    "meanings": [
+      {"pos": "preposition", "def": "according to, based on"},
+      {"pos": "verb", "def": "to occupy, to rely on"}
+    ],
+    "components": [
+      {"part": "扌", "pinyin": "shǒu", "meaning": "hand"},
+      {"part": "居", "pinyin": "jū", "meaning": "to dwell, reside (phonetic)"}
+    ],
+    "compositionNote": "A hand (扌) grips firmly onto what one dwells on (居, phonetic), giving 据 the sense of holding evidence — 'according to'.",
+    "words": [
+      {"word": "根据", "pinyin": "gēnjù", "meaning": "according to; basis"},
+      {"word": "数据", "pinyin": "shùjù", "meaning": "data"},
+      {"word": "据说", "pinyin": "jùshuō", "meaning": "it is said that"}
+    ],
+    "poem": [
+      "A hand (扌) holds tight to where you dwell (居),",
+      "clutching facts it means to tell —",
+      "ACCORDING TO (jù) the proof in hand,",
+      "evidence is where you stand."
+    ]
+  },
+  {
+    "char": "跟",
+    "pinyin": "gēn",
+    "hsk": 3,
+    "strokes": 13,
+    "radical": "足",
+    "meanings": [
+      {"pos": "preposition", "def": "with"},
+      {"pos": "verb", "def": "to follow"},
+      {"pos": "noun", "def": "heel"}
+    ],
+    "components": [
+      {"part": "足", "pinyin": "zú", "meaning": "foot"},
+      {"part": "艮", "pinyin": "gèn", "meaning": "phonetic sound gèn"}
+    ],
+    "compositionNote": "The foot radical 足 plus the phonetic 艮 (gèn) point to the heel, and by extension, following right behind someone — 'with'.",
+    "words": [
+      {"word": "跟着", "pinyin": "gēnzhe", "meaning": "to follow along"},
+      {"word": "脚跟", "pinyin": "jiǎogēn", "meaning": "heel"},
+      {"word": "跟他一样", "pinyin": "gēn tā yíyàng", "meaning": "same as him"}
+    ],
+    "poem": [
+      "Your foot (足) treads on, with 艮 in tow,",
+      "the heel that follows where you go —",
+      "WITH (gēn) a friend, right by your side,",
+      "footsteps matching, stride for stride."
+    ]
+  },
+  {
+    "char": "更",
+    "pinyin": "gèng",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "曰",
+    "meanings": [
+      {"pos": "adv", "def": "even more"},
+      {"pos": "verb", "def": "to change, to replace"}
+    ],
+    "components": [
+      {"part": "一", "pinyin": "yī", "meaning": "a stroke (top)"},
+      {"part": "曰", "pinyin": "yuē", "meaning": "to say (sun-like shape)"},
+      {"part": "乂", "pinyin": "yì", "meaning": "crossing strokes at the base"}
+    ],
+    "compositionNote": "更's strokes stack atop 曰, an old ideogram whose original sense of 'change' has faded, leaving today's meaning of 'even more'.",
+    "words": [
+      {"word": "更好", "pinyin": "gèng hǎo", "meaning": "even better"},
+      {"word": "更多", "pinyin": "gèng duō", "meaning": "even more"},
+      {"word": "更改", "pinyin": "gēnggǎi", "meaning": "to alter, change"}
+    ],
+    "poem": [
+      "Stack a line above the say-mouth (曰),",
+      "crossed by strokes that seal the vow —",
+      "EVEN MORE (gèng) than what you knew,",
+      "change piles on, then more anew."
+    ]
+  },
+  {
+    "char": "园",
+    "pinyin": "yuán",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "囗",
+    "meanings": [
+      {"pos": "noun", "def": "garden, park"}
+    ],
+    "components": [
+      {"part": "囗", "pinyin": "wéi", "meaning": "enclosure"},
+      {"part": "元", "pinyin": "yuán", "meaning": "origin, first (phonetic)"}
+    ],
+    "compositionNote": "An enclosure (囗) fences in the phonetic 元 (yuán), picturing a walled plot of land — a garden.",
+    "words": [
+      {"word": "公园", "pinyin": "gōngyuán", "meaning": "public park"},
+      {"word": "花园", "pinyin": "huāyuán", "meaning": "garden"},
+      {"word": "动物园", "pinyin": "dòngwùyuán", "meaning": "zoo"}
+    ],
+    "poem": [
+      "A wall (囗) wraps 'round the start of things (元),",
+      "where blossoms bloom and songbird sings —",
+      "a GARDEN (yuán) fenced from the world outside,",
+      "nature's plot, enclosed with pride."
+    ]
+  },
+  {
+    "char": "故",
+    "pinyin": "gù",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "攵",
+    "meanings": [
+      {"pos": "conjunction", "def": "therefore, so"},
+      {"pos": "noun", "def": "reason, cause"},
+      {"pos": "adj", "def": "old, former"}
+    ],
+    "components": [
+      {"part": "古", "pinyin": "gǔ", "meaning": "ancient, old (phonetic)"},
+      {"part": "攵", "pinyin": "pū", "meaning": "to tap, to cause (action)"}
+    ],
+    "compositionNote": "An action (攵, a hand tapping/causing) applied to something ancient (古) — the root cause behind an old event, hence 'reason' and 'therefore'.",
+    "words": [
+      {"word": "故事", "pinyin": "gùshi", "meaning": "story"},
+      {"word": "故意", "pinyin": "gùyì", "meaning": "deliberately, on purpose"},
+      {"word": "事故", "pinyin": "shìgù", "meaning": "accident"}
+    ],
+    "poem": [
+      "Old times (古) get tapped by a hand (攵) that acts,",
+      "stirring up the ancient facts —",
+      "THEREFORE (gù), a reason comes to light,",
+      "a story told from bygone night."
+    ]
+  },
+  {
+    "char": "刮",
+    "pinyin": "guā",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "刂",
+    "meanings": [
+      {"pos": "verb", "def": "to blow (of wind)"},
+      {"pos": "verb", "def": "to scrape, to shave"}
+    ],
+    "components": [
+      {"part": "舌", "pinyin": "shé", "meaning": "tongue (phonetic)"},
+      {"part": "刂", "pinyin": "dāo", "meaning": "knife (action of scraping)"}
+    ],
+    "compositionNote": "A knife (刂) scrapes near the tongue-shaped phonetic 舌 (shé), giving the sense of scraping — and by extension, wind scraping past.",
+    "words": [
+      {"word": "刮风", "pinyin": "guā fēng", "meaning": "to be windy"},
+      {"word": "刮胡子", "pinyin": "guā húzi", "meaning": "to shave"},
+      {"word": "刮脸", "pinyin": "guā liǎn", "meaning": "to shave one's face"}
+    ],
+    "poem": [
+      "A knife (刂) glides by a tongue (舌) held still,",
+      "scraping close with careful skill —",
+      "the wind will BLOW (guā) and scrape the air,",
+      "whipping past your tousled hair."
+    ]
+  },
+  {
+    "char": "风",
+    "pinyin": "fēng",
+    "hsk": 3,
+    "strokes": 4,
+    "radical": "风",
+    "meanings": [
+      {"pos": "noun", "def": "wind"},
+      {"pos": "noun", "def": "style, custom"}
+    ],
+    "components": [
+      {"part": "风", "pinyin": "fēng", "meaning": "a stylized enclosure with a stroke inside, picturing moving air"}
+    ],
+    "compositionNote": "风 is a simplified pictograph-like form whose curved outline and inner stroke suggest air swirling and moving.",
+    "words": [
+      {"word": "刮风", "pinyin": "guā fēng", "meaning": "to be windy"},
+      {"word": "台风", "pinyin": "táifēng", "meaning": "typhoon"},
+      {"word": "风景", "pinyin": "fēngjǐng", "meaning": "scenery"}
+    ],
+    "poem": [
+      "A curving shape with air held in,",
+      "swirling round beneath the skin —",
+      "the WIND (fēng) that blows from far away,",
+      "whistling through the night and day."
+    ]
+  },
+  {
+    "char": "顾",
+    "pinyin": "gù",
+    "hsk": 3,
+    "strokes": 10,
+    "radical": "页",
+    "meanings": [
+      {"pos": "verb", "def": "to look after, take care of"},
+      {"pos": "verb", "def": "to consider, take into account"}
+    ],
+    "components": [
+      {"part": "户", "pinyin": "hù", "meaning": "door (simplified phonetic shape)"},
+      {"part": "页", "pinyin": "yè", "meaning": "head, page — to turn one's head and look"}
+    ],
+    "compositionNote": "The head radical 页 (originally 'to turn one's head and look back') combines with a simplified phonetic shape to give 顾 its sense of looking after someone.",
+    "words": [
+      {"word": "顾客", "pinyin": "gùkè", "meaning": "customer"},
+      {"word": "照顾", "pinyin": "zhàogù", "meaning": "to take care of"},
+      {"word": "不顾", "pinyin": "bùgù", "meaning": "regardless of"}
+    ],
+    "poem": [
+      "A head (页) turns back at a door (户) ajar,",
+      "checking loved ones near and far —",
+      "to LOOK AFTER (gù) them, come what may,",
+      "caring eyes that never stray."
+    ]
+  },
+  {
+    "char": "客",
+    "pinyin": "kè",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "宀",
+    "meanings": [
+      {"pos": "noun", "def": "guest, visitor"},
+      {"pos": "noun", "def": "customer"}
+    ],
+    "components": [
+      {"part": "宀", "pinyin": "mián", "meaning": "roof"},
+      {"part": "各", "pinyin": "gè", "meaning": "each (phonetic)"}
+    ],
+    "compositionNote": "Under a roof (宀), each (各, phonetic) visitor arrives — the picture of a guest received into one's home.",
+    "words": [
+      {"word": "客人", "pinyin": "kèrén", "meaning": "guest"},
+      {"word": "顾客", "pinyin": "gùkè", "meaning": "customer"},
+      {"word": "客气", "pinyin": "kèqi", "meaning": "polite"}
+    ],
+    "poem": [
+      "Beneath a roof (宀), each (各) one arrives,",
+      "a GUEST (kè) whose visit soon revives —",
+      "tea is poured and seats are spread,",
+      "welcome words are gently said."
+    ]
+  },
+  {
+    "char": "怪",
+    "pinyin": "guài",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "忄",
+    "meanings": [
+      {"pos": "adj", "def": "strange, odd"},
+      {"pos": "adv", "def": "quite, rather"}
+    ],
+    "components": [
+      {"part": "忄", "pinyin": "xīn", "meaning": "heart, feeling"},
+      {"part": "圣", "pinyin": "guài", "meaning": "phonetic sound (unrelated to 'holy')"}
+    ],
+    "compositionNote": "The heart radical 忄 pairs with the phonetic 圣 purely for sound, capturing a feeling too odd to explain — 'strange'.",
+    "words": [
+      {"word": "奇怪", "pinyin": "qíguài", "meaning": "strange"},
+      {"word": "怪不得", "pinyin": "guàibude", "meaning": "no wonder"},
+      {"word": "怪物", "pinyin": "guàiwù", "meaning": "monster"}
+    ],
+    "poem": [
+      "A heart (忄) feels something hard to say,",
+      "a sound (圣) that echoes, come what may —",
+      "how STRANGE (guài) this feeling, out of place,",
+      "a puzzled look upon your face."
+    ]
+  },
+  {
+    "char": "馆",
+    "pinyin": "guǎn",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "饣",
+    "meanings": [
+      {"pos": "noun", "def": "building for public use (hall, hotel, embassy)"}
+    ],
+    "components": [
+      {"part": "饣", "pinyin": "shí", "meaning": "food"},
+      {"part": "官", "pinyin": "guān", "meaning": "official (phonetic)"}
+    ],
+    "compositionNote": "Food (饣) served under an official's (官) roof pictures a public hall — a restaurant, library, or embassy.",
+    "words": [
+      {"word": "图书馆", "pinyin": "túshūguǎn", "meaning": "library"},
+      {"word": "饭馆", "pinyin": "fànguǎn", "meaning": "restaurant"},
+      {"word": "博物馆", "pinyin": "bówùguǎn", "meaning": "museum"}
+    ],
+    "poem": [
+      "Food (饣) is served where officials (官) stay,",
+      "a grand HALL (guǎn) built to please and sway —",
+      "books or noodles, art on view,",
+      "a public place for me and you."
+    ]
+  },
+  {
+    "char": "惯",
+    "pinyin": "guàn",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "忄",
+    "meanings": [
+      {"pos": "verb", "def": "to be used to, accustomed to"},
+      {"pos": "noun", "def": "habit"}
+    ],
+    "components": [
+      {"part": "忄", "pinyin": "xīn", "meaning": "heart"},
+      {"part": "贯", "pinyin": "guàn", "meaning": "to pass through, a string of coins (phonetic)"}
+    ],
+    "compositionNote": "A habit runs through the heart (忄) like coins strung on a cord (贯, phonetic), giving 惯 its sense of being 'used to' something.",
+    "words": [
+      {"word": "习惯", "pinyin": "xíguàn", "meaning": "habit; to be used to"},
+      {"word": "惯例", "pinyin": "guànlì", "meaning": "convention, usual practice"},
+      {"word": "看不惯", "pinyin": "kànbuguàn", "meaning": "to find intolerable"}
+    ],
+    "poem": [
+      "Coins (贯) strung through, heart (忄) feels the same,",
+      "a threaded string that has no shame —",
+      "USED TO (guàn) it now, this well-worn way,",
+      "habits strung through every day."
+    ]
+  },
+  {
+    "char": "河",
+    "pinyin": "hé",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "氵",
+    "meanings": [
+      {"pos": "noun", "def": "river"}
+    ],
+    "components": [
+      {"part": "氵", "pinyin": "shuǐ", "meaning": "water"},
+      {"part": "可", "pinyin": "kě", "meaning": "can, may (phonetic)"}
+    ],
+    "compositionNote": "Water (氵) flows alongside the phonetic 可 (kě), forming the character for a flowing river.",
+    "words": [
+      {"word": "河流", "pinyin": "héliú", "meaning": "river"},
+      {"word": "黄河", "pinyin": "Huánghé", "meaning": "Yellow River"},
+      {"word": "河边", "pinyin": "hébiān", "meaning": "riverside"}
+    ],
+    "poem": [
+      "Water (氵) flows where it may (可) go,",
+      "winding on in gentle flow —",
+      "a RIVER (hé) wide, a river deep,",
+      "secrets that the currents keep."
+    ]
+  },
+  {
+    "char": "黑",
+    "pinyin": "hēi",
+    "hsk": 3,
+    "strokes": 12,
+    "radical": "黑",
+    "meanings": [
+      {"pos": "adj", "def": "black"},
+      {"pos": "adj", "def": "dark"}
+    ],
+    "components": [
+      {"part": "囱", "pinyin": "cōng", "meaning": "chimney (compressed top part)"},
+      {"part": "灬", "pinyin": "huǒ", "meaning": "fire (four dots at bottom)"}
+    ],
+    "compositionNote": "Fire (灬) burns beneath a chimney (囱), and the soot it leaves behind gives 黑 its meaning of 'black'.",
+    "words": [
+      {"word": "黑板", "pinyin": "hēibǎn", "meaning": "blackboard"},
+      {"word": "黑色", "pinyin": "hēisè", "meaning": "black (color)"},
+      {"word": "黑夜", "pinyin": "hēiyè", "meaning": "dark night"}
+    ],
+    "poem": [
+      "Fire (灬) burns beneath a smoky flue (囱),",
+      "soot collects in shadowed hue —",
+      "BLACK (hēi) as night, as coal, as tar,",
+      "darkness spreading near and far."
+    ]
+  },
+  {
+    "char": "板",
+    "pinyin": "bǎn",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "木",
+    "meanings": [
+      {"pos": "noun", "def": "board, plank"}
+    ],
+    "components": [
+      {"part": "木", "pinyin": "mù", "meaning": "wood"},
+      {"part": "反", "pinyin": "fǎn", "meaning": "opposite, to turn over (phonetic)"}
+    ],
+    "compositionNote": "A flat piece of wood (木) turned over (反, phonetic) becomes a board or plank.",
+    "words": [
+      {"word": "黑板", "pinyin": "hēibǎn", "meaning": "blackboard"},
+      {"word": "老板", "pinyin": "lǎobǎn", "meaning": "boss"},
+      {"word": "木板", "pinyin": "mùbǎn", "meaning": "wooden board"}
+    ],
+    "poem": [
+      "Wood (木) flipped over (反), flat and wide,",
+      "a sturdy BOARD (bǎn) to write beside —",
+      "chalk marks dance across its face,",
+      "a plank that holds its steady place."
+    ]
+  },
+  {
+    "char": "护",
+    "pinyin": "hù",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "扌",
+    "meanings": [
+      {"pos": "verb", "def": "to protect, to guard"}
+    ],
+    "components": [
+      {"part": "扌", "pinyin": "shǒu", "meaning": "hand"},
+      {"part": "户", "pinyin": "hù", "meaning": "door (phonetic)"}
+    ],
+    "compositionNote": "A hand (扌) bars the door (户, phonetic) shut, the picture of guarding and protecting.",
+    "words": [
+      {"word": "护士", "pinyin": "hùshi", "meaning": "nurse"},
+      {"word": "保护", "pinyin": "bǎohù", "meaning": "to protect"},
+      {"word": "护照", "pinyin": "hùzhào", "meaning": "passport"}
+    ],
+    "poem": [
+      "A hand (扌) holds firm against the door (户),",
+      "guarding what lies at its core —",
+      "PROTECT (hù) the ones you cherish so,",
+      "a shield against the wind and woe."
+    ]
+  },
+  {
+    "char": "照",
+    "pinyin": "zhào",
+    "hsk": 3,
+    "strokes": 13,
+    "radical": "灬",
+    "meanings": [
+      {"pos": "verb", "def": "to shine, to illuminate"},
+      {"pos": "verb", "def": "to take a photo"},
+      {"pos": "preposition", "def": "according to"}
+    ],
+    "components": [
+      {"part": "昭", "pinyin": "zhāo", "meaning": "bright, clear (日 sun + 召 to summon, phonetic)"},
+      {"part": "灬", "pinyin": "huǒ", "meaning": "fire, light"}
+    ],
+    "compositionNote": "Fire's light (灬) joins 昭 (zhāo, 'bright,' itself sun 日 plus 召), doubling the brightness — to shine or to photograph.",
+    "words": [
+      {"word": "照片", "pinyin": "zhàopiàn", "meaning": "photo"},
+      {"word": "照顾", "pinyin": "zhàogù", "meaning": "to take care of"},
+      {"word": "护照", "pinyin": "hùzhào", "meaning": "passport"}
+    ],
+    "poem": [
+      "Sun (日) calls out (召), and flames (灬) ignite,",
+      "doubling up the beams of light —",
+      "SHINE (zhào) a picture, capture the glow,",
+      "a flash that freezes time's swift flow."
+    ]
+  },
+  {
+    "char": "花",
+    "pinyin": "huā",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "艹",
+    "meanings": [
+      {"pos": "noun", "def": "flower"},
+      {"pos": "verb", "def": "to spend (money, time)"}
+    ],
+    "components": [
+      {"part": "艹", "pinyin": "cǎo", "meaning": "grass, plant"},
+      {"part": "化", "pinyin": "huà", "meaning": "to change, transform (phonetic)"}
+    ],
+    "compositionNote": "A plant (艹) transforms (化, phonetic) as it blooms into a flower.",
+    "words": [
+      {"word": "花园", "pinyin": "huāyuán", "meaning": "garden"},
+      {"word": "花钱", "pinyin": "huāqián", "meaning": "to spend money"},
+      {"word": "鲜花", "pinyin": "xiānhuā", "meaning": "fresh flowers"}
+    ],
+    "poem": [
+      "A plant (艹) transforms (化), bud into bloom,",
+      "petals bursting, sweet perfume —",
+      "a FLOWER (huā) blooms, so bright, so brief,",
+      "then money's spent like falling leaf."
+    ]
+  },
+  {
+    "char": "画",
+    "pinyin": "huà",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "一",
+    "meanings": [
+      {"pos": "verb", "def": "to draw, to paint"},
+      {"pos": "noun", "def": "painting, picture"}
+    ],
+    "components": [
+      {"part": "一", "pinyin": "yī", "meaning": "a boundary line (top stroke)"},
+      {"part": "田", "pinyin": "tián", "meaning": "field, the framed area being outlined"}
+    ],
+    "compositionNote": "A line (一) is drawn to frame a field-like area (田), the ancient image of marking out boundaries — 'to draw'.",
+    "words": [
+      {"word": "画画", "pinyin": "huàhuà", "meaning": "to draw/paint"},
+      {"word": "画家", "pinyin": "huàjiā", "meaning": "painter"},
+      {"word": "图画", "pinyin": "túhuà", "meaning": "picture"}
+    ],
+    "poem": [
+      "A line (一) wraps 'round a framed-in field (田),",
+      "boundaries where the colors yield —",
+      "DRAW (huà) a picture, brush in hand,",
+      "a painted world at your command."
+    ]
+  },
+  {
+    "char": "坏",
+    "pinyin": "huài",
+    "hsk": 3,
+    "strokes": 7,
+    "radical": "土",
+    "meanings": [
+      {"pos": "adj", "def": "bad"},
+      {"pos": "adj", "def": "broken, spoiled"}
+    ],
+    "components": [
+      {"part": "土", "pinyin": "tǔ", "meaning": "earth"},
+      {"part": "不", "pinyin": "bù", "meaning": "not (phonetic)"}
+    ],
+    "compositionNote": "Earth (土) that is not (不) sound crumbles apart — the sense of 'bad' or 'broken'.",
+    "words": [
+      {"word": "坏人", "pinyin": "huàirén", "meaning": "bad person"},
+      {"word": "坏了", "pinyin": "huài le", "meaning": "broken, gone wrong"},
+      {"word": "破坏", "pinyin": "pòhuài", "meaning": "to destroy"}
+    ],
+    "poem": [
+      "Earth (土) that's simply not (不) quite right,",
+      "crumbles softly out of sight —",
+      "BROKEN (huài), BAD, it falls apart,",
+      "a cracked foundation from the start."
+    ]
+  },
+  {
+    "char": "环",
+    "pinyin": "huán",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "王",
+    "meanings": [
+      {"pos": "noun", "def": "ring, loop"},
+      {"pos": "noun", "def": "environment, surroundings"}
+    ],
+    "components": [
+      {"part": "王", "pinyin": "wáng", "meaning": "jade (reduced form of 玉)"},
+      {"part": "不", "pinyin": "bù", "meaning": "phonetic sound (simplified from 睘)"}
+    ],
+    "compositionNote": "Jade (王, from 玉) shaped into a circle, with 不 standing in as a simplified phonetic — the picture of a jade ring.",
+    "words": [
+      {"word": "环境", "pinyin": "huánjìng", "meaning": "environment"},
+      {"word": "耳环", "pinyin": "ěrhuán", "meaning": "earring"},
+      {"word": "环节", "pinyin": "huánjié", "meaning": "link, segment"}
+    ],
+    "poem": [
+      "Jade (王) curves 'round in a perfect loop,",
+      "a shining RING (huán) in a jeweler's group —",
+      "surroundings circle you like this too,",
+      "the whole environment wrapping you."
+    ]
+  },
+  {
+    "char": "境",
+    "pinyin": "jìng",
+    "hsk": 3,
+    "strokes": 14,
+    "radical": "土",
+    "meanings": [
+      {"pos": "noun", "def": "border, territory"},
+      {"pos": "noun", "def": "condition, situation"}
+    ],
+    "components": [
+      {"part": "土", "pinyin": "tǔ", "meaning": "earth, land"},
+      {"part": "竟", "pinyin": "jìng", "meaning": "to finish, unexpectedly (phonetic)"}
+    ],
+    "compositionNote": "Land (土) reaches its finishing edge (竟, phonetic), marking a border or territory — and by extension, one's surrounding situation.",
+    "words": [
+      {"word": "环境", "pinyin": "huánjìng", "meaning": "environment"},
+      {"word": "边境", "pinyin": "biānjìng", "meaning": "border"},
+      {"word": "心境", "pinyin": "xīnjìng", "meaning": "state of mind"}
+    ],
+    "poem": [
+      "Land (土) runs out where it must end (竟),",
+      "a BORDER (jìng) line the maps append —",
+      "beyond this edge, a different place,",
+      "a shifting state, a changing space."
+    ]
+  },
+  {
+    "char": "换",
+    "pinyin": "huàn",
+    "hsk": 3,
+    "strokes": 10,
+    "radical": "扌",
+    "meanings": [
+      {"pos": "verb", "def": "to exchange, to change, to switch"}
+    ],
+    "components": [
+      {"part": "扌", "pinyin": "shǒu", "meaning": "hand"},
+      {"part": "奂", "pinyin": "huàn", "meaning": "splendid (phonetic)"}
+    ],
+    "compositionNote": "A hand (扌) trades one splendid thing (奂, phonetic) for another — to exchange or switch.",
+    "words": [
+      {"word": "交换", "pinyin": "jiāohuàn", "meaning": "to exchange"},
+      {"word": "换钱", "pinyin": "huànqián", "meaning": "to exchange money"},
+      {"word": "换衣服", "pinyin": "huàn yīfu", "meaning": "to change clothes"}
+    ],
+    "poem": [
+      "A hand (扌) trades something fine and grand (奂),",
+      "passing treasure hand to hand —",
+      "EXCHANGE (huàn) it now, this thing for that,",
+      "swap your coat, your cash, your hat."
+    ]
+  },
+  {
+    "char": "黄",
+    "pinyin": "huáng",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "黄",
+    "meanings": [
+      {"pos": "adj", "def": "yellow"},
+      {"pos": "noun", "def": "surname Huang"}
+    ],
+    "components": [
+      {"part": "由", "pinyin": "yóu", "meaning": "a stalk of ripened grain (middle part)"},
+      {"part": "八", "pinyin": "bā", "meaning": "eight, here forming rays at the bottom"}
+    ],
+    "compositionNote": "黄 once pictured a person wearing a bright jade pendant; today it reads as ripened grain (由) glowing with rays (八) — the color yellow.",
+    "words": [
+      {"word": "黄色", "pinyin": "huángsè", "meaning": "yellow"},
+      {"word": "黄河", "pinyin": "Huánghé", "meaning": "Yellow River"},
+      {"word": "蛋黄", "pinyin": "dànhuáng", "meaning": "egg yolk"}
+    ],
+    "poem": [
+      "Ripe grain (由) glows, rays (八) spread out wide,",
+      "gold light pouring, field-side —",
+      "YELLOW (huáng) sun on autumn's crop,",
+      "a golden shimmer, never stop."
+    ]
+  },
+  {
+    "char": "答",
+    "pinyin": "dá",
+    "hsk": 3,
+    "strokes": 12,
+    "radical": "竹",
+    "meanings": [
+      {"pos": "verb", "def": "to answer, to reply"}
+    ],
+    "components": [
+      {"part": "⺮", "pinyin": "zhú", "meaning": "bamboo"},
+      {"part": "合", "pinyin": "hé", "meaning": "to fit, combine (phonetic)"}
+    ],
+    "compositionNote": "Bamboo strips (⺮, once used for writing) fit together (合, phonetic) to record a reply — 'to answer'.",
+    "words": [
+      {"word": "回答", "pinyin": "huídá", "meaning": "to answer"},
+      {"word": "答案", "pinyin": "dá'àn", "meaning": "answer"},
+      {"word": "解答", "pinyin": "jiědá", "meaning": "to explain, solve"}
+    ],
+    "poem": [
+      "Bamboo strips (⺮) fit close and tight (合),",
+      "words recorded left to right —",
+      "ANSWER (dá) written, question met,",
+      "a reply that won't be forgot yet."
+    ]
+  },
+  {
+    "char": "或",
+    "pinyin": "huò",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "戈",
+    "meanings": [
+      {"pos": "conjunction", "def": "or"},
+      {"pos": "adv", "def": "perhaps, maybe"}
+    ],
+    "components": [
+      {"part": "戈", "pinyin": "gē", "meaning": "dagger-axe, weapon"},
+      {"part": "口", "pinyin": "kǒu", "meaning": "mouth, enclosed territory"}
+    ],
+    "compositionNote": "或 once pictured a territory (口 with a boundary) defended by a weapon (戈) — 'a state' — later borrowed for the abstract sense of 'or, perhaps'.",
+    "words": [
+      {"word": "或者", "pinyin": "huòzhě", "meaning": "or"},
+      {"word": "或许", "pinyin": "huòxǔ", "meaning": "perhaps, maybe"}
+    ],
+    "poem": [
+      "A weapon (戈) guards a walled-in ground (口),",
+      "a border kept, a boundary found —",
+      "OR (huò) this way, PERHAPS that road,",
+      "two choices on the path you strode."
+    ]
+  },
+  {
+    "char": "者",
+    "pinyin": "zhě",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "耂",
+    "meanings": [
+      {"pos": "particle", "def": "suffix meaning 'one who' or 'the person that' (-er)"}
+    ],
+    "components": [
+      {"part": "耂", "pinyin": "lǎo", "meaning": "old (top shape, used mnemonically)"},
+      {"part": "日", "pinyin": "rì", "meaning": "sun, day"}
+    ],
+    "compositionNote": "者 is commonly remembered as an elder (耂) speaking through the day (日), marking 'the one who' does or says something.",
+    "words": [
+      {"word": "作者", "pinyin": "zuòzhě", "meaning": "author"},
+      {"word": "或者", "pinyin": "huòzhě", "meaning": "or"},
+      {"word": "读者", "pinyin": "dúzhě", "meaning": "reader"}
+    ],
+    "poem": [
+      "An elder (耂) speaks throughout the day (日),",
+      "the ONE WHO (zhě) has so much to say —",
+      "a writer, reader, doer too,",
+      "the suffix marking me and you."
+    ]
+  },
+  {
+    "char": "季",
+    "pinyin": "jì",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "子",
+    "meanings": [
+      {"pos": "noun", "def": "season"},
+      {"pos": "noun", "def": "quarter (three months)"}
+    ],
+    "components": [
+      {"part": "禾", "pinyin": "hé", "meaning": "grain, crop"},
+      {"part": "子", "pinyin": "zǐ", "meaning": "child, the youngest"}
+    ],
+    "compositionNote": "Grain (禾) ripening with the youngest child (子) of the harvest gave 季 its meaning of a recurring season.",
+    "words": [
+      {"word": "季节", "pinyin": "jìjié", "meaning": "season"},
+      {"word": "四季", "pinyin": "sìjì", "meaning": "the four seasons"},
+      {"word": "季度", "pinyin": "jìdù", "meaning": "quarter (of a year)"}
+    ],
+    "poem": [
+      "Grain (禾) ripens where the youngest (子) plays,",
+      "cycling through the turning days —",
+      "each SEASON (jì) brings a fresh new start,",
+      "spring to winter, worlds apart."
+    ]
+  },
+  {
+    "char": "节",
+    "pinyin": "jié",
+    "hsk": 3,
+    "strokes": 5,
+    "radical": "艹",
+    "meanings": [
+      {"pos": "noun", "def": "festival, holiday"},
+      {"pos": "noun", "def": "joint, node, segment"},
+      {"pos": "verb", "def": "to save, to economize"}
+    ],
+    "components": [
+      {"part": "艹", "pinyin": "cǎo", "meaning": "grass (top, from bamboo)"},
+      {"part": "卩", "pinyin": "jié", "meaning": "seal, knee joint (phonetic)"}
+    ],
+    "compositionNote": "Grass/bamboo (艹) above a joint-shaped seal (卩) recalls the segmented nodes of bamboo — a 'joint,' and by extension a festival marking a segment of the year.",
+    "words": [
+      {"word": "春节", "pinyin": "Chūnjié", "meaning": "Spring Festival"},
+      {"word": "节日", "pinyin": "jiérì", "meaning": "festival, holiday"},
+      {"word": "节约", "pinyin": "jiéyuē", "meaning": "to save, economize"}
+    ],
+    "poem": [
+      "Bamboo (艹) bends at a joint (卩) so neat,",
+      "segments marking each repeat —",
+      "a FESTIVAL (jié) node upon the year,",
+      "saving bits to hold them dear."
+    ]
+  },
+  {
+    "char": "记",
+    "pinyin": "jì",
+    "hsk": 3,
+    "strokes": 5,
+    "radical": "讠",
+    "meanings": [
+      {"pos": "verb", "def": "to remember"},
+      {"pos": "verb", "def": "to record, note down"}
+    ],
+    "components": [
+      {"part": "讠", "pinyin": "yán", "meaning": "speech, words"},
+      {"part": "己", "pinyin": "jǐ", "meaning": "self (phonetic)"}
+    ],
+    "compositionNote": "Words (讠) spoken about oneself (己, phonetic) are set down to be recalled later — 'to remember' or 'to record'.",
+    "words": [
+      {"word": "记得", "pinyin": "jìde", "meaning": "to remember"},
+      {"word": "忘记", "pinyin": "wàngjì", "meaning": "to forget"},
+      {"word": "日记", "pinyin": "rìjì", "meaning": "diary"}
+    ],
+    "poem": [
+      "Words (讠) about yourself (己) take shape,",
+      "a memory that won't escape —",
+      "REMEMBER (jì) it, write it down,",
+      "a diary page, a treasured crown."
+    ]
+  },
+  {
+    "char": "检",
+    "pinyin": "jiǎn",
+    "hsk": 3,
+    "strokes": 11,
+    "radical": "木",
+    "meanings": [
+      {"pos": "verb", "def": "to inspect, to examine"}
+    ],
+    "components": [
+      {"part": "木", "pinyin": "mù", "meaning": "wood (originally a wooden tally/tag)"},
+      {"part": "佥", "pinyin": "qiān", "meaning": "all, together (phonetic)"}
+    ],
+    "compositionNote": "A wooden tally (木) checked all together (佥, phonetic) gives 检 its sense of inspection.",
+    "words": [
+      {"word": "检查", "pinyin": "jiǎnchá", "meaning": "to inspect, check"},
+      {"word": "检验", "pinyin": "jiǎnyàn", "meaning": "to test, verify"},
+      {"word": "体检", "pinyin": "tǐjiǎn", "meaning": "physical examination"}
+    ],
+    "poem": [
+      "A wooden tag (木), checked all as one (佥),",
+      "nothing missed before you're done —",
+      "INSPECT (jiǎn) it closely, every part,",
+      "a careful check from the very start."
+    ]
+  },
+  {
+    "char": "查",
+    "pinyin": "chá",
+    "hsk": 3,
+    "strokes": 9,
+    "radical": "木",
+    "meanings": [
+      {"pos": "verb", "def": "to check, to investigate"},
+      {"pos": "verb", "def": "to look up (e.g. in a dictionary)"}
+    ],
+    "components": [
+      {"part": "木", "pinyin": "mù", "meaning": "tree, wood"},
+      {"part": "旦", "pinyin": "dàn", "meaning": "dawn (phonetic)"}
+    ],
+    "compositionNote": "A tree (木) at dawn (旦, phonetic) — originally a tree name, later borrowed for the sense of 'to check' or 'investigate'.",
+    "words": [
+      {"word": "检查", "pinyin": "jiǎnchá", "meaning": "to inspect"},
+      {"word": "查字典", "pinyin": "chá zìdiǎn", "meaning": "to look up in a dictionary"},
+      {"word": "调查", "pinyin": "diàochá", "meaning": "to investigate"}
+    ],
+    "poem": [
+      "A tree (木) stands still at break of dawn (旦),",
+      "waiting there till night is gone —",
+      "CHECK (chá) it closely, page by page,",
+      "investigate at every stage."
+    ]
+  },
+  {
+    "char": "简",
+    "pinyin": "jiǎn",
+    "hsk": 3,
+    "strokes": 13,
+    "radical": "竹",
+    "meanings": [
+      {"pos": "adj", "def": "simple, brief"}
+    ],
+    "components": [
+      {"part": "⺮", "pinyin": "zhú", "meaning": "bamboo (writing slips)"},
+      {"part": "间", "pinyin": "jiān", "meaning": "between, space (phonetic)"}
+    ],
+    "compositionNote": "Bamboo writing slips (⺮) arranged with space between them (间, phonetic) were the earliest 'simple' records — hence 'simple, brief'.",
+    "words": [
+      {"word": "简单", "pinyin": "jiǎndān", "meaning": "simple"},
+      {"word": "简历", "pinyin": "jiǎnlì", "meaning": "resume, CV"},
+      {"word": "简直", "pinyin": "jiǎnzhí", "meaning": "simply, at all"}
+    ],
+    "poem": [
+      "Bamboo slips (⺮) with gaps between (间),",
+      "a stripped-down message, spare and clean —",
+      "SIMPLE (jiǎn) words on a slender page,",
+      "brief and clear from a bygone age."
+    ]
+  },
+  {
+    "char": "单",
+    "pinyin": "dān",
+    "hsk": 3,
+    "strokes": 8,
+    "radical": "丷",
+    "meanings": [
+      {"pos": "adj", "def": "single, individual"},
+      {"pos": "adj", "def": "simple, uncomplicated"},
+      {"pos": "noun", "def": "list, form"}
+    ],
+    "components": [
+      {"part": "丷", "pinyin": "bā", "meaning": "two dots (top, from a forked tool shape)"},
+      {"part": "十", "pinyin": "shí", "meaning": "ten (stylized shaft of the ancient tool)"}
+    ],
+    "compositionNote": "单 originally drew a simple forked hunting tool; its parts no longer carry separate meaning, but together suggest something single and uncombined.",
+    "words": [
+      {"word": "简单", "pinyin": "jiǎndān", "meaning": "simple"},
+      {"word": "菜单", "pinyin": "càidān", "meaning": "menu"},
+      {"word": "单位", "pinyin": "dānwèi", "meaning": "unit, workplace"}
+    ],
+    "poem": [
+      "A forked old tool, one shaft alone (十),",
+      "two dots (丷) above like seeds once sown —",
+      "just SINGLE (dān), simple, one clean part,",
+      "no tangled threads, a plain, clear start."
+    ]
+  },
+  {
+    "char": "健",
+    "pinyin": "jiàn",
+    "hsk": 3,
+    "strokes": 10,
+    "radical": "亻",
+    "meanings": [
+      {"pos": "adj", "def": "healthy, strong"},
+      {"pos": "verb", "def": "to strengthen"}
+    ],
+    "components": [
+      {"part": "亻", "pinyin": "rén", "meaning": "person"},
+      {"part": "建", "pinyin": "jiàn", "meaning": "to build, construct (phonetic)"}
+    ],
+    "compositionNote": "A person (亻) who is well-built (建, phonetic) is strong and healthy.",
+    "words": [
+      {"word": "健康", "pinyin": "jiànkāng", "meaning": "health; healthy"},
+      {"word": "健身", "pinyin": "jiànshēn", "meaning": "to work out, fitness"},
+      {"word": "健忘", "pinyin": "jiànwàng", "meaning": "forgetful"}
+    ],
+    "poem": [
+      "A person (亻) built (建) up strong and true,",
+      "muscles growing, straight of view —",
+      "HEALTHY (jiàn) now, robust and spry,",
+      "fitness reaching for the sky."
+    ]
+  }
+]
